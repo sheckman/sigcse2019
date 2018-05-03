@@ -1,0 +1,221 @@
+submissionopen: false
+submissionurl: "https://easychair.org/conferences/?conf=sigcse2019"
+track1open: false
+track1url: https://easychair.org/conferences/?conf=sigcse2019
+track2open: false
+track2url: https://easychair.org/conferences/?conf=sigcse2019
+track3url: https://easychair.org/conferences/?conf=sigcse2019
+track3open: false
+track4url: https://easychair.org/conferences/?conf=sigcse2019
+track4open: false
+
+#TODO: Fix days of weeks and time and date links
+#  Full  Papers,  Panels,  Special  Sessions  &  Workshops
+track1:
+  timestamp: "2018-09-01T00:23:59"
+  date: "Friday, September 1, 2018"
+
+# Nifty  Assignments,  BoFs,  Posters,  Demos,  Lightning  Talks,  SRC,  Pre­symposium  Events
+track2:
+  timestamp: "2018-10-13T00:23:59"
+  date: "Friday, October 13, 2018"
+
+# Paper Abstract
+track3:
+  timestamp: "2018-11-01T00:23:59"
+  date: "Friday, August 25, 2018"
+
+# presymposiumdates: "Tuesday, March 2nd, 2017"
+# presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
+
+master:
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Paper+Deadline&iso=20170825T2359&p1=3399"
+    track: track3
+    types:
+      - plural: Full Paper Abstracts
+        singular: Paper Abstract
+        include: papers
+
+
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2018"
+    updates:
+    cameraready: "Monday, December 11th"
+    abstractdue: "Friday, August 25, 2018"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170901T2359&p1=3399"
+    abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170825T2359&p1=3399"
+    track: track1
+    types:
+      - plural: Papers
+        singular: Paper
+        include: papers
+
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2018"
+    updates:
+    cameraready: "Monday, December 11th"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170901T2359&p1=3399"
+    track: track1
+    types:
+      - plural: Panels
+        singular: Panel
+        include: panels
+      - plural: Special Sessions
+        singular: Special Session
+        include: specialsessions
+      - plural: Workshops
+        singular: Workshop
+        include: workshops
+
+  - time: "23:59 AoE (Baker Island, UTC-12h)"
+    notification: "Monday, November 27th, 2018"
+    updates:
+    cameraready: "Monday, December 11th"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+SRC+Deadline&iso=20171013T2359&p1=3399"
+    track: track2
+    types:
+      - plural: Student Research Competition
+        singular: Student Research Competition
+        include: src
+      - plural: Pre-Symposium and Affiliated Events
+        singular: Pre-Symposium and Affiliated Event
+        include: presymposium
+      - plural: Birds of a Feather
+        singular: Birds of a Feather
+        include: bofs
+      - plural: Posters
+        singular: Poster
+        include: posters
+      - plural: Lightning Talks
+        singular: Lightning Talk
+        include: lightningtalks
+        new: false
+      - plural: Demos
+        singular: demo
+        include: demos
+        new: false
+      - plural: Nifty Assignments
+        singular: Nifty Assignment
+        include: nifty
+        new: false
+
+# ------------
+  # - time: "23:59 AoE (Baker Island, UTC-12h)"
+  #   notification: "Monday, November 28th, 2017"
+  #   updates:
+  #   cameraready: "Sunday, December 11th"
+  #   link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+SRC+Deadline&iso=20170926T2359&p1=3399"
+  #   track: track3
+  #   types:
+  #     - plural: Student Research Competition
+  #       singular: Student Research Competition
+  #       include: src
+
+  # - time: "23:59 in Pago Pago, American Samoa (UTC-11h)"
+  #   notification: "Tuesday, November 15th, 2017"
+  #   updates:
+  #   cameraready: "TBA"
+  #   link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Pre-Symposum+Deadline&iso=20171101T235959&p1=1033"
+  #   track: track4
+  #   types:
+  #     - plural: Pre-Symposium and Affiliated Events
+  #       singular: Pre-Symposium and Affiliated Event
+  #       include: presymposium
+
+  # - time: "23:59 AoE (Baker Island, UTC-12h)"
+  #   notification: "Monday, November 28th, 2017"
+  #   updates:
+  #   cameraready: "Sunday, December 11th"
+  #   link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2017+BOF%2C+Poster%2C+LT%2C+and+Demos+Deadline&iso=20151023T235959&p1=3399"
+  #   track: track2
+  #   types:
+  #     - plural: Birds of a Feather
+  #       singular: Birds of a Feather
+  #       include: bofs
+  #     - plural: Posters
+  #       singular: Poster
+  #       include: posters
+  #     - plural: Lightning Talks
+  #       singular: Lightning Talk
+  #       include: lightningtalks
+  #       new: false
+  #     - plural: Demos
+  #       singular: demo
+  #       include: demos
+  #       new: false
+
+# Details are keyed off the plural from the "master" above.
+details:
+  Papers:
+    limits: "6 pages"
+    length: "25 minutes"
+  Panels:
+    limits: "2 pages"
+    length: "75 minutes"
+  Posters:
+    limits: "2 pages"
+    abstract: "250 words"
+    connector: "including"
+    length: "2 hours (poster session)"
+  Special Sessions:
+    limits: "2 pages"
+    length: "75 minutes"
+  Workshops:
+    limits: "3 pages (including title page)"
+    connector: "including"
+    abstract: "250 words"
+    length: "3 hours"
+  Birds of a Feather:
+    limits: "1 page"
+    abstract: "250 words"
+    connector: "including"
+    length: "45 minutes"
+  Lightning Talks:
+    limits: "1 page, 500 words max."
+    connector: "including"
+    abstract: "250 words"
+    length: "5 minutes"
+  Demos:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words"
+    length: "45 minutes (during breaks)"
+  #  2 pages (including abstract of 250 words but not including references)
+  Student Research Competition:
+    limits: "2 pages"
+    connector: "including"
+    abstract: "250 words, but not including references"
+    length: "2 hours (poster session)"
+    specialsubmission: true
+  Pre-Symposium and Affiliated Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Morning (8:30-Noon, break 10-10:30 am),
+      Afternoon (1:30-5 pm, break 3-3:30 pm), or
+      All Day (8:30 am-5 pm, lunch, two breaks)"
+    specialsubmission: true
+  Nifty Assignments:
+    limits: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+    length: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
+
+notifications:
+  Student Research Competition: After submission (TBA)
+
+studentResearchCompetition:
+  chair: TBA
+  email: TBA
+
+# FIXME: It would be good to remove these. I don't think I rely on them anymore...
+#papers: "Friday, September 5th, 2014"
+#panels: "Friday, September 5th, 2014"
+#specialsessions: "Friday, September 5th, 2014"
+#workshops: "Friday, September 5th, 2014"
+#studentresearch: "Monday, September 29, 2014"
+#bofs: "Monday, October 27th, 2014"
+#posters: "Monday, October 27th, 2014"
+#lightningtalks: "Monday, October 27th, 2014"
+#demos: "Monday, October 27th, 2014"
+
+html: "sigcse-2019-cfp.html"
+pdf: "sigcse-2019-cfp.pdf"
+lastupdate: "May 3, 2018"
