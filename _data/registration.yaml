@@ -1,0 +1,54 @@
+# improved:
+#   - cat: "Early"
+#     members: 325
+#     nonmembers: 410
+#     date: "Apply through February 8"
+#   - cat: "Late"
+#     members: 375
+#     nonmembers: 460
+#     date: "Apply from February 9 through February 28"
+#   - cat: "CLOSED"
+#     alert: "alert alert-warning"
+#     date: "Closed from March 1 through March 7, while registration packets are prepared"
+#   - cat: "On-site"
+#     members: 425
+#     nonmembers: 500
+#     date: "Available beginning Wednesday, March 8 at 3PM"
+# other:
+#   - category: "K-12 two-day (Friday/Saturday)"
+#     rates: "$160 for early, $195 for late or onsite"
+#   - category: "K-12 one-day (Saturday)"
+#     rates: "$90 for early, $120 for late or onsite"
+#   - category: "Students (at any time)"
+#     rates:  "$70 for ACM/SIGCSE members, $85 for non-members"
+#   - category: "Workshops"
+#     rates: "$75 early; $90 late; $100 onsite"
+
+##comments below are from pre-2018
+
+# Early registration rates --  Apply through February 2.
+#Late registration rates -- Apply from February 3, through February 23.
+#Registration closed -- From February 24 through March 1, while we prepare registration packets
+#Onsite registration -- Available beginning Wednesday, March 2, at 3:00 PM, and as shown above
+
+# deadlines:
+#   - category: "Early"
+#     date: "Apply through February 2nd"
+#   - category: "Late"
+#     date: "Apply from February 3rd through February 23rd"
+#   - category: "ONLINE REGISTRATION CLOSES"
+#     alert: "alert alert-warning"
+#     date: "From February 24th through March 1st, while registration packets are prepared"
+#   - category: "On-site"
+#     date: "Available beginning Wednesday, March 2nd at 3PM"
+
+#deadlines:
+#  - category: "Early"
+#    date: "Closes Sunday, February 1, 2015"
+#  - category: "Late"
+#    date: "Opens Monday, February 2, 2015; <br/>Closes Sunday, February 22, 2015"
+#  - category: "ONLINE REGISTRATION CLOSES"
+#    alert: "alert alert-warning"
+#    date: "Sunday, February 22, 2015"
+#  - category: "On-site"
+#    date: "Rates take effect Monday, February 23, 2015; register at SIGCSE"

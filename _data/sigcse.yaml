@@ -1,0 +1,43 @@
+year: 2019
+slogan: 
+date:
+  month: February
+  start: 27th
+  end: 2nd
+location:
+  city: Minneapolis
+  state: Minnesota
+  country: USA
+airport:
+  code: MSP
+  name: Minneapolis–Saint Paul International Airport
+  url: https://www.mspairport.com/
+  phone: +1-(612)-726-5555
+
+deadlines:
+  - items:
+      - Paper Abstract
+    date: "Friday August 24, 2018"
+  - items:
+      - Full Paper
+      - Panel
+      - Special Session
+      - Workshop
+    date: "Friday August 31, 2018"
+  - items:
+      - Student Research Competition
+    date: "TBA"
+  - items:
+      - Birds of a Feather
+      - Demo
+      - Lightning Talk
+      - Pre-Symposium Events
+      - Poster
+    date: "Friday, October 19, 2018"
+
+registration:
+  isopen: false
+  url: https://www.regonline.com/sigcse2019
+
+volunteers:
+  url: https://www.cs.ubc.ca/~sig-cse/sigcse/user/index.php

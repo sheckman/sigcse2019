@@ -117,14 +117,14 @@
     inst:  University of Washington
     email: publications@sigcse2019.org
 
-  - name: Leen-Kiat Soh
-    role: Database Administrator
-    inst:  University of Nebraska,Lincoln
-    email: database@sigcse2019.org
-
   - name: Mark Sherriff
     role: Database Administrator
     inst:  University of Virginia
+    email: database@sigcse2019.org
+
+  - name: Leen-Kiat Soh
+    role: Database Administrator
+    inst:  University of Nebraska,Lincoln
     email: database@sigcse2019.org
 
   - name: Josh Hug
@@ -169,7 +169,7 @@
 
   - name: Leigh Ann Sudol-DeLyser
     role: K-12 Liaison
-    inst:  CSNYC
+    inst: CS for all NYC Students
     email: k12@sigcse2019.org
 
   - name: Ria Galanos

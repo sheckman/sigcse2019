@@ -1,0 +1,56 @@
+Platinum:
+  - name: GitHub
+    image: github-200.png
+    link: "https://github.com/"  
+  - name: "Google, Inc."
+    image: google-200.png
+    link: "https://www.google.com/edu/cs/"
+  - name: "Infosys Foundation USA"
+    image: infosys-200.png
+    link: "http://www.infosys.org/infosys-foundation-usa/"
+  - name: "Intel"
+    image: intel-200.png
+    link: "https://intel.com/"
+  - name: "Microsoft"
+    image: microsoft-200.png
+    link: "https://microsoft.com/"
+    
+Gold:
+  - name: "Codio"
+    image: codio-200.png
+    link: "https://codio.com/"
+  - name: "IBM"
+    image: ibm-200.png
+    link: "http://ibm.com"
+  - name: "Oracle Academy"
+    image: oracle-200.png
+    link: "http://www.oracle.com/academy/" 
+  - name: "Turing's Craft"
+    image: turingscraft-200.png
+    link: "https://www.turingscraft.com/"
+  - name: "Vocareum, Inc"
+    image: vocareum-new-200.png
+    link: "https://www.vocareum.com/"
+  - name: "zyBooks"
+    image: zybooks-200.png
+    link: "https://www.zybooks.com/"
+
+Silver:
+  - name: ABET
+    image: abet-new-100.png
+    link: "http://www.abet.org/"
+  - name: CodeHS
+    image: codehs-200.png
+    link: "https://codehs.com/"
+  - name: Gradescope
+    image: gradescope-200.png
+    link: "https://gradescope.com/"
+  - name: Mimir
+    image: mimir-200.png
+    link: "http://www.mimirhq.com"
+
+Bronze:
+  - name: Red Hat Academy
+    image: rha-200.png
+    link: "https://www.redhat.com/en/services/training/red-hat-academy"
+

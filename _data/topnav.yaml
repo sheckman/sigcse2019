@@ -1,0 +1,167 @@
+- name: For Authors
+  subheads:
+  # - name: Best and Exemplary Papers
+  #   link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
+  #   divider: true
+  - name: Call for Participation
+    link: /info/cfp.html
+  - name: Important Dates
+    link: /authors/index.html
+  - name: Submission Guidelines
+    link: /authors/index.html
+  - name: Frequently Asked Questions
+    link: /authors/faq.html
+  - name: Papers
+    link: /authors/papers.html
+  - name: Panels
+    link: /authors/panels.html
+  - name: Special Sessions
+    link: /authors/specialsessions.html
+  - name: Workshops
+    link: /authors/workshops.html
+  - name: Student Research Competition
+    link: /authors/src.html
+  - name: BoFs
+    link: /authors/bofs.html
+  - name: Posters
+    link: /authors/posters.html
+  - name: Lightning Talks
+    link: /authors/lightningtalks.html
+  - name: Demos
+    link: /authors/demos.html
+  - name: Pre-Symposium and Affiliated Events
+    link: /authors/presymposium.html
+  - name: Nifty Assignments
+    link: /authors/nifty.html
+    divider: true
+  # - name: Conference Proceedings
+  #   link: http://dl.acm.org/citation.cfm?id=3017680
+  #   divider: true
+  - name: 2019 Call for Participation
+    link: /docs/SIGCSE2019CFP-final.pdf
+- name: For Reviewers
+  subheads:
+  - name: Bidding on Papers
+    link: /reviewers/review-bidding.html
+    divider: true
+  - name: Process for Papers
+    link: /reviewers/review-process.html
+  - name: Process for Workshops
+    link: /reviewers/review-workshops.html
+  - name: Process for Special Sessions
+    link: /reviewers/review-special-sessions.html
+  - name: Process for Panels
+    link: /reviewers/review-panels.html
+  - name: APC Responsibilities
+    link: /reviewers/apc-responsibilities.html
+    # - name: Reviewer Signup
+    #   link: /reviewers/signup.html
+- name: For Attendees
+  subheads:
+  - name: Venue Information
+    link: /attendees/index.html
+  - name: Registration and Rates
+    link: /attendees/index.html#registering    
+  - name: Hotels
+    link: /attendees/index.html#reserving-a-room
+  - name: Roommate Database
+    link: /attendees/index.html#roommatedb
+  - name: Transportation
+    link: /attendees/index.html#travel
+  - name: Conference Policies
+    link: http://sigcse2019.sigcse.org/policies.html
+  - name: Student Volunteers
+    link: /info/studentvolunteers.html
+    divider: true
+  - name: SIGCSE 2019 Full Schedule
+    link: http://sigcse2019.sigcse.org/agenda.html
+  - name: SIGCSE 2019 At-A-Glance
+    link: /attendees/at-a-glance.html   
+  - name: SIGCSE 2019 Best Papers
+    link: /attendees/bestpapers.html
+  - name: Presenter Information
+    link: /attendees/presenter.html
+  #- name: Conference Program
+  #  link: http://easychair.org/smart-program/SIGCSE2018/
+  - name: Workshops
+    link: /attendees/workshops.html   
+    divider: true
+  - name: Baltimore Visitor Information
+    link: /attendees/visitor-info.html
+  
+    # - name: Online Program
+    #   link: http://easychair.org/smart-program/SIGCSE2017/
+    # - name: Final Program (PDF)
+    #   link: /docs/sigcse2017-program.pdf
+    # - name: Best and Exemplary Papers
+    #   link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
+    # - name: Pre-Symposium Events
+    #   link: /attendees/presymposium.html
+    # - name: Supporter Sessions
+    #   # link: /attendees/supporters.html
+    #   link: /attendees/supporters.html
+
+    # - name: BOFs
+    #   link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:13076
+    # - name: Poster Session I
+    #   link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12960
+    # - name: Poster Session II
+    #   link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12962
+    # - name: Lightning Talks
+    #   link: http://easychair.org/smart-program/SIGCSE2017/index.html#session:12951
+    #   divider: true
+    # - name: Conference Proceedings
+    #   link: http://dl.acm.org/citation.cfm?id=3017680
+    #   divider: true
+  - name: Kids' Camp
+    link: /attendees/kidscamp.html
+    #   divider: true
+
+- name: For Exhibitors
+  subheads:
+    - name: Prospectus
+      link: /info/supporters.html
+    #- name: List of Supporters and Exhibitors
+    #  link: /info/supporters-and-exhibitors.html
+#- name: Program
+#  subheads:
+#    - name: Coming Soon
+#      link: "#"
+  # - name: Keynote and Award Speakers
+  #   link: \#
+  # - name: Overview
+  #   subheads:
+  #   - name: At-a-glance
+  #     link:  \#
+  #   - name: Strands (K-12, CER, ...)
+  #     link: \#
+  #   - name: Workshops
+  #     link: \#
+  #   - name: Panels
+  #     link: \#
+  #   - name: Special Sessions
+  #     link:  \#
+  # - name: Interactive Program
+  #   link: \#
+  # - name: Special Activities
+  #   subheads:
+  #   - name: K-12 Highlights
+  #     link: \#
+  #   - name: Community College Educators
+  #     link:  \#
+  #   - name: Kids Camp
+  #     link: \#
+  # - name: Information for presenters
+  #   link: \#
+- name: Committee
+  subheads:
+    - name: Symposium Co-Chairs
+      link: /info/committees.html#SymposiumCo-Chairs
+    - name: Program Co-Chairs
+      link: /info/committees.html#ProgramCo-Chairs
+    - name: Organizing Committee
+      link: /info/committees.html#OrganizingCommittee
+    - name: International Committee
+      link: /info/committees.html#InternationalCommitteeMembers
+    - name: Associate Program Chairs
+      link: /info/committees.html#ProgramCommittee

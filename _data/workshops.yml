@@ -1,0 +1,372 @@
+﻿# - number: 101
+#   easychair: 140
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: Programming for the Humanities – a Whirlwind Tour of Assignments for the CS1 Course
+#   room: 301
+#   presenters: Brian Kokensparger and Wade Peyou, Creighton University
+#   abstract: Digital Humanities (DH) seeks to use computer technology and algorithms to assist and support traditional humanities research methods. Particularly in smaller institutions, CS instructors are sometimes tasked with modifying CS1 courses to teach introductory programming for the Digital Humanities. Training computer science students in DH programming methods may also have some additional benefits, such as bringing more women into computing, and helping in the recruitment and retention of CS students overall. In both higher education and secondary education settings, DH projects may also provide Community-Based Service-Learning opportunities that will give students experiential learning opportunities not provided in industry. The presenters have developed six assignments in Python that are oriented towards DH topics while still providing CS students solid experiences in core programming concepts. This workshop introduces the participants to five of the assignments and gives them immersive abbreviated experiences in each. The topics include Computing Change over Time (calculating burials in a historic cemetery), Visualization of Change over Time (visualizing the burials in the historic cemetery), Textual Analysis (finding word frequencies and “stop words” in public domain texts), Stylometrics (comparing measured features of graphic images), and Social Network Analysis (analyzing extended relationships in historic social circles). A balance of direct coding experience and discussion of gotchas and best practices in classroom management will give workshop participants confidence in offering and managing these assignments in their own classrooms. Participants should bring a laptop/keying-friendly mobile device that has a Python 3.x IDE already installed, and some familiarity with the Python language.
+
+
+
+# - number: 102
+#   easychair: 605
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: Programming web services on the cloud with Node.js
+#   room: 302
+#   presenters: Ariel Ortiz, Tecnologico de Monterrey, Campus Estado de México
+#   abstract: Node.js is one of the hottest open source web platforms currently available. It's used by companies like PayPal, DowJones, Walmart, Netflix, and Yahoo. Node.js allows you to use JavaScript to write all kinds of network servers in just a few lines of code, definitely easier than using other platforms based on languages such as C++, C# or Java. If you know how to use JavaScript on the front end (i.e., the browser), it's a breeze to use it on the back end (i.e., the server). This workshop is aimed at CS instructors that wish to teach students how to use and write RESTful web services (a.k.a. web APIs) using Node.js on a cloud platform. The only thing you need is a computer with a modern web browser and a Wi-Fi connection. Participants will use the free service provided by the Cloud9 platform (https://c9.io/) to learn how to write scalable web services using Node.js, the Express web framework, MySQL, and Ajax via jQuery. Web services allows us to build powerful web based applications using data from multiple online sources. And, by using a cloud platform, we have all our tools readily available through a web browser, thus eliminating the hassle related to installing a complete and fully functional web development environment. Participants are expected to have a working knowledge of JavaScript, SQL and HTML. Additional information available at http://node.arielortiz.info/ Laptop required.
+
+
+
+# - number: 103
+#   easychair: 601
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: Introducing Secure Coding in Undergraduate (CS0, CS1, and CS2) and High School (AP Computer Science A) Programming Courses
+#   room: 303
+#   presenters: Siddharth Kaza and Blair Taylor, Towson University
+#   abstract: The ACM CS 2013 curriculum includes Information Assurance and Security as a pervasive knowledge area, the ACM Community College curricular guidelines, CSTransfer2017, places great emphasis on cybersecurity as well. However, introducing security in introductory programming courses is challenging because of lack of appropriate teaching resources and training. This workshop will provide a well-tested strategy for introducing secure coding concepts in CS0, CS1, CS2, and AP CS A classes. We will introduce attendees to secure coding through hands-on exercises, and provide self-contained, lab-based modules designed to be injected into CS0-CS2 with minimal impact on the course (www.towson.edu/securityinjections). Participants will be encouraged to bring in their own syllabus and labs to modify to include learning objectives focused on cybersecurity based on ACM and CAE guidelines. Laptop recommended. 
+
+
+
+
+# - number: 104
+#   easychair: 596
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: Successfully Engaging Early Undergraduates in CS Research
+#   room: 314
+#   presenters: Christine Alvarado, University of California San Diego; and Neil Spring, University of Maryland
+#   abstract: Engaging undergraduates in research has been shown to improve retention, increase students’ sense of science identity, and increase the chances that they will continue to graduate school. Yet many undergraduates don’t participate in research until very late in their undergraduate program, while the majority of undergraduates don’t participate in research at all. On the other hand, many faculty are eager and willing to do research with undergraduates, but are unsure how to mentor and supervise them, particularly early undergraduates who may have very little specific technical knowledge and skills. This workshop will provide participants with concrete skills and techniques for engaging early undergraduates (freshmen and sophomores) in real research projects, and, if desired, for developing or growing a department-wide early undergraduate research program. Participants will engage in hands-on activities where they will learn how to develop appropriately scoped research projects, manage and mentor early undergraduates successfully, and teach core research skills like reading research papers and writing research proposals. The workshop will also cover how to mitigate specific challenges faced by students from groups underrepresented in computer science. The materials presented in this workshop are based on the successful Early Research Scholars Program at UC San Diego (ersp.ucsd.edu), which is entering its fourth year, and engages 40 second-year students per year--the majority of whom are women and/or students from underrepresented racial or ethnic groups--in academic-year research apprenticeships.
+
+
+
+# - number: 105
+#   easychair: 47
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "Learning Discrete Structures Interactively with Alloy"
+#   room: 315
+#   presenters: Charles Wallace, Michigan Technological University
+#   abstract: This workshop presents a novel approach to teaching the mathematical foundations of computing commonly known as Discrete Structures. Following the common model of the programming lab, we provide interactive learning experiences in relational algebra, predicate logic, and graph theory that are both human- and computer-mediated. Students use the Alloy language and analyzer to express constraints in formal mathematical notation and search for models that satisfy the constraints. Alloy is an industrial-strength tool, but with careful scaffolding even students in introductory discrete structures can benefit from highly interactive and visual guided explorations mediated through Alloy code. We design exercises carefully to take students from observers of Alloy program behavior to tweakers of established code and later to builders of their own code.  We find that the feedback provided by the Alloy Analyzer eliminates common misconceptions among students. Compared to a traditional approach where students simply submit written answers to homework problems, students working on Alloy problems get immediate critique of the well-formedness and satisfiability of their responses. The interactive nature of Alloy allows them to explore, discover new concepts, and challenge their assumptions with unexpected corner cases. After an introduction to Alloy, teams of workshop participants will engage in learning activities in discrete structures, using the Alloy tool for exploration and application of concepts. Teams will reflect on their experiences and comment on the applicability of this socio-technical learning approach in their own teaching contexts. 
+
+
+
+# - number: 106
+#   easychair: 123
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "Designing Empirical Education Research Studies (DEERS): Creating an Answerable Research Question"
+#   room: 318
+#   presenters: Mark Sherriff, University of Virginia; Sarah Heckman, North Carolina State University; and Jeffrey Carver, University of Alabama
+#   abstract: One of the most important, and difficult, aspects of starting an education research project is identifying an interesting, answerable, repeatable, measurable, and appropriately scoped research question. The lack of a valid research question reduces the potential impact of the work and could result in wasted effort. The goal of this workshop is to help educational researchers get off on the right foot by defining such a research question. This workshop is part of the larger Designing Empirical Education Research Studies (DEERS) project, which consists of an ongoing series of workshops in which researcher cohorts work with experienced empirical researchers to design, implement, evaluate, and publish empirical work in computer science education. In addition to instruction on the various aspects of good research questions, DEERS alumni will join us to mentor attendees in development of their own research questions in small group breakout sessions. At the end of the workshop, attendees will leave with a valid research question that can then be the start for designing a research study. Attendees will also receive information on how to apply to attend the full summer workshop, where they can fully flesh out the empirical study design, and join a DEERS research cohort. More information about DEERS can be found at http://empiricalcsed.org.
+
+
+
+# - number: 107
+#   easychair: 677
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "Codecast: create your own in-browser coding tutorials for any programming language or interactive tutorials for C and Arduino."
+#   room: 319
+#   presenters: Remi Sharrock, Telecom ParisTech; Baptiste Gaultier, Telecom Bretagne; Petra Taylor, Michael Goudzwaard, Dartmouth College; Mathias Hiron, France-ioi; and Ella Hamonic, IMT
+#   abstract: Any CS educator has to explain sooner or later a portion of code or a structured text to learners. The Codecast tool http://www.codecast.info has been specially designed by CS educators and developed initially for MOOCs to replace non-interactive screencasts. This workshop is a hands-on lab to Codecast - an open-source innovative tool to create in-browser interactive coding tutorials. Codecast supports syntax highlighting for over 110 languages and as of 2017 can compile/interpret and execute a subset of the C and Arduino languages. In this workshop, participants will explore how, using our Codecast tool, a CS educator can explain the creation of a computer program while their audio as well as their interactions with the code editor and interpreter are being recorded for interactive playback. Workshop participants will furthermore experience how different aspects of the coding process like testing, running, debugging and optimizing can be illustrated with the help of several data, memory and algorithm visualization modules. Participants will create recordings and experience how they can be played back interactively (like learners) by taking control over and modify the coding process at any time. Codecast enables the learner to interact directly with the code and experiment with different ideas while listening to the instructor’s explanation. The learner can make changes to the code, test it with different inputs, run the code step-by-step to better understand its behavior and visualize other parts of the algorithm or the data. Workshop participants will also integrate their creations in their online curricula.
+
+
+
+# - number: 108
+#   easychair: 319
+#   cancelled: true
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "The Nand to Tetris Course: Building a Modern Computer from First Principles"
+#   room: 320
+#   presenters: Shimon Schocken, IDC Herzliya
+#   abstract: We present a full semester course in which students build a complete computer system - hardware and software - from the ground up. Also known as "Nand to Tetris", the course is presently taught at 100+ universities, and is listed in Coursera's top-rated courses. The course synthesizes many abstractions, algorithms, and data structures learned in CS courses, and makes them concrete by building a complete computer system from first principles. The methodology is based on guiding students through a set of 12 homework assignments that gradually construct and unit-test a simple hardware platform and a modern software hierarchy, yielding a surprisingly powerful computer system. We’ll start the workshop by demonstrating some interactive computer games running on this platform. The hardware projects are done in a simple hardware description language and a hardware simulator supplied by us. The software projects (assembler, VM, compiler and OS) can be done in any language, using API's and test programs supplied by us. The result is a general-purpose computer system, simulated on the student's PC. The course is completely self-contained, requiring only programming as a pre-requisite. Also, it is highly modular, and can be viewed as a set of 12 exciting, stand-along homework assignments. The course and the workshop assume no specific knowledge of, or bent for, computer organization/architecture, and are aimed at any instructor who wishes to strengthen his or her courses with engaging programming projects and with a hands-on understanding of how modern computer systems work, and how they are built.
+
+
+
+# - number: 109
+#   easychair: 564
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: LEGO-based Active Learning Exercises for Teaching Software Development
+#   room: 321
+#   presenters: Stan Kurkovsky, Central Connecticut State University; and Stephanie Ludi, University of North Texas
+#   abstract: LEGO is a construction toy familiar to many students. Creating software, regardless of scale, is often similar to building with tangible objects, such as houses or bridges--an analogy that is often used in the classroom. In this workshop, we will show how to use LEGO bricks as a surrogate representing the lines of code, software objects, or other artifacts in the process of constructing software systems in order to better explain these concepts. LEGO-based analogies and case studies enacted as hands-on exercises for student teams help develop a better understanding of the underlying concepts, while keeping students deeply engaged in the course material. This workshop is intended for faculty teaching undergraduate and graduate courses focusing on software development, software engineering, and related concepts. This workshop will also benefit other educators looking for ways to supplement their courses with engaging and playful hands-on activities aimed to strengthen the teamwork, oral communication, problem solving, and design skills of students. We will practice several hands-on LEGO-based activities during the workshop. Specific topics of these activities will include change management and object-oriented interfaces, as well as activities specific to the phases of software development. Workshop participants will learn about other LEGO-based activities that focus on a broad range of topics including requirements engineering, architectural design, and software dependability. A laptop is not required for this workshop. This work is supported in part by the National Science Foundation Awards 1611905, 1709244 and a 2015 ACM SIGCSE Special Project grant. For more information visit http://www.cs.ccsu.edu/~stan/sigcse2018/
+
+
+
+# - number: 110
+#   easychair: 640
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "Playing to Learn: Using Hands-on Activities to Boost Learning in Computer Science"
+#   room: 322
+#   presenters: Karen Anewalt and Jennifer Polack, University of Mary Washington
+#   abstract: Active learning techniques are widely reported to enhance student learning and increase student engagement. They provide a powerful tool to reinforce course concepts and allow students with diverse backgrounds and learning styles to master essential concepts efficiently. In addition, many students and faculty find hands-on activities to be fun and memorable. Workshop attendees will participate in five hands-on activities covering concepts that are commonly taught in introductory programming courses including variable declaration, object instantiation, parameter passing, memory management, and the software development process. Workshop participants will be challenged to create additional activities to be included in an online repository. Instructors of introductory programming courses at the undergraduate and K12 level who are interested in creating memorable learning experiences using free and low-cost props will find this participatory workshop to be relevant to their teaching. Come ready to play!
+
+
+# - number: 111
+#   easychair: 646
+#   order: 0
+#   date: Wednesday, February 21, 7:00 pm - 10:00 pm
+#   title: "Geographic Information Systems (GIS): Opportunities of Spatial Data Processing for Computer Science Education"
+#   room: 323
+#   presenters: Ali Erkan and John Barr, Ithaca College
+#   abstract: A Geographic Information System (GIS) allows us to work with data explicitly associated with locations on earth. However, the functions of a GIS are broader and more sophisticated than those of an electronic map. A GIS is an analysis tool; it is a visual and relational database to work with multiple sources of data to reveal insights missing in single layer representations.  GIS has proved to be a disruptive technology and disciplines ranging from environmental sciences to history have signiﬁcantly gained from it. However, we believe approaching GIS from a CS perspective is mostly unexplored and stands to gain from the pedagogical progress we have made in our conventional courses (both to inject new projects into existing courses and to create new courses). GIS can also draw more attention to CS, especially with respect to members of underrepresented groups and those who are looking for meaningful applications of computing in the social sciences and humanities.  This workshop has three goals. First, we introduce a representative set of GIS operations so that participants understand the computational potential of this technology. Second, we outline, through examples, the virtues of a computational perspective on GIS to reveal the algorithmic core of many spatial problems. Third, we outline, with datasets from repositories like http://www.kaggle.com, how meaningful spatial exercises can be created for students that focus on socio-economic levels, education/income distributions, voter turnout, etc. All exercises are based on a popular open source GIS called QGIS.
+
+
+
+# - number: 301
+#   easychair: 614
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Teaching Parallel & Distributed Computing with MPI on Raspberry Pi Clusters"
+#   room: 301
+#   presenters: Richard Brown, St. Olaf College; Joel Adams, Calvin College; Suzanne Matthews, United States Military Academy; and Elizabeth Shoop, Macalester College
+#   abstract: CS2013 brings parallel and distributed computing (PDC) into the CS curricular mainstream. The Message Passing Interface (MPI) is a platform independent, industry-standard library for parallel and distributed computing. The MPI standard includes support for C, C++, and Fortran; third parties have created implementations for Python and Java. This hands-on workshop introduces MPI basics and applications in C/C++ using Raspberry Pi single-board computers, as an inexpensive and engaging hardware platform for studying PDC. The workshop includes - (i) personal experience with the Raspberry Pi (units provided) accessed via participant laptops (Windows, Mac, or Linux); (ii) assembly of Beowulf clusters of Raspberry Pis quickly in the classroom; (iii) self-paced hands-on experimentation with the working MPI programs; and (iv) a discussion of how such clusters can be used to engage students in and out of the classroom. Participants will experience how to teach distributed computing essentials with MPI by means of reusable, effective “parallel programming patterns,” including single program multiple data (SPMD) execution, send‐receive message passing, the master-worker, parallel loop, and other common patterns. Participants will then explore more in-depth “exemplar” applications, such as drug design and epidemiology. All materials including the Raspberry Pi software system setup from this workshop will be freely available from CSinParallel.org. No prior experience with MPI, PDC, or the Raspberry Pi is required.
+
+
+
+# - number: 302
+#   easychair: 579
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Chrome Home: Six Fun Activities Introducing Basic Web Programming Techniques"
+#   room: 302
+#   presenters: Denise M. Case and Douglas Hawley, Northwest Missouri State University
+#   abstract: This workshop will provide participants with several small, fun classroom activities culminating in a useful web-based application that allows individuals to fully customize the page resulting from opening a new tab in Google Chrome. Attendees will participate in, and receive Canvas lessons introducing popular web-based techniques including HTML, JSON, Cascading Style Sheets, JavaScript and Google Chrome extension creation and distribution. The workshop proceeds in six short lessons in which we will - (1) download and install all software required, (2) introduce basic concepts in HTML, (3) create and link cascading style sheets, (4) construct a JavaScript file implementing some basic, and fun logic constructs into our web page, (5) create a JSON manifest file that allows our application to run as a Google Chrome extension, and (6) make our extension available to the public in the chrome web store. With these lessons, participants will be able to create a universal “New Tab” page for their school with Google Chrome. This page can be re-customized and re-distributed by anyone taking these six lessons.
+
+
+
+# - number: 303
+#   easychair: 672
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Introducing bioinformatics algorithms in computer science courses"
+#   room: 303
+#   presenters: Sami Khuri, San Jose State University	
+#   abstract: The workshop is intended for CS educators who would like to get an overview of some of the major techniques used in bioinformatics and a hands-on experience with some of its most popular algorithms. Attendees will be exposed to topics, examples, and problems that can be added to their repertoire of projects for CS1/CS2, data structures and algorithms, and other CS courses, including bioinformatics. No prior knowledge of biology is needed. Whether in an elective bioinformatics course, or in introductory or data structures and algorithm classes, the attendees will be able to incorporate the topics presented in the workshop. We consider interdisciplinary problems drawn from the field of biology. After formulating them as computational problems, we use traditional algorithmic techniques to solve them. The workshop may also be appropriate for high school teachers who want to use bioinformatics as a domain for their programming assignments. All material, including lecture notes, sample programs, hands-on exercises, and links to visualization packages, will be available to the attendees through our university's web page. The hands-on exercises using online publicly available tools will enhance the understanding of the common bioinformatics tasks.
+
+
+# - number: 304
+#   easychair: 568
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Code Crafters Curriculum: A Textile Crafts Approach To Computer Science"
+#   room: 314
+#   presenters: Ursula Wolz, Bennington College; Gwen Charles, Texile Study Group of New York; Laura Feire, RiverSound Solutions; and Eleanor Nicolson, Grinnell College
+#   abstract: Broadening participation in computing invites a diverse constituency into a traditional computing culture. This workshop provides a novel perspective - skills that are often labeled ‘women’s work’ are the foundational principles of computer science developed from textile crafts. The 'Code Crafters' curriculum, which expands Andrea Mayer’s Snap-based TurtleStitch embroidery programming project, is being successfully taught in 3 ways - as a full semester undergraduate course, as a weeklong summer workshop for middle and high school students, and as a half day event. The SIGCSE workshop will introduce participants to potential adaptations of this curriculum, report on its use as both a CS 0, and CS 1 course, and give participants hands-on experience in designing and rendering a machine embroidery pattern in TurtleStitch and Processing Stitch (Java). Key concepts from the full semester curriculum will be demonstrated - (1) crocheting as a vehicle for learning about primitive operations instruction codes for process control, and reading and writing patterns (algorithms); (2) programing machine embroidery provides exposure to agile design; (3) contrasting embroidery with quilting provides experience in abstraction and reuse; (4) weaving and tapestry provide concrete illustrations of manipulating two dimensional data structures; (5) studying embroidery machine file formats demonstrates how language translation takes place; (6) sharing a limited resource (a $500 programmable, single thread embroidery machine) provides concrete experience in scheduling, and product testing; (7) collaborative crochet and quilted projects provide experience in team dynamics. Participants in this workshop will be invited to join an online community of mutual support. 
+
+
+
+# - number: 305
+#   easychair: 615
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Deep Learning in the Classroom"
+#   room: 315
+#   presenters: Douglas Blank, Bryn Mawr College; Lisa Meeden, Swarthmore College; and James B. Marshall, Sarah Lawrence College
+#   abstract: This workshop is a hands-on exploration of Deep Learning techniques and topics for use in the classrooms of Computer Science and related fields. Deep Learning denotes the latest in a series of advances in neural network training algorithms and hardware that allow Artificial Neural Networks (ANNs) to learn quickly and effectively, even with many, stacked layers. These types of networks can be applied to almost any learning problem, such as driving a car, describing images, controlling a robot, or understanding language. This workshop will start with the mathematical and algorithmic foundations of Deep Learning, and introduce an accessible Python-based library, called "conx," which is based on the Keras library and was developed by the workshop instructors. The workshop will demonstrate ideas through animation and visualizations, examine the path to advanced topics, and explore ideas for incorporating Deep Learning topics into the classroom. The workshop is designed to allow participants to gain a foothold with these complex topics, and to help them develop their own materials for teaching. Workshop materials will be made freely available before the workshop as Jupyter notebooks.
+
+
+
+# - number: 306
+#   easychair: 664
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Organizing a High School Programming Contest"
+#   room: 316
+#   presenters: Aaron Bloomfield, University of Virginia; Blythe Samuels, Powhatan High School; and Andrew Norton, University of Virginia
+#   abstract: This workshop will show participants how to host a successful programming competition aimed at high school students, and will also be broadly applicable to collegiate level competitions. These contests encourage high school students to major in computer science and can have a positive effect on the recruitment for the host institution. In addition, our anecdotal evidence has shown a high participation rate from under-represented groups at such contests. Running a successful contest, however, is a challenging endeavor. With potentially hundreds of people attending -- both students and coaches -- there are many logistical issues to address. Beyond that, generating an appropriate problem set and ensuring the contest submission system that runs smoothly are critical to a successful event. A poorly run contest can do more harm than good, as the participants will leave with a negative view of the contest, the institution, and possibly even the field. The workshop will cover problem generation and submission system usage, as well as provide discussions and handouts covering all the logistical aspects for hosting such a high school contest. Documentation covering all aspects of the contest will be provided to participants. The workshop organizers include a faculty advisor, a high school coach, and a former student who both participated in -- and later ran -- the contest. At least one organizer has been in every one of the roles in this type of contest. We have successfully run seven such contests, with the last four having 200 high school contestants.
+
+
+
+# - number: 307
+#   easychair: 584
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Guiding Students to Discover CS Concepts & Develop Process Skills Using POGIL"
+#   room: 318
+#   presenters: Helen Hu, Westminster Colleged; Clifton Kussmaul, Muhlenberg College; and Chris Mayfield, James Madison University
+#   abstract: This workshop introduces Process-Oriented Guided Inquiry Learning (POGIL) to anyone who teaches CS or related subjects. In a POGIL classroom, teams of 3-4 learners work on activities with a particular structure based on learning cycles. Through scripted inquiry and investigation, learners discover concepts and construct their own knowledge. Using assigned team roles and other scaffolding, learners develop process skills and individual responsibility. The teacher is not a lecturer, but an active facilitator who helps all students to be engaged and achieve the learning objectives. POGIL is an evidence-based approach, and has been shown to significantly improve student performance [2,3]. Workshop participants will work through POGIL activities as students, and work through POGIL meta-activities that are designed to help teachers learn core POGIL concepts, practices, and benefits. We will share POGIL materials for a variety of CS courses and concepts. For more information, see http://IntroCSpogil.org and http://pogil.org, including activities for CS1, CS2, and other courses. Laptops optional.
+
+
+
+# - number: 308
+#   easychair: 582
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Integrating Social Justice Topics into CS1"
+#   room: 319
+#   presenters: Colleen Lewis, Eleanor Rackoff, Emily Cao, Harvey Mudd College; Saber Khan, The Browning School; Cynthia Lee, Stanford University; and Saturnino Garcia, University of San Diego
+#   abstract: Meaningful and engaging assignments are important to retention in CS. An interesting problem context may be able to make routine practice of programming basics more interesting for students. Problem contexts also provide the opportunity to bring in content related to social justice topics, which are important for providing students a well-rounded education. We have developed eight homework assignments that integrate social justice topics as the problem context for CS1 assignments. Workshop attendees will work in small groups to revise or adapt existing assignments, translate existing assignments into the language of their course, or develop a new assignment. Attendees will be encouraged to submit their work to Nifty Assignments for 2019 and NCWIT's peer-reviewed curriculum repository, Engage CS Edu (engage-csedu.org). All assignments will be posted on CSTeachingTips.org to be shared with the community. 
+
+
+
+# - number: 309
+#   easychair: 613
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Building a Virtual Challenge-Based Learning Environment"
+#   room: 320
+#   presenters: Joe Chase and Prem Uppuluri, Radford University
+#   abstract: Challenge-Based Learning (CBL) is an active learning approach using just-in-time instruction where students are introduced to instructional material in the context of solving a particular challenge. The CBL approach has proven very effective as an introductory instructional strategy, especially when working with K-12 outreach. For example, in Cybersecurity, many universities are reaching out to high school and community college students using Capture the Flag contests with learning materials built in for each challenge. In this workshop, we will explore building just such a virtual, challenge-based, contest environment. Workshop participants will walk through the process of setting up the Mellivora contest environment, be given the opportunity to create challenges of their own, and be provided with a tutorial on the administrative tools available. Similarly, participants will be provided an introduction to the installation and management of a virtual environment that will provide virtual machines of various platforms (Windows, Linux, etc.) for the challenges. Participants will also be provided a brief overview of the creation of short, high-impact instructional materials to accompany challenges. Finally, participants will compete in a short Capture the Flag contest to demonstrate the efficacy of the CBL approach.
+
+
+
+# - number: 310
+#   easychair: 565
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Playing to Your Strengths: Appreciative Inquiry as a Scholarly Tool for Your Computing Education Practice and Professional Development"
+#   room: 321
+#   presenters: Meghan Allen, Steven A. Wolfman, and Anasazi Valair; The University of British Columbia
+#   abstract: In this workshop, we as a group use Appreciative Inquiry (AI) techniques to explore and develop our strengths as CS educators. As a participant, you will gain appreciation for your strengths as an educator, with concrete plans for building on these strengths. You will also learn about AI as a qualitative research methodology that is complementary to more common CS research methodologies, and that you can apply to evaluate and improve your own educational practice. Appreciative Inquiry drives change by building on what’s already working well in an organization. Similarly to other qualitative methods, AI generates rich, deep feedback that is grounded in stakeholders’ experiences, but in contrast to other methods its focus on strengths and positives surface unique, strength-based findings and make it an energizing and fulfilling approach to professional development and the scholarship of teaching and learning. AI is commonly used in education and organizational research and is an effective and community-building way to drive organizational or program change and positively impact participants’ morale. We will share our materials and key tips to enable you to apply Appreciative Inquiry in your own work. You may wish to run Appreciative Inquiry workshops with students as an evaluation method, or run them with colleagues for professional development or for promoting positive change in your unit or program, or take smaller steps integrating the appreciative mindset into your teaching or other professional work.
+
+
+
+# - number: 311
+#   easychair: 639
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "CSforAll School District Implementation Facilitators Workshop: Just Follow the SCRIPT!"
+#   room: 322
+#   presenters: Jumee Song, CSNYC; and Leigh Ann Delyser, NYC Foundation for CS Education
+#   abstract: The SCRIPT, the School CSforALL Resource & Implementation Planning Tool, is a new tool created by the CSforALL Consortium that will serve as a framework and platform to guide CSforALL advocates and district staff in the creation of CSforALL implementation plans that adhere to CSforALL values and reflect the unique needs and goals of any school district. The SCRIPT engages school districts in self reflection, review of examples, and goal setting for 6 areas designed from the literature supporting curriculum adoption and organizational change. These areas include - (1) Leadership, (2) Technology Infrastructure, (3) Teacher Capacity, (4) Curriculum and Materials Selection and Refinement, (5) Partners, and (6) Community. The goal of this workshop is to train any CSforALL advocate to be able to lead a school district in an implementation planning session to create a K-12 district wide computer science education plan, by following the SCRIPT.
+
+
+
+# - number: 312
+#   easychair: 561
+#   order: 1
+#   date: Friday, February 23, 7:00 pm - 10:00 pm
+#   title: "Customizing a Field Experience for CS Undergraduates in Teaching Computer Science"
+#   room: 323
+#   presenters: Lori Pollock, Chrystalla Mouza, James Atlas, and Terry Harvey, University of Deleware
+#   abstract: This workshop’s goal is to help faculty who want to establish a course (or alternate vehicle) intended to mentor undergraduates, with some computer science background, interested in teaching K-12 computer science in local schools. The workshop leverages the experiences and lessons learned from a University course, Field Experience in Teaching Computing, which has been offered by the organizers for ten consecutive semesters. The course meets once a week on campus for mentoring to support the undergraduates’ field experience in local schools and libraries and is aligned with service-learning expectations on campus. The workshop will dive deep into logistics on how to establish and maintain strong teacher partnerships, including student-teacher matches and weekly field experience schedules, weekly in-class activities and assignments to support the field experience, weekly student reflective journal prompts, and surveys for formative evaluation. Participants will actively reflect on their own contexts with potential opportunities and challenges, and organizers will facilitate small group discussions of how to address the challenges, different models for different contexts, and how to get started. Participants would leave with a plan for next steps toward offering a mentored undergraduate field experience in teaching computer science. They would also establish access to a community of faculty who are working to help broaden participation in computer science in K-12 while providing opportunities for undergraduates to hone their communication and leadership skills, increase their self confidence, and participate in giving back to the community using their technical skills.
+
+
+
+# - number: 401
+#   easychair: 575
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Designing Classroom Activities to Improve Student Engagement and Learning"
+#   room: 301
+#   presenters: Leland Beck, Alexander Chizhik, Patty Kraft and Alan Riggins, San Diego State University
+#   abstract: Many approaches to active learning rely on a set of tasks that help students engage cognitively with the material. Studies have shown that this approach can significantly improve student learning. However, for best results it is not enough simply to have students solve problems - the activities must be carefully designed to produce the desired learning outcomes. In many cases, it is helpful to define a sequence of activities that lead students though a developmental progression toward a desired learning goal. This kind of approach is sometimes described in educational research as a "learning trajectory." In this workshop, we will help you get started on the path to developing your own active learning classroom activities. We'll begin by looking at examples that have been used successfully in a variety of different courses, and discussing some of the principles involved. Participants will be encouraged to bring examples of topics they have found challenging to teach. We'll work together with you to help develop possible approaches and get started on the design of active learning activities to address those topics. Participants will be reimbursed for the workshop registration fee from an NSF grant.
+
+
+
+# - number: 402
+#   easychair: 394
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "CReST-Security Knitting Kit: Ready to Use Teaching Resources to Integrate Security Concepts into CS Courses"
+#   room: 302
+#   presenters: Ambareen Siraj and Sheikh Ghafoor, Tennessee Tech
+#   abstract: "Since security education is not required in CS curriculum, many CS undergraduates can successfully achieve their degree without being exposed to any security courses during their course of study and enter the digital workforce with no knowledge or basic understanding of information security – one of the essential skill sets for the 21st century. To address this concern, Information Assurance and Security (IAS) has been designated as a new knowledge area in the new ACM/IEEE-CS Curricula 2013. This workshop empowers CS faculty to access and use freely available resources to integrate security in to their CS curriculum will help institutions to meet ACM/IEEE-CS guideline. With support from NSF (Award# DUE-1140864, #1438861), at the CyberSecurity Education, Research and Outreach Center at Tennessee Tech, we have developed a set of readily available resources called SecKnitKit (Security Knitting Kit, www.secknitkit.org), which offers a suite of instructional material for non-security faculty (faculty whose primary teaching/research focus is not security) to integrate security in upper division CS courses such as operating systems, software engineering, computer networks and databases. Resources include lecture slides with notes, assessment questions and homework/classroom assignments with all details and technical support. The participants will receive access to all SecKnitKit materials (instructional and assessment) of interest and demonstrated use of the active learning exercises. There are six participant slots for each of the four courses mentioned above and participants will have an option to select their courses of choice at registration time."
+
+
+
+# - number: 403
+#   easychair: 638
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "From Spreadsheets to Programs: Data Science and CS1 in Pyret"
+#   room: 303
+#   presenters: Joe Politz, University of California San Diego; Kathi Fisler, Shriram Krishnamurthi, Brown University; and Benjamin Lerner, Northeastern University
+#   abstract: Data Science is at the center of many current curricular efforts. It is emerging as an integrated field that has far-reaching and important applications, from news media to policy making to business. While these applications can provide compelling uses of computer science techniques, an introduction to one is not an introduction to the other. How do topics like data structures and program design emerge from data science applications? How do we transition from data science applications to computer science topics? How can data science be integrated into other contexts with little overhead? This workshop presents assignments and curricula in the Pyret programming language designed to address these questions.
+
+
+
+# - number: 404
+#   easychair: 652
+#   cancelled: true
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: Playing with and Creating Practice Spaces for Equitable Teaching
+#   room: 314
+#   presenters: Kevin Robinson and Justin Reich, MIT
+#   abstract: Equity is a core component of many computer science teacher preparation programs. One promising approach is addressing unconscious bias in teachers related to the race, ethnicity or gender of students. These biases may impact teacher expectations and interactions with students in a variety of classroom scenarios. Early literature on interventions targeting unconscious bias suggests that asking individuals to suppress biases is counterproductive. Our work uses the affordances of interactive online practice spaces to instead focus on specific teaching decisions that may be impacted by unconscious bias. We developed practice spaces and embedded them within CS teacher preparation programs. Our early findings indicate that practice spaces produce rich learning opportunities and analysis yields insight into what biases or beliefs may be interfering with teachers enacting principles of equity like disrupting preparatory privilege. In this workshop, we'll use online practice spaces to examine how we approach different classroom situations related to equity, and practice how we respond. We'll try two different variations on these practice spaces, and create space for participants to try a variety of other iterations on their own. We'll close by inviting folks to share their own stories of important classroom moments that problematized how they approached equitable teaching, and prototype creating practice spaces from those experiences. Participants will leave with links to practice spaces, and related curriculum materials they can use in CS teacher preparation courses, in teacher-led PLC groups, online CS teacher groups, or with local CSTA chapters. 
+
+
+
+# - number: 405
+#   easychair: 647
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "AP CS Principles and The Beauty and Joy of Computing Curriculum"
+#   room: 315
+#   presenters: Alexandra Milliken, North Carolina State University; and Leslie Keller, The Beauty and Joy of Computing
+#   abstract: The Beauty and Joy of Computing (BJC) is a CS Principles (CSP) course developed at UC Berkeley, intended for high school juniors through university non-majors. It was twice chosen as a CSP pilot, and both the College Board and code.org have endorsed it. Since 2011, we have offered professional development to over 400 high school teachers. BJC covers the big ideas and computational thinking practices required in the AP CSP curriculum framework, using an easy-to-learn blocks-based programming language called Snap! (based on Scratch). During this workshop, we will provide an overview of the BJC curriculum, share our experiences as instructors of the course at the university and high school levels, and share details of potential summer professional development opportunities. Attendees should be prepared to program a BJC project in the Snap! environment. Please bring laptops with the Chrome browser installed.
+
+
+
+# - number: 406
+#   easychair: 345
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Micro:bit Magic: Engaging K-12, CS1/2, and non-majors with IoT & Embedded"
+#   room: 318
+#   presenters: Bill Siever, Washington University; and Michael Rogers, Northwest Missouri State University
+#   abstract: Are you interested in a fun way to introduce a variety of students to significant contemporary CS topics, like wireless networking, robotics, and the Internet of Things (IoT)? Do you want to do so using a platform that is cheap, has a low barrier to entry, but where learning can translate to the real world and where advanced students can pursue advanced topics? If so, you need a micro:bit! The micro:bit is a platform developed by the British Broadcasting Corporation (BBC) to encourage children to pursue computing and electronics. Although designed for children, its capabilities are sufficient for a variety of postsecondary applications. It includes a 32-bit processor, lights, buttons, an accelerometer, digital I/O, and wireless communication, making it ideal for wearables and robotics. It also leverages some of the latest trends in introductory computing, like support for block-based languages (àla Scratch), while also being sophisticated enough for complex topics in Operating Systems and Networking. This workshop will introduce the micro:bit and focus on engaging, lightweight coverage of complex topics, including robotics, mesh networks, and IoT. Participants will work through classroom-ready exercises suitable for K-12 workshops, student recruiting events, CS1/2, or as bootstrap topics in IoT courses. The workshop will include some subjects not commonly covered in existing micro:bit material, like integration with mobile apps and IoT applications. Participants will be provided with hardware but will need a laptop with internet access and a mobile device (any OSes).
+
+
+
+# - number: 407
+#   easychair: 567
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Understanding the Essence of Successful Computing Education Projects through Analyzing NSF Proposals"
+#   room: 319
+#   presenters: Stephanie E. August, Mark Pauley, NSF; Eileen T. Kraemer, Murali Sitaraman and S. Megan Che, Clemson University
+#   abstract: You develop the prototype for a new learning strategy, and want to test it in class or across institutions. You identify an NSF program that supports proposals for the idea, and then what? What goes through the minds of reviewers once a proposal is submitted? What prompts one proposal to be recommended for funding while another is declined? Close examination of the panel review process can inform proposal writing and ensure that reviewers will understand a PI's idea, identify its merit, and value a PI's vision of how the work will broaden participation in STEM education. This workshop steps through the NSF proposal review process from submission of a proposal to award or decline, touching on elements of a good review, NSF intellectual merit and broader impact criteria, elements of a good proposal, and volunteering to review proposals. Participants gain insight into writing a good review and improving one's own proposal writing. The interactive workshop leads participants through each topic by introducing related issues, engaging participants in group exercises designed to explore and share their understanding of the issues, and providing "expert" opinion on these issues. Examples include funded and non-funded projects and a Top Ten List of Do's and Don'ts. One night of lodging and workshop registration fees will be covered by an NSF grant for the first 25 participants who submit their own one-page proposal summary to the organizers one month prior to the workshop and participate fully in the workshop. For further information see - https://people.cs.clemson.edu/~etkraem/UPCSEd/
+
+
+
+# - number: 408
+#   easychair: 665
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Mobile Web App Development for All!"
+#   room: 320
+#   presenters: David Hayes, Lane Tech College Prep High School
+#   abstract: With the increasing breadth and sophistication of open-source languages, libraries, frameworks, standards, tools and resources, Mobile Web App development is possible for a broad audience. The barriers to participation in app development have been reduced; learners can quickly begin creating simple apps and can use online resources to expand their knowledge and skill. In this workshop, participants will learn how to build simple (and not-so-simple) data-driven, mobile apps using the Mobile Web App model, and they'll learn how to scaffold projects to focus students’ efforts on specific lesson, unit or assignment goals. The workshop is intended for post-secondary, secondary and even middle school educators who want to increase student engagement by including app projects in their courses. The material may also be of interest to those who provide CS education in other, less-structured environments. Participants will create several apps and will leave with sample projects. All languages, libraries, frameworks, standards, tools and resources are open-source and run in the browser. Because participants will be developing apps during the workshop, they will need a laptop or will need to work with a colleague. 
+
+
+
+# - number: 409
+#   easychair: 194
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Improv for Computer Scientists"
+#   room: 321
+#   presenters: Russell McMahon, University of Cincinnati
+#   abstract: Improvisation is viewed by many people as jazz musicians jamming in the early morning hours or comedians ad-libbing to create a funny skit, but it is so much more. Improv is about listening and moving a conversation (or music) forward in a positive and supportive manner. Above all, it is about supporting all members of the team. These precepts can be found in the Agile, UX (user experience), and the AI worlds and companies are using improv methods as a way of creating more innovative and collaborative teams and which are so necessary for success in today’s work environment. Dick Costolo, the former CEO of Twitter, who has a degree in computer science, is an accomplished improviser and credits these techniques in advancing his professional life. The skills learned through using improv are as important as the technical skills for all computer scientists and they can help one to become better a learner, listener, and communicator. This workshop will cover some of the basics of improvisation and its rules as well as ideas on how it can be used in a classroom or a place of employment. Come and learn about improv and why organizations such as IDEO, Google, Marriott, and NASA have embraced improv to create more than just teams, but ensembles of highly functioning creative and caring individuals. This workshop is interactive and attendees will have fun learning and practicing the skills within a safe and accepting environment.
+
+
+
+# - number: 410
+#   easychair: 19
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Computational Creativity Exercises for Improving Student Learning and Performance"
+#   room: 322
+#   presenters: Leen-Kiat Soh, University of Nebraska
+#   abstract: In this workshop, we will introduce you to a suite of Computational Creativity Exercises (CCEs) that have been shown to significantly improve student learning and achievement in introductory and advanced CS courses. CCEs address core aspects of computational thinking while exposing students to creative thinking skills, and can be adapted for use in your own courses. Activities such as writing a story in separate chapters and then merging the chapters to form a coherent whole, creating quilt-like patterns with written descriptions, or designing testing strategies for an alien health machine require students to apply computational thinking to unorthodox contexts and situations promoting creative application of CS knowledge and skills. CCEs are group-based, promote active learning, and are designed to foster collaborative problem solving necessary in today’s diverse workplace. Engage in a hands-on demo of a CCE and learn how to adapt CCEs for use in your classes, including technical support from the IC2Think Project team. Learn about the rigorous research studies behind the development, design and administration of these CCEs, including the instruments we used to evaluate the CCEs. Workshop session will include “how-to” presentations, panel-based Q&A, breakout group discussions, and hands-on activities. Let’s compute, create, and collaborate!  One night of lodging and workshop registration fees will be covered by an NSF grant for the first 30 participants who submit their own one-page statement of purpose to the organizers two weeks prior to the workshop and participate fully in the workshop. For more information - http://cse.unl.edu/agents/ic2think/
+
+
+
+# - number: 411
+#   easychair: 654
+#   order: 2
+#   date: Saturday, February 24, 3:00 pm - 6:00 pm
+#   title: "Beyond the Flipped Classroom: Implementing Multiple, Simultaneous Pedagogical Styles Using Scrumage"
+#   room: 323
+#   presenters: Shannon Duvall, Dugald Hutchings, Elon University; and Robert Duvall, Duke University 
+#   abstract: While the “flipped classroom” style has some educational benefits, there are also known benefits to other pedagogical approaches such as lectures, educational games, class discussions, and case studies. In addition to a wide variety of pedagogical approaches, there are a wide variety of computer science learning materials, including videos, interactive tutorials, e-textbooks and traditional textbooks. The choices of approach and materials present a series of trade-offs and may favor some groups of students over others. In this workshop, we present a methodology called Scrumage, (SCRUM for AGile Education) which allows each student in a course to adopt the pedagogical approach and materials that best fit each student’s individual learning needs. Scrumage adapts concepts from the Scrum project management technique to manage student teams where the project is learning. Each team learns with the style they prefer, so that multiple pedagogical styles and materials are in use in the course simultaneously. Participants in this workshop will be introduced to the methodology, benefits, and tools of this approach and will work through guided steps to implementing it in the course of their choice.

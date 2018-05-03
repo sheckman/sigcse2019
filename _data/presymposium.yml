@@ -1,0 +1,434 @@
+# - name: "POGIL in CS: Small Steps & Giant Leaps"
+#   date: Wednesday, March 8, 8:30am - 5:00pm
+#   room: 602
+#   cost: Free
+#   max: 20
+#   blurb: |
+#     This event is for instructors (at any level) who use POGIL, guided inquiry,
+#     or related active learning approaches in their classrooms, or who have
+#     previously attended an introductory POGIL workshop. (There is a separate
+#     Introduction to POGIL workshop at SIGCSE 2017, and regional 3-day
+#     workshops every summer). The event will run from 8:30am to 5:00pm and
+#     consist of 4 sessions, with breaks and lunch. We will develop and post a
+#     detailed schedule based on the participants and their interests and
+#     priorities. Our goal is to help everyone share experiences and ideas, and
+#     to continue to grow the community of colleagues and collaborators. Thus,
+#     the event will include lightning talks, focus groups, workshop sessions,
+#     and time to review and discuss draft activities.
+
+#     **Laptop:** Optional
+#   info: http://cspogil.org/2017-03+SIGCSE+Pre-Conf+Event
+#   register: http://cspogil.org/2017-03+SIGCSE+Pre-Conf+Event
+#   # register: "To register for this event, please write <a  href='mailto:ashaffer@usna.edu'>ashaffer@usna.edu</a>"
+#   organizers:
+#     - name:  Clif Kussmaul
+#       email: clif@kussmaul.org
+#     - name: Helen H. Hu
+#       email: hhu@westminstercollege.edu
+#     - name: Chris Mayfield
+#       email: mayfiecs@jmu.edu
+
+# - name: Managing the Early Academic Career for Women Faculty in Undergraduate Computing Programs
+#   date: Wednesday, March 8, 8:30am-5:00pm
+#   room: 606
+#   cost: Free
+#   max: 30
+#   blurb: |
+#     The goal of this workshop is to provide critical mentoring information
+#     and advice for women instructors, pre-tenure faculty and graduate students
+#     (in their final year) in Computer Science and Engineering who are early in
+#     their careers or interested in an academic career. Speakers for the event
+#     are experienced, senior faculty members with extensive practical knowledge
+#     and mentoring involvement. Topics include mentoring, research strategies,
+#     getting what you need, networking strategies, teaching survival tactics,
+#     promotion and tenure strategies, and time management, with plenty of time
+#     for questions and discussion. The day-long workshop, to be held on
+#     Wednesday, March 8, will be co-located with the SIGCSE 2017 conference in
+#     Seattle.
+#   info: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+#   register: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+#   organizers:
+#     - name: Sheila Castaneda
+#       email: cast@clarke.edu
+#     - name: Susan Rodger
+#       email: rodger@cs.duke.edu
+
+# - name: Managing the Early Academic Career for Women Graduate Students Pursuing Faculty Positions in Undergraduate Computing Programs
+#   date: Wednesday, March 8, 8:30am-5:00pm
+#   room: 607
+#   cost: Free
+#   max: 30
+#   blurb: |
+#     The goal of this workshop is to provide critical mentoring information and
+#     advice for women graduate students (in their final year) in Computer Science
+#     and Engineering who are interested in an academic career in an education
+#     track. Topics Speakers for the event are experienced, senior faculty
+#     members with extensive practical knowledge and mentoring involvement.
+#     Topics include mentoring, research strategies, finding the right job,
+#     networking strategies, using the classroom as your research study,
+#     promotion and tenure strategies, and life balance in an academic research
+#     environment, with plenty of time for questions and discussion. The day-long
+#     workshop, to be held on Wednesday, March 8, will be co-located with the
+#     SIGCSE 2017 conference in Seattle.
+#   info: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+#   register: http://cra.org/cra-w/events/sigcse-2017-cra-w-career-mentoring-workshop/
+#   organizers:
+#     - name: Sheila Castaneda
+#       email: cast@clarke.edu
+#     - name: Susan Rodger
+#       email: rodger@cs.duke.edu
+
+# - name: Strategies for Integrating Driverless Cars into the Computing Curricula
+#   date: Wednesday, March 8, 1:00pm-5:00pm
+#   room: 603
+#   cost: Free
+#   max: No Max
+#   blurb: |
+#     Driverless cars are a feat of engineering and computer science. While not
+#     yet a commercial reality, this topic is not only popular with
+#     students (and faculty) but also provides a rich environment to explore a
+#     plethora of key computer science topics. These topics range from the
+#     algorithmically technical (e.g. obstacle recognition, inter-vehicle
+#     communication), to those of algorithmic fairness (e.g. load balancing
+#     versus priority), to those of professional and computational ethics (e.g.
+#     an unavoidable Sophie’s Choice).
+
+#     This workshop aims to bring together experts in driverless cars,
+#     algorithms, ethics and algorithmic fairness with a community of interested
+#     CS educators to discuss and work through topics, recommended approaches
+#     and even educational modules/exercises in driverless cars for the
+#     undergraduate computing curricula.
+
+#     This workshop is sponsored by ACM SIGCAS (Special Interest Group on
+#     Computers and Society) and is free and open to the SIGCSE community.
+#   info: http://www.sigcas.org/
+#   register: http://www.sigcas.org/
+#   organizers:
+#     - name: Michael Goldweber
+#       email: mikeyg@xavier.edu
+#     - name: Karla Carter
+#       email: karla.carter@bellevue.edu
+
+# - name: Aligning to the ACM Cybersecurity-infused Computer Science Transfer Curriculum
+#   date: Wednesday, March 8, 1:30pm-5:00pm
+#   room: 612
+#   cost: Free
+#   max: No Max
+#   blurb: |
+#     This event, led by the ACM CCECC (Committee for Computing Education in
+#     Community Colleges), will engage participants in exploring and using ACM’s
+#     curricular guidance for associate-degree transfer programs in Computer
+#     Science in programs at their own colleges.
+
+#     In 2015, under the auspices of the ACM Education Board the CCECC began
+#     updating the ACM Computing Curricula 2009: Guidelines for Associate-Degree
+#     Transfer Curriculum in Computer Science with inclusion of contemporary
+#     cybersecurity concepts. To this end, the CCECC established a task force of
+#     community college educators to review the ACM/IEEE Computer Science
+#     Curricula 2013 (CS2013) and identify foundational material in CS2013 that
+#     is appropriate for the first two years of a computer science baccalaureate
+#     degree.  To further inform the guidance, the CCECC administered surveys to
+#     a global audience of computer science educators to solicit input related
+#     to CS2013 knowledge areas (KAs) and knowledge units (KUs) and on
+#     cybersecurity topics which are appropriate for associate-degree computer
+#     science transfer programs.  The guidance has been through two rounds of
+#     public review and comment, and will be in near-final form by SIGCSE 2017.
+
+#     During this affiliated event, participants will receive an overview of the
+#     ACM guidelines and will engage directly in exploring how the guidelines
+#     can be used at their own college for program creation, review,
+#     articulation, and other purposes, by aligning their computer science
+#     program to the ACM guidelines and by using an online correlation tool
+#     developed by the CCECC.
+
+#     **Laptop:** Recommended
+#   info: http://ccecc.acm.org/
+#   register: http://ccecc.acm.org/
+#   organizers:
+#     - name: Elizabeth K. Hawthorne
+#       email: hawthorne@ucc.edu
+#     - name: Cara Tang
+#       email: cara.tang@pcc.edu
+#     - name: Cindy S. Tucker
+#       email: cindy.tucker@kctcs.edu
+#     - name: Christian Servin
+#       email: cservin1@epcc.edu
+
+# - name: Making K-12 Computer Science Accessible
+#   date: Wednesday, March 8, 8:30am-5:00pm
+#   room: 604
+#   cost: Free
+#   max: "No Max"
+#   where: "TBD"
+#   blurb: |
+#     As we move forward with CS for All, it’s important to ensure that all
+#     students, including students with disabilities have access to K-12
+#     computing education. AccessCS10K works to increase the accessibility
+#     of K-12 computing education to ensure that students with disabilities can
+#     participate in computing courses. Many of the programming tools, curricula,
+#     and books that are available for teaching K-12 computing courses are
+#     inaccessible to many students with disabilities. This workshop aims to
+#     bring together individuals who are developing programming tools,
+#     curricula, books, and other materials with accessibility experts for
+#     interactive discussion about improving the accessibility of these
+#     materials.
+#   info: https://catalyst.uw.edu/webq/survey/blaser/316570
+#   register: https://catalyst.uw.edu/webq/survey/blaser/316570
+#   organizers:
+#     - name: Andreas Stefik
+#       email: stefika@gmail.com
+#     - name: Richard Ladner
+#       email: ladner@cs.washington.edu
+#     - name: Brianna Blaser
+#       email: blaser@uw.edu
+
+# - name: POSSE Roundup – Student Participation in Humanitarian Open Source Software
+#   date: Wednesday, March 8, 8:30pm-5:30pm
+#   room: 613-614
+#   cost: Free
+#   max: 30
+#   blurb: |
+#     POSSE, the Professors Open Source Software Experience, prepares instructors
+#     to guide student participation in Humanitarian Free and Open Source
+#     Software (HFOSS) projects. This POSSE Roundup is a workshop for
+#     instructors who have previously attended POSSE. It will provide an
+#     opportunity to share experiences and discuss challenges related to student
+#     participation in HFOSS. Breakout sessions will provide time for
+#     participants to share and work on HFOSS learning activities. The workshop
+#     structure of the day will emphasize active participation of attendees.
+
+#     **Laptop:** Required
+#   info: http://foss2serve.org/index.php/SIGCSE_2017_POSSE_Roundup
+#   register: http://foss2serve.org/index.php/SIGCSE_2017_POSSE_Roundup
+#   organizers:
+#     - name: Gregory Hislop
+#       email: hislop@drexel.edu
+#     - name: Clif Kussmaul
+#       email: clifkussmaul@gmail.com
+#     - name: Heidi Ellis
+#       email: ellis@wne.edu
+#     - name: Stoney Jackson
+#       email: stoney.jackson@wne.edu
+#     - name: Lori Postner
+#       email: lori.postner@ncc.edu
+#     - name: Darci Burdge
+#       email: darci.burdge@ncc.edu
+
+# - name: NSF UP CS Ed Research Event for Emerging CS Education Researchers at SIGCSE
+#   date: Wednesday, March 8, 1:30pm-5:00pm
+#   room: 611
+#   cost: Free
+#   max: 40
+#   blurb: |
+#     This NSF-funded SIGCSE 2017 pre-symposium event will provide an opportunity
+#     for emerging and aspiring CS education researchers to learn the elements
+#     of different types of successful computing education research and to
+#     obtain feedback on their proposed research designs. The SIGCSE event will
+#     invite education and computer science education researchers, individually
+#     and jointly, from various institutions to discuss either research that has
+#     been conducted or research that is being proposed. The event will assist
+#     proposers of computing education research in forming well identified
+#     education research questions and selecting appropriate research designs
+#     as described in [Guidelines 2013]. The event contents will be guided by
+#     the discussions at the ICER UP CS Ed Workshop we organized in
+#     September 2016 in Melbourne, Australia. That workshop discussed example CS
+#     education projects that would be used in this pre-symposium event to help
+#     guide emerging and aspiring researchers.
+
+#     This event is funded through NSF grant IUSE-1646691. The attendees for the
+#     pre-symposium event will be provided with dinner after the symposium and
+#     lodging for one night.
+#   info: https://people.cs.clemson.edu/~etkraem/UPCSEd/
+#   register: https://people.cs.clemson.edu/~etkraem/UPCSEd/
+#   organizers:
+#     - name: Eileen T. Kraemer
+#       email: etkraem@clemson.edu
+#     - name: Murali Sitaraman
+#       email: murali@clemson.edu
+#     - name: Russ Marion
+#       email: marion2@clemson.edu
+
+# - name: Seeking Global, Industry and Training Provider Perspectives to Inform the ACM Joint Task Force for Cybersecurity Education
+#   date: Wednesday, March 8, 8:30am-5:00pm
+#   room: 618-619
+#   cost: Free
+#   max: No Max
+#   blurb: |
+#     This event, led by members of the ACM Joint Task Force (JTF) for
+#     Cybersecurity Education (csec2017.org), will engage participants in a
+#     direct dialog concerning the development of curricular guidance.
+#     Specifically, this session will focus on ensuring that the curricular
+#     guidance is being developed to support worldwide adoption and to foster
+#     instructional relationships industry stakeholders and training providers.
+#     The JTF is seeking valuable input from the SIGCSE community in shaping the
+#     next version of the guidelines. During the event, an overview of the
+#     curricular guidance straw version will be presented, and participants
+#     will actively engage in exploring how the guidelines can be improved/used
+#     for course and program creation, review, and articulation, as well as for
+#     other purposes not yet conceived. The purpose of this session is not to
+#     discuss the content of the curricular volume, that discussion will occur
+#     during the JTF special session scheduled for the main SIGCSE program.
+#     Rather, this session will provide an opportunity for participants to
+#     address the larger context and focus specifically on the broad
+#     stakeholder audience.
+
+#     The Joint Task Force on Cybersecurity Education (JTF) was chartered by
+#     the ACM Education Board in September 2015 with the expressed purpose of
+#     developing comprehensive, undergraduate curricular guidance in
+#     cybersecurity education to support future program development and
+#     associated educational efforts. The JTF is a collaboration among major
+#     international computing societies: Association for Computing Machinery
+#     (ACM), IEEE Computer Society (IEEE-CS), Association for Information
+#     Systems Special Interest Group on Security (AIS SIGSEC), and the
+#     International Federation for Information Processing Technical Committee
+#     on Information Security Education (IFIP WG 11.8). The JTF grew out of
+#     the foundational efforts of the Cyber Education Project (CEP).
+#   # info: ""
+#   # register: ""
+#   organizers:
+#     - name: Diana Burley
+#       email: dburley@gwu.edu
+#     - name: Matt Bishop
+#       email: mabishop@ucdavis.edu
+#     - name: Scott Buck
+#       email: scott.buck@intel.com
+#     - name: David Gibson
+#       email: David.Gibson@usafa.edu
+#     - name: Sidd Kaza
+#       email: skaza@towson.edu
+#     - name: Elizabeth Hawthorne
+#       email: hawthorne@ucc.edu
+
+# - name: Department Chairs Roundtable
+#   date: Wednesday, March 8, 8:30am-5:00pm
+#   room: 616-617
+#   cost: $125
+#   max: No Max
+#   blurb: |
+#     What are the challenges that Department Chairs face? How would you design
+#     the ideal Department Chair? What are the features of a great Department
+#     Chair? What are the issues in having a poor Department Chair? The summary
+#     at the end of this article demonstrates the challenges that face anyone
+#     that takes on this critical role.
+
+#     If you are a new Chair, an experienced Chair, thinking about becoming a
+#     Chair, or if you have stories to tell about awesome or terrible Department
+#     Chairs, then you should participate in this roundtable. The discussions
+#     and insights from this Roundtable should improve the quality of the
+#     Department Chair experience: whether you are a Chair or not, this session
+#     will be helpful in navigating your academic career.
+
+#     The Roundtable will feature a panel of diverse and experienced Department
+#     Chairs to lead a series of design charrettes . The charrettes will tackle
+#     topics such as the significant administrative and personnel issues that
+#     chairs must handle; leadership and management styles, time management,
+#     legal issues, establishing priorities, and communication.
+
+#     The final hour of the Roundtable will have a special focus on how to
+#     encourage the adoption of innovative teaching practices. Changes in
+#     attitudes toward teaching and learning are intertwined with the
+#     availability of new technologies that challenge faculty to change the
+#     way they teach. How can the Department Chair provide an organizational
+#     climate that encourages and rewards innovation in CS education?
+
+#     Many people don’t appreciate the many duties and roles that it part of
+#     the Department Chair experience. Here is a summary of the most common
+#     expectations from a Department Chair:
+
+#     +   **Leader**: visionary, internal advocate, internal intermediary,
+#         external liaison, curriculum leader, role model. The Chair should
+#         be a transformational leader capable of creating space for change
+#         and generating consensus among the faculty.
+
+#     +   **Administrator**: fiscal overseer, schedule coordinator, report,
+#         generator, staff supervisor. The Chair monitors the department budget
+#         to ensure that the department’s work is done and that allocations are
+#         not overspent. This role increasingly requires the Chair to find
+#         creative ways to extend the budgets, including external fund raising.
+
+#     +   **Personal facilitator**: counselor, coach, mediator, climate
+#         regulator. The Chair needs to be accessible, establish relationships,
+#         and be willing to listen to concerns to create an environment that
+#         will encourage faculty productivity and harmony.
+
+#     +   **Resource developer**: faculty recruiter, faculty mentor, faculty
+#         evaluator, resource provider. The Chair hires new department faculty,
+#         provides faculty with professional development opportunities and
+#         mentoring to ensure their professional success and retention;
+#         provides evaluations for annual merit raises, retention, promotion,
+#         and tenure decisions; and finds resources that faculty need to do
+#         their jobs.
+#   info: Send questions or expressions of interest to Mary Lou Maher
+#   register: Select this event on the online form when registering for the
+#     conference; the fee will be added to your registration total.  You can
+#     edit your registration and add this event, if you have already completed
+#     registration.
+#   organizers:
+#     - name: Mary Lou Maher
+#       email: m.maher@uncc.edu
+
+# - name: CSforAll Consortium Networking Reception at SIGCSE
+#   date: Wednesday, March 8, 6pm - 8pm
+#   #room: TBA
+#   cost: Free
+#   max: 150
+#   blurb: |
+#     The CSforAll Consortium (csforall.org) is a hub for the national Computer Science for All movement that works to enable all students in grades K-12 to achieve computer science literacy as an integral part of their educational experience. Join us for the CSforAll Networking Reception, hosted by AWS Educate from Amazon Web Services on Wednesday, March 8 from 6-8pm. During the event, you will learn more about the CSforAll Consortium, hear from our members during a panel session, and have the opportunity to meet and network with diverse stakeholders within the K-12 CS Education community. This event will be located within 10 minutes walking distance from SIGCSE 2017 conference. To attend, you must register and have an Eventbrite ticket.  Eventbrite Password is 'csforall'. Space is limited. PLEASE REGISTER BY FRIDAY, MARCH 3.
+
+#     Hosted by AWS Educate from Amazon Web Services.
+
+#     To attend, you must register at [https://www.eventbrite.com/e/csforall-consortium-networking-reception-hosted-by-aws-educate-registration-31897967680](https://www.eventbrite.com/e/csforall-consortium-networking-reception-hosted-by-aws-educate-registration-31897967680) and have an Eventbrite ticket.
+#     Eventbrite Password is: **csforall**.
+#     Space is limited. Please **register by Friday, March 3**.
+#   info: Send questions to Leigh Ann (Sudol/Jervis) DeLyser (leighann@csnyc.org)
+#   organizers:
+#     - name: Leigh Ann
+#       email: leighann@csnyc.org
+
+# - name: Breakfast with BlueJ and Greenfoot--Introducing Greenfoot 3, BlueJ 4, and Stride
+#   date: Friday, March 10, 7:00am-8:30am
+#   room: 6B
+#   cost: Free
+#   max: No Max
+#   blurb: |
+#     Within the last year, new major versions of both the BlueJ and Greenfoot
+#     environments have been released. These versions bring some major
+#     enhancements and features to both systems, most importantly the addition
+#     of a new language, Stride.
+#     Incorporating characteristics from both text-based and block-based systems,
+#     Stride offers novel edit interactions with the potential to significantly
+#     benefit novice learners of programming. Designed with a transition to
+#     text-based systems in mind as a progression path, it provides an ideal
+#     entry point or stepping stone from block-based programming systems.
+#     In addition to the new editor, both systems offer a range of other
+#     enhancements, such as continuous edit-time error checking, improved error
+#     message display, GIT support in BlueJ and the ability to develop JavaFX
+#     applications.
+#     We will introduce and demonstrate the new features of both systems,
+#     and (because it’s an early start) provide an informal buffet breakfast
+#     for attendees.
+#   info: Send questions to Ian Utting
+#   # register: ""
+#   organizers:
+#     - name: Michael Kölling
+#       email: mik@kent.ac.uk
+#     - name: Amjad Altadmri
+#       email: aa803@kent.ac.uk
+#     - name: Neil Brown
+#       email: nccb@kent.ac.uk
+#     - name: Ian Utting
+#       email: iau@kent.ac.uk
+
+# - name: CRA Teaching Track Faculty Lunch
+#   date: Friday, March 10, 12:00pm-1:45pm
+#   room: 6B
+#   cost: Free
+#   max: 120
+#   blurb: |
+#     Learn about planned CRA initiatives to support teaching faculty at research
+#     universities and contribute your input.
+#   info: contact Penny Rheingans (rheingan@cs.umbc.edu)
+#   register: https://goo.gl/forms/Wtyxw1RO28wQ6sT22
+#   organizers:
+#     - name: Penny Rheingans
+#       email: rheingan@cs.umbc.edu
