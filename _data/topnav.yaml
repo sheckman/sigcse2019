@@ -36,56 +36,56 @@
   #   link: http://dl.acm.org/citation.cfm?id=3017680
   #   divider: true
   - name: 2019 Call for Participation
-    link: /docs/SIGCSE2019CFP-final.pdf
+    link: /docs/SIGCSE_2019_CFP.pdf
 - name: For Reviewers
   subheads:
-  - name: Bidding on Papers
-    link: /reviewers/review-bidding.html
-    divider: true
-  - name: Process for Papers
-    link: /reviewers/review-process.html
-  - name: Process for Workshops
-    link: /reviewers/review-workshops.html
-  - name: Process for Special Sessions
-    link: /reviewers/review-special-sessions.html
-  - name: Process for Panels
-    link: /reviewers/review-panels.html
+  # - name: Bidding on Papers
+  #   link: /reviewers/review-bidding.html
+  #   divider: true
+  # - name: Process for Papers
+  #   link: /reviewers/review-process.html
+  # - name: Process for Workshops
+  #   link: /reviewers/review-workshops.html
+  # - name: Process for Special Sessions
+  #   link: /reviewers/review-special-sessions.html
+  # - name: Process for Panels
+  #   link: /reviewers/review-panels.html
   - name: APC Responsibilities
     link: /reviewers/apc-responsibilities.html
     # - name: Reviewer Signup
     #   link: /reviewers/signup.html
-- name: For Attendees
-  subheads:
-  - name: Venue Information
-    link: /attendees/index.html
-  - name: Registration and Rates
-    link: /attendees/index.html#registering    
-  - name: Hotels
-    link: /attendees/index.html#reserving-a-room
-  - name: Roommate Database
-    link: /attendees/index.html#roommatedb
-  - name: Transportation
-    link: /attendees/index.html#travel
-  - name: Conference Policies
-    link: http://sigcse2019.sigcse.org/policies.html
-  - name: Student Volunteers
-    link: /info/studentvolunteers.html
-    divider: true
-  - name: SIGCSE 2019 Full Schedule
-    link: http://sigcse2019.sigcse.org/agenda.html
-  - name: SIGCSE 2019 At-A-Glance
-    link: /attendees/at-a-glance.html   
-  - name: SIGCSE 2019 Best Papers
-    link: /attendees/bestpapers.html
-  - name: Presenter Information
-    link: /attendees/presenter.html
-  #- name: Conference Program
-  #  link: http://easychair.org/smart-program/SIGCSE2018/
-  - name: Workshops
-    link: /attendees/workshops.html   
-    divider: true
-  - name: Baltimore Visitor Information
-    link: /attendees/visitor-info.html
+# - name: For Attendees
+#   subheads:
+#   - name: Venue Information
+#     link: /attendees/index.html
+#   - name: Registration and Rates
+#     link: /attendees/index.html#registering    
+#   - name: Hotels
+#     link: /attendees/index.html#reserving-a-room
+#   - name: Roommate Database
+#     link: /attendees/index.html#roommatedb
+#   - name: Transportation
+#     link: /attendees/index.html#travel
+#   - name: Conference Policies
+#     link: http://sigcse2019.sigcse.org/policies.html
+#   - name: Student Volunteers
+#     link: /info/studentvolunteers.html
+#     divider: true
+#   - name: SIGCSE 2019 Full Schedule
+#     link: http://sigcse2019.sigcse.org/agenda.html
+#   - name: SIGCSE 2019 At-A-Glance
+#     link: /attendees/at-a-glance.html   
+#   - name: SIGCSE 2019 Best Papers
+#     link: /attendees/bestpapers.html
+#   - name: Presenter Information
+#     link: /attendees/presenter.html
+#   #- name: Conference Program
+#   #  link: http://easychair.org/smart-program/SIGCSE2018/
+#   - name: Workshops
+#     link: /attendees/workshops.html   
+#     divider: true
+#   - name: Baltimore Visitor Information
+#     link: /attendees/visitor-info.html
   
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
@@ -111,8 +111,8 @@
     # - name: Conference Proceedings
     #   link: http://dl.acm.org/citation.cfm?id=3017680
     #   divider: true
-  - name: Kids' Camp
-    link: /attendees/kidscamp.html
+    #- name: Kids' Camp
+    # link: /attendees/kidscamp.html
     #   divider: true
 
 - name: For Exhibitors

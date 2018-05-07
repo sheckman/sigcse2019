@@ -23,14 +23,14 @@ track2:
 # Paper Abstract
 track3:
   timestamp: "2018-08-24T00:23:59"
-  date: "Friday, August 24, 2019"
+  date: "Friday, August 24, 2018"
 
 # presymposiumdates: "Tuesday, March 2nd, 2017"
 # presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
 
 master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-    link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2018+Paper+Deadline&iso=20170825T2359&p1=3399"
+    link: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180824T2359&p1=3399"
     track: track3
     types:
       - plural: Full Paper Abstracts
@@ -43,8 +43,8 @@ master:
     updates:
     cameraready: TBA
     abstractdue: "Friday, August 24, 2018"
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170901T2359&p1=3399"
-    abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170825T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
+    abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180824T2359&p1=3399"
     track: track1
     types:
       - plural: Papers
@@ -55,7 +55,7 @@ master:
 #    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2018"
     updates:
     cameraready: TBA
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20170901T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     track: track1
     types:
       - plural: Panels
@@ -72,7 +72,7 @@ master:
 #    notification: "Monday, November 27th, 2018"
     updates:
     cameraready: TBA
-    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+SRC+Deadline&iso=20171013T2359&p1=3399"
+    link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+SRC+Deadline&iso=20181019T2359&p1=3399"
     track: track2
     types:
       - plural: Student Research Competition
@@ -218,4 +218,4 @@ studentResearchCompetition:
 
 html: "sigcse-2019-cfp.html"
 pdf: "sigcse-2019-cfp.pdf"
-lastupdate: "May 3, 2018"
+lastupdate: "May 7, 2018"
