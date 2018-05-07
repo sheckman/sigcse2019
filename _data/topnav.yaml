@@ -3,11 +3,9 @@
   # - name: Best and Exemplary Papers
   #   link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
   #   divider: true
-  - name: Call for Participation
-    link: /info/cfp.html
+  #- name: Call for Participation
+  #  link: /info/cfp.html
   - name: Important Dates
-    link: /authors/index.html
-  - name: Submission Guidelines
     link: /authors/index.html
   - name: Frequently Asked Questions
     link: /authors/faq.html
