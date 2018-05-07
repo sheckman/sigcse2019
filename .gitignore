@@ -1,0 +1,6 @@
+_site
+.DS_Store
+.sass-cache
+_venv
+_tools/pylinkchecker/build
+favicon.ico

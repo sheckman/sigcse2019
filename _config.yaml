@@ -1,0 +1,28 @@
+# Site settings
+title: SIGCSE 2019
+
+email: webmaster@sigcse2010.org
+
+description: > # this means to ignore newlines until "baseurl:"
+  Website for the SIGCSE 2019 annual technical symposium.
+  Concerns may be directed to webmaster@sigcse2019.org.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://localhost"
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+exclude:
+  - _venv

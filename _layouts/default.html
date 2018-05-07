@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include nav/rendertopnav.html %}
+
+    <div class="wrapper">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1" >
+          {% if page.showTitle == true %}
+            <h1>{{page.title}}</h1>
+          {% endif %}
+          {{ content }}
+        </div> <!-- /col-md-10 content -->
+      </div> <!-- /row -->
+    </div> <!-- /wrapper -->
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
