@@ -27,7 +27,7 @@ if [ "$1" == "live" ] || [ "$1" == "all" ];
 then
   build _config_live.yaml
   linkcheck live
-  upload sigcse2018/
+  upload sigcse2019/
 fi
 
 # If they want to upload the staging site, lets do that.
@@ -35,5 +35,5 @@ if [ "$1" == "staging" ] || [ "$1" == "all" ];
 then
   build _config_staging.yaml
   linkcheck staging
-  upload sigcse2018/.staging
+  upload sigcse2019/.staging
 fi
