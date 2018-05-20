@@ -2,9 +2,24 @@
 {% assign count = 0 %}
 {% assign plural = "" %}
 
+{% assign team = include.category %}
+
+{% if include.category == "Demos" %}
+	{% assign team = "Demos and Lightning Talks" %}
+{% endif %}
+{% if include.category == "Lightning Talks" %}
+	{% assign team = "Demos and Lightning Talks" %}
+{% endif %}
+{% if include.category == "Panels" %}
+	{% assign team = "Special Sessions and Panels" %}
+{% endif %}
+{% if include.category == "Special Sessions" %}
+	{% assign team = "Special Sessions and Panels" %}
+{% endif %}
+
 {% for cat in site.data.committees %}
   {% for member in cat.members %}
-    {% if member.role == include.category %}
+    {% if member.role == team %}
       {% assign count = count | plus: 1 %}
     {% endif %}
   {% endfor %}
@@ -28,12 +43,12 @@ http://stackoverflow.com/questions/16762714/how-can-i-compare-a-strings-size-len
 {% endif %}
 
 
-If you have questions about anything discussed above, please contact the <a href="/info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{include.category}} {{grouping}}</a>.
+If you have questions about anything discussed above, please contact the <a href="/info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{team}} {{grouping}}</a>.
 
 <ul style="">
 {% for category in site.data.committees %}
   {% for member in category.members %}
-    {% if member.role == include.category %}
+    {% if member.role == team %}
     <li style="padding-bottom: 10px;"><b>{{member.name}}</b><br/>
       {{member.inst}} <br/>
       <a href="mailto:{{member.email}}">{{member.email}}</a>
@@ -44,7 +59,7 @@ If you have questions about anything discussed above, please contact the <a href
 
 
 {% for cochair in site.data.committee %}
-{% if (cochair.title == include.category) %}
+{% if (cochair.title == team) %}
 <li style="padding-bottom: 10px;"><b>{{cochair.name}}</b><br/>
   {{cochair.institution}} <br/>
   <a href="mailto:{{cochair.email}}">{{cochair.email}}</a>
@@ -52,3 +67,5 @@ If you have questions about anything discussed above, please contact the <a href
 {% endif %}
 {% endfor %}
 </ul>
+
+

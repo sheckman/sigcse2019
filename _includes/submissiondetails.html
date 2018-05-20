@@ -56,7 +56,7 @@ time: {{subtime}}
         </tr>
         <tr>
           <td><b>Abstract Due Time </b></td>
-          <td> <a href="{{abstractlink}}">{{subtime}}</a> </td>
+          <td> <a href="{{subabstractlink}}">{{subtime}}</a> </td>
         </tr>
         {% endif %}
         <tr>
@@ -137,16 +137,18 @@ time: {{subtime}}
         </tr>
 
         <tr>
-          <td><b>Camera-Ready Copy </b></td>
+          <td><b>Camera-Ready Deadline </b></td>
           <td> {{subcameraready}}</td>
         </tr>
 
+		{% if site.data.cfp.camerareadyinstructionsopen %}
         <tr>
           <td><b>Camera-Ready Instructions</b></td>
           <td>
-<a href="http://www.sheridanprinting.com/typedept/sigcse2019.htm">@ Sheridan Publishing</a>
+			<a href="{{site.data.cfp.camerareadyinstructions}}">@ Sheridan Publishing</a>
           </td>
         </tr>
+		{%endif %}
 
         {% comment %}
         <!--- FIXME: Why did I do this this way? It is probably to avoid

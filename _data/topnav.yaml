@@ -3,12 +3,13 @@
   # - name: Best and Exemplary Papers
   #   link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
   #   divider: true
-  #- name: Call for Participation
-  #  link: /info/cfp.html
+  - name: Call for Participation
+    link: /info/cfp.html
   - name: Important Dates
     link: /authors/index.html
   - name: Frequently Asked Questions
     link: /authors/faq.html
+    divider: true
   - name: Papers
     link: /authors/papers.html
   - name: Panels
@@ -17,25 +18,27 @@
     link: /authors/specialsessions.html
   - name: Workshops
     link: /authors/workshops.html
-  - name: Student Research Competition
+    divider: true
+  - name: ACM Student Research Competition
     link: /authors/src.html
   - name: BoFs
     link: /authors/bofs.html
-  - name: Posters
-    link: /authors/posters.html
-  - name: Lightning Talks
-    link: /authors/lightningtalks.html
   - name: Demos
     link: /authors/demos.html
-  - name: Pre-Symposium and Affiliated Events
-    link: /authors/presymposium.html
+  - name: Lightning Talks
+    link: /authors/lightningtalks.html   
+  - name: Posters
+    link: /authors/posters.html
   - name: Nifty Assignments
     link: /authors/nifty.html
+    divider: true
+#  - name: Pre-Symposium and Affiliated Events
+#    link: /authors/presymposium.html
     divider: true
   # - name: Conference Proceedings
   #   link: http://dl.acm.org/citation.cfm?id=3017680
   #   divider: true
-  - name: 2019 Call for Participation
+  - name: PDF 2019 Call for Participation
     link: /docs/SIGCSE_2019_CFP.pdf
 - name: For Reviewers
   subheads:
@@ -50,10 +53,10 @@
   #   link: /reviewers/review-special-sessions.html
   # - name: Process for Panels
   #   link: /reviewers/review-panels.html
-  - name: APC Responsibilities
-    link: /reviewers/apc-responsibilities.html
-    # - name: Reviewer Signup
-    #   link: /reviewers/signup.html
+  #- name: APC Responsibilities
+  #  link: /reviewers/apc-responsibilities.html
+   - name: Reviewer Signup
+     link: /reviewers/signup.html
 # - name: For Attendees
 #   subheads:
 #   - name: Venue Information
@@ -157,9 +160,11 @@
       link: /info/committees.html#SymposiumCo-Chairs
     - name: Program Co-Chairs
       link: /info/committees.html#ProgramCo-Chairs
+    - name: Program Committee
+      link: /info/committees.html#ProgramCommittee
     - name: Organizing Committee
       link: /info/committees.html#OrganizingCommittee
-    - name: International Committee
-      link: /info/committees.html#InternationalCommitteeMembers
-    - name: Associate Program Chairs
-      link: /info/committees.html#ProgramCommittee
+#    - name: International Committee
+#      link: /info/committees.html#InternationalCommitteeMembers
+#    - name: Associate Program Chairs
+#      link: /info/committees.html#ProgramCommittee

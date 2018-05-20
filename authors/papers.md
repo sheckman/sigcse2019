@@ -7,13 +7,16 @@ showTitle: true
 
 ## SIGCSE 2019 Paper Types
 
-Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. Initial submissions must be anonymous. Note that an ABSTRACT SUBMISSION is now required for all papers and it is due a week before the full paper is due.
+Papers describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions. Initial submissions must be anonymous. Note that an ABSTRACT SUBMISSION is required for all papers and it is due a week before the full paper is due.
 
-* CS Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.
+**Please ensure that you submit your paper to the correct paper track. Papers will be reviewed for the track they are submitted to and will not be moved between tracks.**
 
-* Experience Reports and Tools papers should carefully describe a computer science education intervention and its context, and provide a rich reflection on what worked, what didn’t, and why.  This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail so that others could adopt the new innovation.
+* **CS Education Research** papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.
 
-* New curricula, programs, degrees and position papers. Papers about curricula, programs and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. Position papers are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
+* **Experience Reports and Tools** papers should carefully describe a computer science education intervention and its context, and provide a rich reflection on what worked, what didn’t, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail so that others could adopt the new innovation.
+
+* **New curricula, programs, degrees and position papers**. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. Position papers are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
+
 
 
 <div class="row">
@@ -26,7 +29,7 @@ Papers describe an educational research project, classroom experience, teaching 
     </ul>
   </div>
   <div class="col-md-3 col-md-offset-1">
-    <strong>Experience Topics</strong>
+    <strong>Education and Experience Topics</strong>
     <ul>
     {% for type in site.data.experiencetopics %}
       <li>{{type}}</li>
@@ -55,11 +58,13 @@ Papers describe an educational research project, classroom experience, teaching 
 
 ## Details about your abstract
 
-Your abstract can be up to 250 words and **must be submitted by the paper abstract deadline**.  There are no formatting requirements for the abstract. No PDF is required for the paper abstract.  You must submit an abstract by the abstract deadline, otherwise your paper will not be reviewed.
+Your abstract can be up to 250 words and **must be submitted by the paper abstract deadline**.  There are no formatting requirements for the abstract. When you log in to submit the abstract, you may paste the abstract text into the form field. The abstract submission is required if you want your paper to be submitted on **{{site.data.cfp.track1.date}}**.
+
+The abstract helps reviewers bid for papers that they are qualified and interested in reviewing.  To help the bidding and reviewing process, please submit an abstract that is as close to the finished version as possible.
 
 ## How Should The Paper Be Formatted?
 
-Authors must submit ONLY an anonymized version of the paper. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn't know if the writer is citing himself/herself. That is, instead of writing "We reported on our first experiment in 2007 in a previous paper [1]", the writer might write "In 2007, an initial experiment was done in this area as reported in [1].
+Authors must submit ONLY an anonymized version of the paper. The goal of the anonymized version is too, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author’s names and affiliation plus identifying information within the body of the paper such as websites or related publications). Self-citations need not be removed if they are worded so that the reviewer doesn’t know if the writer is citing themselves. That is, instead of writing “We reported on our first experiment in 2017 in a previous paper [1]”, the writer might write “In 2017, an initial experiment was done in this area as reported in [1].
 
 If the paper is accepted for the conference and for publication, authors will be asked to complete a camera-ready copy that will include all appropriate author names, citations, and references.
 
@@ -75,7 +80,7 @@ If your paper is accepted you will have a chance to modify your publication vers
 
 ## How Do I Submit My Paper?
 
-{% include generic-submission-block.html ispaper = "true" %}
+{% include generic-submission-block.html ispaper="true" %}
 
 {% include presenter-warning.html kind = "paper" %}
 

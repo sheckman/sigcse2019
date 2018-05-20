@@ -15,7 +15,7 @@
   members:
   - name: Sarah Heckman
     role: Program Co-Chair
-    inst: NC State
+    inst: North Carolina State University
     email: program@sigcse2019.org
 
   - name: Jian Zhang
@@ -28,12 +28,12 @@
   - name: Christina Gardner-McCune
     role: Special Sessions and Panels
     inst: University of Florida 
-    email: specialsessions@sigcse2019.org
+    email: panels@sigcse2019.org
 
   - name: Alvaro Monge
     role: Special Sessions and Panels
     inst: California State University, Long Beach 
-    email: specialsessions@sigcse2019.org
+    email: panels@sigcse2019.org
 
   - name: Brett Becker
     role: Workshops
