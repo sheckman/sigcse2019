@@ -19,8 +19,6 @@ We have broken out submission guidelines by type. There are many ways to share t
             {{site.data.cfp.track2.date}}
         {% elsif submission.track == "track3" %}
             {{site.data.cfp.track3.date}}
-        {% elsif submission.track == "track4" %}
-            {{site.data.cfp.track4.date}}
         {% else %}
            Oops
         {% endif %}

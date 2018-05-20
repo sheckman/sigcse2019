@@ -8,6 +8,8 @@ track3url: https://easychair.org/conferences/?conf=sigcse2019
 track3open: false
 track4url: https://easychair.org/conferences/?conf=sigcse2019
 track4open: false
+camerareadyinstructionsopen: false
+camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2019.htm"
 
 #TODO: Fix days of weeks and time and date links
 #  Full  Papers,  Panels,  Special  Sessions  &  Workshops
@@ -39,9 +41,9 @@ master:
 
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-#    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2018"
+    notification: "Friday, October 5, 2018"
     updates:
-    cameraready: TBA
+    cameraready: "Sunday, December 9, 2018"
     abstractdue: "Friday, August 24, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180824T2359&p1=3399"
@@ -52,9 +54,9 @@ master:
         include: papers
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-#    notification: "<strong>UPDATE</strong> - Saturday, October 7, 2018"
+    notification: "Friday, October 5, 2018"
     updates:
-    cameraready: TBA
+    cameraready: "Sunday, December 9, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     track: track1
     types:
@@ -69,9 +71,9 @@ master:
         include: workshops
 
   - time: "23:59 AoE (Baker Island, UTC-12h)"
-#    notification: "Monday, November 27th, 2018"
+    notification: "Friday, November 16, 2018"
     updates:
-    cameraready: TBA
+    cameraready: "Sunday, December 16, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+SRC+Deadline&iso=20181019T2359&p1=3399"
     track: track2
     types:
@@ -148,7 +150,7 @@ master:
 # Details are keyed off the plural from the "master" above.
 details:
   Papers:
-    limits: "6 pages"
+    limits: "6 pages + 1 page for references"
     length: "25 minutes"
   Panels:
     limits: "2 pages"
@@ -185,7 +187,7 @@ details:
   Student Research Competition:
     limits: "2 pages"
     connector: "including"
-    abstract: "250 words, but not including references"
+    abstract: "250 words"
     length: "2 hours (poster session)"
     specialsubmission: true
   Pre-Symposium and Affiliated Events:
@@ -199,7 +201,7 @@ details:
     length: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"
 
 notifications:
-  Student Research Competition: After submission (TBA)
+  Student Research Competition: "Friday, November 16, 2018"
 
 studentResearchCompetition:
   chair: TBA

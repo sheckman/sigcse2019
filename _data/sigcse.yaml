@@ -24,14 +24,13 @@ deadlines:
       - Workshop
     date: "Friday August 31, 2018"
   - items:
-      - Student Research Competition
-    date: "TBA"
-  - items:
       - Birds of a Feather
       - Demo
       - Lightning Talk
       - Pre-Symposium Events
       - Poster
+      - Student Research Competition
+      - Nifty
     date: "Friday, October 19, 2018"
 
 registration:

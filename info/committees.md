@@ -9,8 +9,8 @@ title: Committees
 {% for comm in site.data.committees %}
 {% assign ctr = 0 %}
 <div class = "row">
-<h2> {{comm.name}}</h2>
 <a name = "{{comm.name | remove: " " }}"></a>
+<h2> {{comm.name}}</h2>
   {% for memb in comm.members %}
     {% if ctr == rows %}
 </div>
