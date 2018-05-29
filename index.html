@@ -19,25 +19,25 @@ layout: default
 
 
 
-  <div class="row"> <!-- start supporters -->
-    {% for category in site.data.supporters %}
+  <!--<div class="row">--><!-- start supporters -->
+  <!--  {% for category in site.data.supporters %}
       <div class="row">
           <h3 class="text-center" style="text-shadow: 1px 1px 1px; border-bottom: 1px solid #ccc;">{{category[0]}} Supporters</h1>
       </div>
       {% assign mod = 0 %}
       {% assign modulus = 3 %}
       {% capture span %}{{ 12 | divided_by: modulus }}{% endcapture %}
-      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}
+      {% capture subone %}{{modulus | minus: 1}}{% endcapture %}-->
       <!-- SPAN: {{span}} SUBONE: {{subone}} -->
 
-      {% for supporter in category[1]  %}
+   <!--   {% for supporter in category[1]  %}
         {% capture mod %}{{ forloop.index0 | mod: modulus }}{% endcapture %}
         {% if mod == '0' or forloop.first %}
           <div class="row">
-        {% endif %}
+        {% endif %} -->
 
         <!-- SPONSOR: {{mod}} -->
-        <div class="col-md-{{span}}" >
+    <!--    <div class="col-md-{{span}}" >
       	  <div class="thumbnail" style="border: 0px; padding-top: 40px;">
             <h5 class="text-center" style="margin-top: -25px; color: black;">{{supporter.name}}</h3>
             <a href="{{supporter.link}}">
@@ -49,12 +49,12 @@ layout: default
         </div>
 
         {% if mod == subone or forloop.last %}
-        </div> <!-- end row -->
-        {% endif %}
+        </div> --><!-- end row -->
+    <!--    {% endif %}
 
       {% endfor %}
     {% endfor %}
-  </div> <!-- end supporters -->
+  </div> --><!-- end supporters -->
 
 	</div> <!-- End Left Hand Side -->
 
