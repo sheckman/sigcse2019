@@ -43,7 +43,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 5, 2018"
     updates:
-    cameraready: "Sunday, December 9, 2018"
+    cameraready: "Wednesday, December 5, 2018"
     abstractdue: "Friday, August 24, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180824T2359&p1=3399"
@@ -56,7 +56,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 5, 2018"
     updates:
-    cameraready: "Sunday, December 9, 2018"
+    cameraready: "Wednesday, December 5, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     track: track1
     types:
@@ -73,7 +73,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, November 16, 2018"
     updates:
-    cameraready: "Sunday, December 16, 2018"
+    cameraready: "Wednesday, December 12, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+SRC+Deadline&iso=20181019T2359&p1=3399"
     track: track2
     types:
@@ -188,7 +188,7 @@ details:
     limits: "2 pages"
     connector: "including"
     abstract: "250 words"
-    length: "2 hours (poster session)"
+    length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
     specialsubmission: true
   Pre-Symposium and Affiliated Events:
     limits: "2 pages (including abstract of 250 words)"
@@ -207,17 +207,6 @@ studentResearchCompetition:
   chair: TBA
   email: TBA
 
-# FIXME: It would be good to remove these. I don't think I rely on them anymore...
-#papers: "Friday, September 5th, 2014"
-#panels: "Friday, September 5th, 2014"
-#specialsessions: "Friday, September 5th, 2014"
-#workshops: "Friday, September 5th, 2014"
-#studentresearch: "Monday, September 29, 2014"
-#bofs: "Monday, October 27th, 2014"
-#posters: "Monday, October 27th, 2014"
-#lightningtalks: "Monday, October 27th, 2014"
-#demos: "Monday, October 27th, 2014"
-
 html: "sigcse-2019-cfp.html"
 pdf: "sigcse-2019-cfp.pdf"
-lastupdate: "May 7, 2018"
+lastupdate: "May 29, 2018"

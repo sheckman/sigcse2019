@@ -33,15 +33,15 @@ The abstract for an accepted proposal may contain a link to a website with more 
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-lightning-talk.pdf)
+* [Sample proposal (PDF)](../docs/sigcse-sample-lightning-talk.pdf)
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-lightning-talk.docx)
+* [Sample proposal (Word)](../docs/sigcse-sample-lightning-talk.docx)
 
 ### 2018 Lightning Talks
 
-* [SIGCSE 2018 Lightning Talks - Session 1]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
+* [SIGCSE 2018 Lightning Talks - Session 1](../docs/2018-lightning-talks/2018_LightningTalks_1.pdf)
 
-* [SIGCSE 2018 Lightning Talks - Session 2]({{site.base}}/docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
+* [SIGCSE 2018 Lightning Talks - Session 2](../docs/2018-lightning-talks/2018_LightningTalks_2.pdf)
 
 ## How Do I Submit My Proposal?
 

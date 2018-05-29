@@ -50,11 +50,11 @@ The proposal length is {{site.data.cfp.details["Workshops"].limits}} maximum.
 
 -   **Significance and Relevance of the Topic**: Please include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the topic is significant.
 
--   **Expected Audience**: Briefly describe the nature and size of the expected audience. This information will help gauge the level of interest SIGCSE attendees will have in the Workshop.
+-   **Expected Audience**: Briefly describe the nature and size of the expected audience. This information will help gage the level of interest SIGCSE attendees will have in the Workshop.
 
 -   **Space and Enrollment Restrictions**: Please tell us the maximum number of participants that you can accommodate. If no limit is specified, we will assume a cap of 30 participants. Be aware that, if interest is strong, we may seek to raise the limit to 40 or more. Also indicate any special restrictions on the configuration of the room (flip chart easels, clear floor space for robots, etc.).
 
--   **Other Presenter(s)**: lthough correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional such names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All presenters must register for the SIGCSE conference and be present for the Workshop session.
+-   **Other Presenter(s)**: Although correspondence will be with the proposer above, it will be the discussion leader(s) who will be mentioned in Symposium literature. Please list any additional names (besides the proposer) and affiliations here. Be certain that you have their commitments to attend the Symposium. All presenters must register for the SIGCSE conference and be present for the Workshop session.
 
 -   **Expertise of Presenter(s)**: Give a summary of the qualifications of the presenter(s) as it relates to the topic being proposed.
 
@@ -66,14 +66,14 @@ The proposal length is {{site.data.cfp.details["Workshops"].limits}} maximum.
 
 ## Workshop Abstract
 
-The abstract is the description of the Workshop that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the Workshop Proposal. The Workshop abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted Workshop can be edited in response to reviews.)
+The abstract is the description of the Workshop that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the Workshop Proposal. The Workshop abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted Workshops can be edited in response to reviews.)
 
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-workshop.pdf)
+-  [Proposal Example (PDF)](../docs/sigcse-sample-workshop.pdf)
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-workshop.docx)
+-  [Proposal Example (Word)](../docs/sigcse-sample-workshop.docx)
 
 
 ## How Do I Submit My Proposal?

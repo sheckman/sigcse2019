@@ -75,7 +75,7 @@ THREE SUBMISSIONS ARE NECESSARY BY THE DEADLINE **-- one to the online database 
 
 1. **Complete final editing and create a PDF file of your submission. Name your files correctly.**
 
-    When your submission editing is complete, convert your paper into Adobe PDF format. Be sure to retain a copy of the source document(s), as well (e.g.,`.doc,.tex,.ps)` . Refer to our [hints on creating PDF documents]({{site.base}}/authors/creating_pdf.html). Name all of your files using your SIGCSE submission number and the lead author's last name (e.g., `fp309-turing.pdf, fp309-turing.doc`, etc.).
+    When your submission editing is complete, convert your paper into Adobe PDF format. Be sure to retain a copy of the source document(s), as well (e.g.,`.doc,.tex,.ps)` . Refer to our [hints on creating PDF documents](creating_pdf.html). Name all of your files using your SIGCSE submission number and the lead author's last name (e.g., `fp309-turing.pdf, fp309-turing.doc`, etc.).
 
 2. **Submit the PDF file of your submission to the SIGCSE online database.**
 

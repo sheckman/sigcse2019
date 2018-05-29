@@ -14,7 +14,7 @@ Posters should not be previously published, as a paper or a poster.
 Poster proposal review is not blind.
 
 Graduate or undergraduate students submitting posters may instead wish
-to submit to the [ACM Student Research Competition (SRC)](studentresearchcompetition.html) held
+to submit to the [ACM Student Research Competition (SRC)](src.html) held
 at SIGCSE {{site.data.main.year}}. Like normal posters, SRC posters are
 displayed at the conference, but the top poster authors also present
 their work orally and may win prizes and proceed to the international ACM
@@ -56,7 +56,7 @@ Limited to {{site.data.cfp.details[plural].limits}}.
 
 -   **Abstract**: Limited to 250 words. An abstract summarizes the major aspects of the entire paper in a prescribed sequence that includes: 1) the overall purpose of the study and the research problem(s) you investigated; 2) the basic design of the study; 3) major findings or trends found as a result of your analysis; and, 4) a brief summary of your interpretations and conclusions. The same abstract will also need to be submitted via a text box on the submission page. Please be sure that your description is accurate and that both submitted copies (here in the poster proposal, and in the submission text box) are exactly the same.
 
--   **Significance and Relevance of the Topic**: PPlease include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the topic is significant. You should also justify how your poster will engage participants in discussion.
+-   **Significance and Relevance of the Topic**: Please include information about any trends in relation to the topic and possibly describe (or cite) evidence to that effect. Your objective here is to explain why the topic is significant. You should also justify how your poster will engage participants in discussion.
 
 -   **Content**: A description of the expected content of the poster.
 
@@ -66,9 +66,9 @@ The abstract is the description of the poster that will appear on the conference
 
 ### Sample Proposal
 
--  [Proposal Example (PDF)]({{site.base}}/docs/sigcse-sample-poster.pdf)
+-  [Proposal Example (PDF)](../docs/sigcse-sample-poster.pdf)
 
--  [Proposal Example (Word)]({{site.base}}/docs/sigcse-sample-poster.docx)
+-  [Proposal Example (Word)](../docs/sigcse-sample-poster.docx)
 
 <a name="cur"></a>
 

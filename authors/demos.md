@@ -51,9 +51,9 @@ The abstract is the description of the Demo that will appear on the conference w
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-demo.pdf)
+* [Sample proposal (PDF)](../docs/sigcse-sample-demo.pdf)
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-demo.docx)
+* [Sample proposal (Word)](../docs/sigcse-sample-demo.docx)
 
 ## How Do I Submit My Proposal?
 

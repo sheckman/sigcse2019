@@ -40,9 +40,9 @@ The abstract is the description of the BOF that will appear on the conference we
 
 ### Sample Proposal
 
-* [Sample proposal (PDF)]({{site.base}}/docs/sigcse-sample-bof.pdf)
+* [Sample proposal (PDF)](../docs/sigcse-sample-bof.pdf)
 
-* [Sample proposal (Word)]({{site.base}}/docs/sigcse-sample-bof.doc)
+* [Sample proposal (Word)](../docs/sigcse-sample-bof.doc)
 
 ## How Do I Submit My Proposal?
 

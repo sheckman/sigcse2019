@@ -55,7 +55,7 @@ Any full-time student may become a student volunteer. (You must be a currently r
 
 ### What if I require a visa?
 
-See the main [SIGCSE Attendees]({{site.base}}/attendees/index.html) page for information about Visas.
+See the main [SIGCSE Attendees](../attendees/index.html) page for information about Visas.
 
 ### What are the benefits of student volunteering?
 

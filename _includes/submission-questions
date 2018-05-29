@@ -43,7 +43,7 @@ http://stackoverflow.com/questions/16762714/how-can-i-compare-a-strings-size-len
 {% endif %}
 
 
-If you have questions about anything discussed above, please contact the <a href="/info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{team}} {{grouping}}</a>.
+If you have questions about anything discussed above, please contact the <a href="../info/committees.html">{{site.data.main.upper}} {{site.data.main.year}} {{team}} {{grouping}}</a>.
 
 <ul style="">
 {% for category in site.data.committees %}
