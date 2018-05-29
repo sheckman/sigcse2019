@@ -22,7 +22,9 @@ The SIGCSE Technical Symposium is a forum for educators and researchers to share
 
 ### Papers
  
+
 [Papers](../authors/papers.html) describe an educational research project, classroom experience, teaching technique, curricular initiative, or pedagogical tool. All papers should explicitly state their motivating questions, relate to relevant literature, and contain an analysis of the effectiveness of the interventions, including limitations. Initial submissions must be anonymous. **Note that an ABSTRACT SUBMISSION is required for all papers and it is due a week before the full paper is due.**
+
 
   * **CS Education Research** papers should adhere to rigorous standards, describing hypotheses, methods, results, and limitations as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many populations engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation. 
   * **Experience Reports and Tools** papers should carefully describe a computer science education intervention and its context, and provide a rich reflection on what worked, what didn’t, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail for adoption by others. 
@@ -32,11 +34,13 @@ Papers may contain up to {{site.data.cfp.details.Papers.limits}}.  Accepted pape
 
 ### Panels
 
+
 [Panels](../authors/panels.html) present multiple perspectives on a specific topic. Panel proposals include a topic description, panelists, affiliations, panelist position statements, and a plan for audience participation.
 
 Panel proposals are {{site.data.cfp.details.Panels.limits}} maximum and accepted panels will be included in the proceedings.  Panels will be provided a session of {{site.data.cfp.details.Panels.length}} at the conference.
 
 ### Special Sessions
+
 
 [Special sessions](../authors/specialsessions.html) are your opportunity to design a unique 75­-minute session in a standard conference space, but distinct from papers, panels, posters, or BoFs.
 
@@ -44,11 +48,13 @@ Special session proposals are {{site.data.cfp.details["Special Sessions"].limits
 
 ### Workshops
 
+
 [Workshops](../authors/workshops.html) engage participants in learning new techniques and technologies designed to foster education, scholarship, and collaboration. Proposals must include an abstract, advertisement, intended audience and size, and specify power/A/V/equipment/space needs. Workshops do not conflict with the technical sessions.
 
 Workshop proposals are {{site.data.cfp.details.Workshops.limits}} maximum.  Accepted workshop abstracts will be included in the proceedings.  Workshops will be provided a session of {{site.data.cfp.details.Workshops.length}}.
 
 ### Nifty Assignments
+
 
 [Nifty Assignments](../authors/nifty.html) promote and share successful assignment ideas with enough materials available for others to adopt and adapt for their use. Proposals must include a short writeup describing the assignment, target population, strength and weaknesses, and what computing concept it teaches.
 
@@ -58,12 +64,14 @@ Accepted Nifty abstracts will be included in the proceedings as part of the Nift
 
 ### Birds of a Feather
 
+
 [BoFs](../authors/bofs.html) provide an environment for colleagues with similar
 interests to meet for informal discussions. A/V equipment will not be provided for BoFs.
 
 BoF proposals are {{site.data.cfp.details["Birds of a Feather"].limits}} maximum.  Accepted BoF abstracts will be included in the proceedings.  BoFs will be provided a session of {{site.data.cfp.details["Birds of a Feather"].length}}.
 
 ### Posters
+
 
 [Posters](../authors/posters.html) describe CS education materials or research, particularly works in progress.
 Posters enable one­on­one discussion with conference attendees. Prepared handouts are encouraged.
@@ -72,6 +80,7 @@ Posters proposals are {{site.data.cfp.details["Posters"].limits}} maximum.  Acce
 
 ### Demos
 
+
 [Demos](../authors/demos.html) showcase the relevance, potential, and innovation of a tool and allow time for
 discussion with its creator in the exhibition hall. Proposals include an abstract and specify power/A/V/space needs.
 
@@ -79,6 +88,7 @@ Demos proposals are {{site.data.cfp.details["Demos"].limits}} maximum.  Accepted
 
 
 ### Lightning Talks
+
 
 [Lightning talks](../authors/lightningtalks.html) describe works in progress, new and untested ideas, or
 opportunities for collaborative work. Talks are an excellent way to spark discussions and get feedback on an idea.

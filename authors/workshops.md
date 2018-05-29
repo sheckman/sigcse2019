@@ -68,7 +68,6 @@ The proposal length is {{site.data.cfp.details["Workshops"].limits}} maximum.
 
 The abstract is the description of the Workshop that will appear on the conference web pages. The description is limited to and must match verbatim the abstract section of the Workshop Proposal. The Workshop abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information. (Abstracts of accepted Workshops can be edited in response to reviews.)
 
-
 ### Sample Proposal
 
 -  [Proposal Example (PDF)](../docs/sigcse-sample-workshop.pdf)
