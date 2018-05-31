@@ -32,8 +32,8 @@
   - name: Nifty Assignments
     link: /authors/nifty.html
     divider: true
-#  - name: Pre-Symposium and Affiliated Events
-#    link: /authors/presymposium.html
+  - name: Pre-Symposium and Affiliated Events
+    link: /authors/presymposium.html
     divider: true
   # - name: Conference Proceedings
   #   link: http://dl.acm.org/citation.cfm?id=3017680
