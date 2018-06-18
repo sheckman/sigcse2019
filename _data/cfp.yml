@@ -26,6 +26,28 @@ track2:
 track3:
   timestamp: "2018-08-24T00:23:59"
   date: "Friday, August 24, 2018"
+  
+# Paper Reviewing
+bidstart: "Friday, August 24, 2018"
+bidend: "Friday, August 31, 2018"
+reviewstart: "Saturday, September 1, 2018"
+reviewend: "Wednesday, September 19, 2018"
+discussionstart: "Thursday, September 20, 2018" 
+discussionend: "Wednesday, September 26, 2018"
+
+# Track 1 Non-Paper Reviewing
+g1bidstart: "Saturday, September 1, 2018"
+g1bidend: "Thursday, September 6, 2018"
+g1reviewstart: "Friday, September 7, 2018"
+g1reviewend: "Saturday, September 22, 2018"
+g1discussionstart: "Sunday, September 23, 2018" 
+g1discussionend: "Wednesday, September 26, 2018"
+
+# Track 2 Non-Paper Reviewing
+g2reviewstart: "Thursday, October 25, 2018"
+g2reviewend: "Wednesday, November 7, 2018"
+g2discussionstart: "Thursday, November 8, 2018" 
+g2discussionend: "Wednesday, November 14, 2018"
 
 # presymposiumdates: "Tuesday, March 2nd, 2017"
 # presymposiumformurl: "docs/sigcse-pre-symposium-events.docx"
@@ -80,9 +102,12 @@ master:
       - plural: Student Research Competition
         singular: Student Research Competition
         include: src
-      - plural: Pre-Symposium and Affiliated Events
-        singular: Pre-Symposium and Affiliated Event
+      - plural: Pre-Symposium Events
+        singular: Pre-Symposium Event
         include: presymposium
+      - plural: Affiliated Events
+        singular: Affiliated Event
+        include: affiliated
       - plural: Birds of a Feather
         singular: Birds of a Feather
         include: bofs
@@ -190,11 +215,15 @@ details:
     abstract: "250 words"
     length: "3.25 hours (first round: poster session) and 1.25 hours (second round: presentation)"
     specialsubmission: true
-  Pre-Symposium and Affiliated Events:
+  Pre-Symposium Events:
     limits: "2 pages (including abstract of 250 words)"
     length: "Morning (8:30-Noon, break 10-10:30 am),
       Afternoon (1:30-5 pm, break 3-3:30 pm), or
       All Day (8:30 am-5 pm, lunch, two breaks)"
+    specialsubmission: true
+  Affiliated Events:
+    limits: "2 pages (including abstract of 250 words)"
+    length: "Varies"
     specialsubmission: true
   Nifty Assignments:
     limits: "<a href='http://nifty.stanford.edu/info.html'>http://nifty.stanford.edu/info.html</a>"

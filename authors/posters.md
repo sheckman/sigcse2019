@@ -11,7 +11,7 @@ Posters provide an opportunity for an informal presentation featuring “give an
 
 Posters should not be previously published, as a paper or a poster.
 
-Poster proposal review is not blind.
+**Poster proposal review is not blind.**
 
 Graduate or undergraduate students submitting posters may instead wish
 to submit to the [ACM Student Research Competition (SRC)](src.html) held

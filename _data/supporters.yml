@@ -11,11 +11,11 @@ Platinum:
 #   - name: "Intel"
 #     image: intel-200.png
 #     link: "https://intel.com/"
-#   - name: "Microsoft"
-#     image: microsoft-200.png
-#     link: "https://microsoft.com/"
+   - name: "Microsoft"
+     image: microsoft-200.png
+     link: "https://microsoft.com/"
     
-Gold:
+#Gold:
 #   - name: "Codio"
 #     image: codio-200.png
 #     link: "https://codio.com/"
@@ -35,7 +35,7 @@ Gold:
 #     image: zybooks-200.png
 #     link: "https://www.zybooks.com/"
 
-Silver:
+#Silver:
 #   - name: ABET
 #     image: abet-new-100.png
 #     link: "http://www.abet.org/"
@@ -49,7 +49,7 @@ Silver:
 #     image: mimir-200.png
 #     link: "http://www.mimirhq.com"
 
-Bronze:
+#Bronze:
 #   - name: Red Hat Academy
 #     image: rha-200.png
 #     link: "https://www.redhat.com/en/services/training/red-hat-academy"

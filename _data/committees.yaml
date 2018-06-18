@@ -218,52 +218,68 @@
     email: local@sigcse2018.org
 
 
-# - name: International Committee Members
-#   members:
+- name: International Committee Members
+  members:
 
-#   - name: Michelle Craig
-#     inst: University of Toronto, Canada
-#     email: mcraig@cs.toronto.edu
+   - name: Meghan Allen    
+     inst: UBC, Canada    
+     email: meghana@cs.ubc.ca
+     
+   - name: Miles Berry    
+     inst: University of Roehampton, UK    
+     email: mgberry@gmail.com
 
-#   - name: Karen Bradshaw
-#     inst: Rhodes University, South Africa
-#     email:	k.bradshaw@ru.ac.za
+   - name: Karen Bradshaw    
+     inst: Rhodes University, South Africa    
+     email: k.bradshaw@ru.ac.za
+     
+   - name: Ernesto Cuadros-Vargas    
+     inst: UTEC, Peru    
+     email: ecuadros@spc.org.pe
 
-#   - name: Arto Hellas
-#     inst: University of Helsinki, Finland
-#     email: arto.hellas@cs.helsinki.fi
+   - name: Paul Denny    
+     inst: University of Auckland, New Zealand    
+     email: paul@cs.auckland.ac.nz
 
-#   - name: Carsten Kleiner
-#     inst: Hochschule Hannover, Germany
-#     email:	carsten.kleiner@hs-hannover.de
+   - name: Rita Garcia    
+     inst: Adelaide, Australia    
+     email: rita.garcia@adelaide.edu.au
+     
+   - name: Orit Hazzan   
+     inst: Technion, Israel    
+     email: oritha@ed.technion.ac.il
+     
+   - name: Arto Hellas    
+     inst: University of Helsinki, Finland    
+     email: arto.hellas@cs.helsinki.fi
+     
+   - name: Carsten Kleiner    
+     inst: Hochschule Hannover, Germany    
+     email: carsten.kleiner@hs-hannover.de
+     
+   - name: Wendy Powley    
+     inst: Queen's University, Canada    
+     email: wendy@cs.queensu.ca
+     
+   - name: Marco Silva    
+     inst: Federal University of Technology, Brazil    
+     email: magsilva@utfpr.edu.br
 
-#   - name: Shitanshu Mishra
-#     inst: Indian Institute of Technology Bombay, India
-#     email: shitanshu@iitb.ac.in
-
-#   - name: Kazushi Ohya
-#     inst: Tsurumi University, Japan
-#     email:	oya-k@tsurumi-u.ac.jp
-
-#   - name: Elizabeth Patitsas
-#     inst: McGill University, Canada
-#     email:	patitsas@cs.mcgill.ca
-
-#   - name: Marco Silva
-#     inst: Federal University of Technology, Brazil
-#     email:	magsilva@utfpr.edu.br
-
-#   - name: Claudia Szabo
-#     inst: The University of Adelaide, Australia
-#     email:	claudia.szabo@adelaide.edu.au
-
-#   - name: Gary Wong
-#     inst: The University of Hong Kong, Hong Kong
-#     email:	wongkwg@hku.hk
-
-#   - name: Ming Zhang
-#     inst: Peking University, China
-#     email:	mzhang_cs@pku.edu.cn
+   - name: Abhijat Vichare    
+     inst: Persistent, India    
+     email: abhijatv@acm.org
+     
+   - name: Hironori Washizaki    
+     inst: Waseda University, Japan    
+     email: washizaki@waseda.jp
+     
+   - name: Gary Wong    
+     inst: University of Hong Kong, Hong Kong    
+     email: wongkwg@hku.hk
+     
+   - name: Ming Zhang    
+     inst: Peking University, China    
+     email: mzhang_cs@pku.edu.cn
 
 # - name: Associate Program Chairs
 #   members:

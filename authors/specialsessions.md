@@ -15,6 +15,11 @@ Possible topic areas include management of large classes, projects and assignmen
 
 **Special session proposal review is NOT blind.** Criteria used in reviewing the proposals will include the likely level of interest in the session and the suitability and feasibility of the proposed format to its topic. If the proposal is accepted, all presenters listed in the special session description will be required to register for the conference and to participate in the session.
 
+<div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+     We are particularly interested in proposals that highlight the 50th SIGCSE Technical Symposium.  Please check the option on the submission form if your proposal is related to the 50th.
+</div>
+
 ## How Should The Proposal Be Formatted?
 
 

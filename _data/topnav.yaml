@@ -32,8 +32,10 @@
   - name: Nifty Assignments
     link: /authors/nifty.html
     divider: true
-  - name: Pre-Symposium and Affiliated Events
+  - name: Pre-Symposium Events
     link: /authors/presymposium.html
+  - name: Affiliated Events
+    link: /authors/affiliated.html
     divider: true
   # - name: Conference Proceedings
   #   link: http://dl.acm.org/citation.cfm?id=3017680
@@ -42,19 +44,20 @@
     link: /docs/SIGCSE_2019_CFP.pdf
 - name: For Reviewers
   subheads:
-  # - name: Bidding on Papers
-  #   link: /reviewers/review-bidding.html
-  #   divider: true
-  # - name: Process for Papers
-  #   link: /reviewers/review-process.html
-  # - name: Process for Workshops
-  #   link: /reviewers/review-workshops.html
-  # - name: Process for Special Sessions
-  #   link: /reviewers/review-special-sessions.html
-  # - name: Process for Panels
-  #   link: /reviewers/review-panels.html
-  #- name: APC Responsibilities
-  #  link: /reviewers/apc-responsibilities.html
+   - name: Paper Review Process & Responsibilities
+     link: /reviewers/paper-review-process.html
+   - name: Paper Review Guidelines
+     link: /reviewers/paper-review-guidelines.html
+     divider: true
+   - name: General Review Process
+     link: /reviewers/general-review-process.html
+#   - name: Workshop Review Guidelines
+#     link: /reviewers/workshop-review-guidelines.html
+#   - name: Special Session Review Guidelines
+#     link: /reviewers/special-sessions-review-guidelines.html
+#   - name: Panel Review Guidelines
+#     link: /reviewers/panel-review-guidelines.html
+     divider: true
    - name: Reviewer Signup
      link: /reviewers/signup.html
 # - name: For Attendees
@@ -164,7 +167,7 @@
       link: /info/committees.html#ProgramCommittee
     - name: Organizing Committee
       link: /info/committees.html#OrganizingCommittee
-#    - name: International Committee
-#      link: /info/committees.html#InternationalCommitteeMembers
+    - name: International Committee
+      link: /info/committees.html#InternationalCommitteeMembers
 #    - name: Associate Program Chairs
 #      link: /info/committees.html#ProgramCommittee
