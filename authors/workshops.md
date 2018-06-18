@@ -9,7 +9,7 @@ showTitle: true
 
 Workshops provide an in-depth review of, or introduction to, a topic of interest, and should provide participants with materials and/or ideas that are immediately useful in the classroom. To this end, workshop presenters should provide participants with handouts outlining the workshop material.
 
-Workshop proposals undergo review but not blind review. Proposals are evaluated for relevance, anticipated interest, quality, and availability of appropriate facilities. Additionally, the breadth of topics is considered with the aim of having a balanced program. Finally, for workshops that have run before, feedback from prior workshops can be taken into account. You may want to review the list of last year’s accepted SIGCSE workshops prior to submitting a proposal.
+**Workshop proposals undergo review but not blind review.** Proposals are evaluated for relevance, anticipated interest, quality, and availability of appropriate facilities. Additionally, the breadth of topics is considered with the aim of having a balanced program. Finally, for workshops that have run before, feedback from prior workshops can be taken into account. You may want to review the list of last year’s accepted SIGCSE workshops prior to submitting a proposal.
 
 SIGCSE will provide one night free lodging per accepted workshop (not per presenter) at one of the conference hotels. This will be arranged after the accepted workshops have been selected. Please discuss this with your co-presenters and decide who will be using the provided free night. 
 
@@ -19,14 +19,13 @@ All hands-on workshops at SIGCSE will use participants’ laptop computers at th
 
 Proposers of hands-on workshops should indicate which of the following formats they wish for their workshop:
 
--   **Laptop Required**. Participants should bring a laptop computer to
-    participate in this workshop.
+* **Laptop Required**. Participants should bring a laptop to participate.
 
--   **Laptop Recommended**. It is recommended, but not required, that
-    participants bring a laptop computer to this workshop.
-
--   **Laptop Optional**. It is not necessary for participants to bring
-    laptops to this workshop.
+* **Laptop Recommended**. It is recommended, but not required, that participants bring a laptop.
+	
+* **Laptop Optional**. It is not necessary for participants to bring laptops.
+	
+* **Laptop Not Required**. Participants do not need a laptop.
 
 ## How Should The Proposal Be Formatted?
 

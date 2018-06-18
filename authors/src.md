@@ -15,7 +15,7 @@ All graduate submissions must represent a student’s individual research contri
 
 Students will submit extended abstracts of {{site.data.cfp.details[plural].limits}} maximum, which will be reviewed to determine acceptance into the Student Research Competition (SRC) at SIGCSE. If accepted into the SRC, an abstract of {{site.data.cfp.details[plural].abstract}} will be published (see below). 
 
-Qualifying research must deal with topics that are relevant to the mission of the SIGCSE Technical Symposium, as described by the Call for Participation. The author submitting the abstract must still be a student at the time the abstract is due. Each submission should include the author’s name, affiliation, postal address, and email address; research advisor’s name; ACM student member number; category (undergraduate or graduate); research title; and an extended abstract (maximum {{site.data.cfp.details[plural].limits}} - references may be on the third page) containing the following sections:
+Qualifying research must deal with topics that are relevant to the mission of the SIGCSE Technical Symposium, as described by the Call for Participation. The author submitting the abstract must still be a student at the time the abstract is due. Each submission should include the author’s name, affiliation, and email address; research advisor’s name; ACM student member number; category (undergraduate or graduate); research title; and an extended abstract (maximum {{site.data.cfp.details[plural].limits}} - references may be on the third page) containing the following sections:
 
 * **Abstract**: max {{site.data.cfp.details[plural].abstract}}
 
@@ -45,7 +45,7 @@ No more than three research projects will be accepted from a single department a
 
 Authors of all accepted submissions will receive instructions on how to submit the publication-ready copy of an abstract of {{site.data.cfp.details[plural].abstract}} that serves as a succinct description of the project. Deadline and instructions regarding publication-ready submissions are emailed to accepted authors. 
 
-A travel grant covering expenses for travel to SIGCSE, including conference registration, transportation, lodging, and meals, up to a limit of US $500 will be provided to each student whose submission was accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.
+A travel grant covering expenses for travel to SIGCSE, including conference registration, transportation, lodging, and meals, up to a limit of US $500 may be provided to each student whose submission was accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.
 
 ## At the Conference
 

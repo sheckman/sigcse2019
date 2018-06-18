@@ -15,7 +15,12 @@ Papers describe an educational research project, classroom experience, teaching 
 
 * **Experience Reports and Tools** papers should carefully describe a computer science education intervention and its context, and provide a rich reflection on what worked, what didn’t, and why. This track accepts experience reports, teaching techniques, and pedagogical tools. All papers in this track should provide enough detail so that others could adopt the new innovation.
 
-* **New curricula, programs, degrees and position papers**. Papers about curricula, programs, and degrees should describe the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. Position papers are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
+* **Curricula Initiatives** papers should describe new curricula, programs, and degrees, the motivating context before the new initiative was undertaken, what it took to put the initiative into place, what the impact has been, and suggestions for others wishing to adopt it. This track may also include position papers, which are meant to engender fruitful academic discussion by presenting a defensible opinion about a CS education topic, substantiated with evidence.
+
+<div class = "alert alert-info" style="margin-top: 23px">
+    <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+     We are particularly interested in Curricula Initiatives that highlight the 50th SIGCSE Technical Symposium.  Please check the option on the submission form if your Curricula Initiatives paper is related to the 50th.
+</div>
 
 
 
