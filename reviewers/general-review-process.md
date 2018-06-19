@@ -5,7 +5,12 @@ title: General Review Process
 
 ## SIGCSE 2019 General Review Process
 
-The general review process covers submissions from [panels](../authors/panels.html), [special sessions](../authors/specialsessions.html), [workshops](../authors/workshops.html), [Nifty Assignments](../authors/nifty.html), [BoFs](../authors/bofs.html), [Posters](../authors/posters.html), [Demos](../authors/demos.html), [Lightning talks](../authors/lightningtalks.html), and [ACM Student Research Competition](../authors/src.html).  (If you are reviewing for [Papers](../authors/papers.html), please refer to the [Paper Review Process](paper-review-process.html)).
+The general review process covers submissions (grouped by submission date):
+
+* [**Group 1**](#group-1-timeline): [Panels](../authors/panels.html), [Special Sessions](../authors/specialsessions.html), [workshops](../authors/workshops.html)
+* [**Group 2**](#group-2-timeline): [Nifty Assignments](../authors/nifty.html), [BoFs](../authors/bofs.html), [Posters](../authors/posters.html), [Demos](../authors/demos.html), [Lightning talks](../authors/lightningtalks.html), and [ACM Student Research Competition](../authors/src.html).  
+
+(If you are reviewing for [Papers](../authors/papers.html), please refer to the [Paper Review Process](paper-review-process.html)).
 
 Reviewers provide high-quality reviews for submissions to provide authors with feedback so they may improve their work for presentation or future submission.
 
