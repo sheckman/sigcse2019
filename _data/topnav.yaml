@@ -51,12 +51,12 @@
      divider: true
    - name: General Review Process
      link: /reviewers/general-review-process.html
-#   - name: Workshop Review Guidelines
-#     link: /reviewers/workshop-review-guidelines.html
-#   - name: Special Session Review Guidelines
-#     link: /reviewers/special-sessions-review-guidelines.html
-#   - name: Panel Review Guidelines
-#     link: /reviewers/panel-review-guidelines.html
+   - name: Panel Review Guidelines
+     link: /reviewers/panel-review-guidelines.html
+   - name: Special Session Review Guidelines
+     link: /reviewers/special-sessions-review-guidelines.html
+   - name: Workshop Review Guidelines
+     link: /reviewers/workshop-review-guidelines.html
      divider: true
    - name: Reviewer Signup
      link: /reviewers/signup.html
