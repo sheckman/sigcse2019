@@ -87,7 +87,7 @@ Authors must choose the track that they feel best fits their submission.  Review
 
 Papers submitted to the CS Education Research track describe an empirical computing education project.
 
-CS Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.
+CS Education Research papers should adhere to rigorous standards, describing hypotheses, methods, and results as is typical for research studies. These normally focus on topics relevant to computing education with emphasis on educational goals and knowledge units/topics relevant to computing education with statistical rigor; methods or techniques in computing education; evaluation of pedagogical approaches; and studies of the many different populations that are engaged in computing education, including (but not limited to) students, instructors, and issues of gender, diversity, and underrepresentation.  We welcome replication papers and papers that present null or negative results that meet the criteria below.
 
 For a typical paper in this track, here are some key factors to include (as an author) and to look for (as a reviewer):
 
@@ -111,7 +111,7 @@ For a typical paper in this track, here are some key factors to include (as an a
     - Is the methodology described, with an appropriate citation?
     - Is the implementation of the methodology clearly enough described? How many people were involved? What process was used to resolve any disagreements?
 	- Is the analysis process/methodology appropriate for answering the research questions?
-7. Is the analysis methodology something new to computing education research that might be a contribution in itself?
+7. Is the analysis methodology something new to computing education research that might be a contribution itself?
 8. Are the results of the analysis clearly summarized?
 9. Are the results thoroughly discussed, including:
     - Their relationship to the research questions
