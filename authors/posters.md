@@ -85,7 +85,7 @@ Poster presentations by undergraduates will be judged by at least two judges.  S
 
 For consideration, please check the option __Presenting Author is an Undergraduate Student__ during submission of the poster.  The undergraduate student must be present during the poster presentation to be evaluated and be eligible for the award.  
 
-Please note that this award is separate from the [ACM Student Research Competition](https://sigcse2018.sigcse.org/authors/src.html).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
+Please note that this award is separate from the [ACM Student Research Competition](src.html).  Undergraduate students participating in the ACM Student Research Competition are not eligible for consideration of the CUR award.
 
 
 ## How Do I Submit My Proposal?
