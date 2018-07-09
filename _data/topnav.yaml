@@ -125,6 +125,8 @@
   subheads:
     - name: Prospectus
       link: /info/supporters.html
+    - name: Interactive Floor Plan
+      link: /info/floorplan.html
     #- name: List of Supporters and Exhibitors
     #  link: /info/supporters-and-exhibitors.html
 #- name: Program
