@@ -60,8 +60,10 @@
      divider: true
    - name: Reviewer Signup
      link: /reviewers/signup.html
-# - name: For Attendees
-#   subheads:
+- name: For Attendees
+  subheads:
+   - name: Conference Policies
+     link: /policies.html
 #   - name: Venue Information
 #     link: /attendees/index.html
 #   - name: Registration and Rates
@@ -72,8 +74,6 @@
 #     link: /attendees/index.html#roommatedb
 #   - name: Transportation
 #     link: /attendees/index.html#travel
-#   - name: Conference Policies
-#     link: http://sigcse2019.sigcse.org/policies.html
 #   - name: Student Volunteers
 #     link: /info/studentvolunteers.html
 #     divider: true
