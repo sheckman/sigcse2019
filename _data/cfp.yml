@@ -1,15 +1,18 @@
-submissionopen: false
+submissionopen: true
 submissionurl: "https://easychair.org/conferences/?conf=sigcse2019"
-track1open: false
+track1open: true
 track1url: https://easychair.org/conferences/?conf=sigcse2019
-track2open: false
+track2open: true
 track2url: https://easychair.org/conferences/?conf=sigcse2019
 track3url: https://easychair.org/conferences/?conf=sigcse2019
-track3open: false
+track3open: true
 track4url: https://easychair.org/conferences/?conf=sigcse2019
-track4open: false
+track4open: true
 camerareadyinstructionsopen: false
 camerareadyinstructions: "http://www.sheridanprinting.com/typedept/sigcse2019.htm"
+
+symposiumchairsemail: symposium@sigcse2010.org
+programchairsemail: program@sigcse2019.org
 
 #TODO: Fix days of weeks and time and date links
 #  Full  Papers,  Panels,  Special  Sessions  &  Workshops
@@ -238,4 +241,4 @@ studentResearchCompetition:
 
 html: "sigcse-2019-cfp.html"
 pdf: "sigcse-2019-cfp.pdf"
-lastupdate: "May 29, 2018"
+lastupdate: "July 9, 2018"
