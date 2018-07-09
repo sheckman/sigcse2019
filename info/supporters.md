@@ -33,4 +33,18 @@ This is the most efficient way to interact with the most active
 teaching faculty in computing and information science.
 </p>  </div>
 
-</div>
+
+<p><b>For Exhibiting and Sponsorship information contact:</b>
+ 
+<p>SIGCSE Conference Management<br>
+dLPLAN Meetings | Events<br>
+Dorothea Heck<br>
+Angelina Streich<br>
+<a href="mailto:sigcse@dlplan.com">sigcse@dlplan.com</a><br>
++1.609.344.1333<br>
+
+<p>Support/Exhibitor Liaisons<br>
+<a href="mailto:exhibitor@sigcse2019.org">exhibitor@sigcse2019.org</a><br>
+Dave Musicant - Carleton College<br>
+Jodi Tims - Baldwin Wallace University
+
