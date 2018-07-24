@@ -18,6 +18,8 @@
     link: /authors/specialsessions.html
   - name: Workshops
     link: /authors/workshops.html
+  - name: 50th Celebration
+    link: /authors/celebration.html
     divider: true
   - name: ACM Student Research Competition
     link: /authors/src.html
@@ -64,12 +66,12 @@
   subheads:
    - name: Conference Policies
      link: /policies.html
-#   - name: Venue Information
-#     link: /attendees/index.html
+   - name: Venue Information
+     link: /attendees/index.html
 #   - name: Registration and Rates
 #     link: /attendees/index.html#registering    
-#   - name: Hotels
-#     link: /attendees/index.html#reserving-a-room
+   - name: Hotels
+     link: /attendees/index.html#reserving-a-room
 #   - name: Roommate Database
 #     link: /attendees/index.html#roommatedb
 #   - name: Transportation

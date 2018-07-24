@@ -18,7 +18,7 @@ to submit to the [ACM Student Research Competition (SRC)](src.html) held
 at SIGCSE {{site.data.main.year}}. Like normal posters, SRC posters are
 displayed at the conference, but the top poster authors also present
 their work orally and may win prizes and proceed to the international ACM
-Student Research Competition.  [Please note that this year there are also awards from the Council of Undergraduate Research (CUR) for undergraduates presenting posters.](#cur) 
+Student Research Competition.  [Please note that this year there is also an award from the Council of Undergraduate Research (CUR) for undergraduates presenting posters.](#cur) 
 
 ## Poster Topic Ideas
 

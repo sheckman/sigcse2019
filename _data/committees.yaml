@@ -220,9 +220,23 @@
   - name: Jigang Liu
     role: Local Arrangements
     inst:  Metropolitan State University
-    email: local@sigcse2018.org
+    email: local@sigcse2018.org 
 
+  - name: Adrienne Decker
+    role: 50th Celebration Planning Committee
+    inst:  Rochester Institute of Technology
+    email: 50th-celebration@sigcse2019.org  
 
+  - name: Kurt Eiselt
+    role: 50th Celebration Planning Committee
+    inst:  UC Davis
+    email: 50th-celebration@sigcse2019.org
+
+  - name: Carl Alphonce
+    role: 50th Celebration Planning Committee
+    inst:  University at Buffalo
+    email: 50th-celebration@sigcse2019.org
+    
 - name: International Committee Members
   members:
 
