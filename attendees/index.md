@@ -36,6 +36,7 @@ As always, we encourage attendees to register early. This helps us with our plan
 Professionals should choose one of the "Non-member joining SIGCSE" registration categories, which are <b>less expensive</b> than the Non-member category. Students simply choose the "Student Non-member" registration category, and then don't opt-out of the included membership (that's right -- it couldn't be much easier). Alternatively, you could <a href="http://sigcse.org/sigcse/membership">join SIGCSE</a>, wait for your membership number, and then register for the conference using the "Member" category.
 
 But wait! There's more! <b>Student volunteers</b> get reimbursed for their conference registration, so they actually <b>get free SIGCSE membership</b> when they join at the same time that they register for the conference. Important: to get this benefit, students must register as volunteers through a system separate from conference registration.
+-->
 
 <a name="registrationrates"></a>
 
@@ -43,15 +44,15 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Rates </div>
-    <div class = "col-sm-2"> Early: Dec 18-Jan 15 </div>
-    <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
-    <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
+    <div class = "col-sm-2"> Early: Dates TBD </div>
+    <div class = "col-sm-2"> Advance: Dates TBD </div>
+    <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student* </div>
-    <div class = "col-sm-2"> $175 </div>
-    <div class = "col-sm-2"> $175 </div>
-    <div class = "col-sm-2"> $175 </div>
+    <div class = "col-sm-2"> $80 </div>
+    <div class = "col-sm-2"> $80 </div>
+    <div class = "col-sm-2"> $80 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> K-12 Teacher Fri-Sat* </div>
@@ -64,6 +65,12 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $275 </div>
     <div class = "col-sm-2"> $300 </div>
     <div class = "col-sm-2"> $325 </div>
+</div>
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Community College Faculty Fri-Sat* </div>
+    <div class = "col-sm-2"> $150 </div>
+    <div class = "col-sm-2"> $175 </div>
+    <div class = "col-sm-2"> $200 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Community College Faculty* </div>
@@ -92,10 +99,10 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 *Must be or become a member to receive this rate
 
-NOTE: Registration is unvailable from Feb 14-Feb 20.
+<!--NOTE: Registration is unavailable from Feb 14-Feb 20.-->
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
-
+<!--
 #### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">
