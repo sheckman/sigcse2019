@@ -43,7 +43,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 ### Registration Rates
 
 <div class = "row" style = "font-weight: bold;">
-    <div class = "col-sm-6"> Registration Rates </div>
+    <div class = "col-sm-6"> Registration Type </div>
     <div class = "col-sm-2"> Early: Dates TBD </div>
     <div class = "col-sm-2"> Advance: Dates TBD </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
