@@ -10,7 +10,7 @@ showTitle: true
 
 Affiliated Events are an excellent venue for SIGCSE sub-communities or groups to arrange a time to gather and present or discuss topics of interest, typically over a meal or during a reception during the conference. We encourage submission of affiliated events that describe existing and emerging subfields, areas and groups of diversity, and bringing together communities of practice.
 
-The SIGCSE 2019 organizers have a vision to encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event. **Affiliated event organizers are expected to cover the cost of the room, food, and/or A/V. Cost information will be available on the conference website.**
+The SIGCSE 2019 organizers have a vision to encourage sub-communities to gather in their own affiliated events by submitting an affiliated event proposal that should include a description of the event and its importance and relevance and the proposed format for the event. **Affiliated event organizers are expected to [cover the cost of the room, food, and/or A/V](#logistics)**
 
 If your affiliated event is accepted, affiliated events  invite members of your community to participate in the event. Your event organizers would be responsible for handling all affiliated event websites and participant organization.  The title, organization, abstract, and date/time for the affiliated event are included in the schedule.
 
@@ -59,6 +59,20 @@ The abstract is the description of the event that will appear on the conference 
 -  [Proposal Example (PDF)](../docs/sigcse-sample-event.pdf)
 
 -  [Proposal Example (Word)](../docs/sigcse-sample-event.docx)
+
+<a name="logistics"></a>
+
+## Logistics
+The logistics information for Affiliated Events are detailed below.  Once the Affiliated Event is accepted the Pre-Symposium and Affiliated Events Chairs will contact organizers for further details about logistics including invoicing. 
+
+### Rooms
+Room and A/V costs will depend on particular needs.  Please email the Pre-Symposium and Affiliated Events Chairs for more details.
+  
+### Food and Beverage
+Food and beverage must be paid by the Affiliated Event organizers directly to the hotel.
+
+### Registration
+Registration must be handled by the Affiliated Event organizers and will not be handled by the SIGCSE registration system.
 
 ## How Do I Submit My Proposal?
 

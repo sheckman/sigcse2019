@@ -10,7 +10,7 @@ showTitle: true
 
 Pre-Symposium Events are an excellent venue for SIGCSE sub-communities to arrange their own event or meeting on the Wednesday before SIGCSE gets started. We encourage submission of events that describe existing and emerging subfields and the plan organizers have to build growth in their communities. We also encourage events that help develop new faculty and leaders in Computer Science Education.
 
-The SIGCSE 2019 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **Pre-symposium event organizers are expected to cover the cost of the room, food, and/or A/V. Cost information will be available on the conference website.**
+The SIGCSE 2019 organizers have a vision to encourage sub-communities to organize their own events by submitting a pre-symposium event proposal that should include a description of the event and its importance and relevance, the proposed organizing committee and, if appropriate, the program committee, and the proposed format for the event.  **Pre-symposium event organizers are expected to [cover the cost of the room, food, and/or A/V](#logistics).**
 
 If your pre-symposium event is accepted, the event organizers would then release a “Call for Participation” inviting members of your community to submit papers, posters, or apply to your event through your own event submission site. Your organizing and program committees would be responsible for handling all event websites, submissions, decisions, notifications, and publication of the event proceedings.
 
@@ -67,6 +67,23 @@ The abstract is the description of the event that will appear on the conference 
 -  [Proposal Example (PDF)](../docs/sigcse-sample-event.pdf)
 
 -  [Proposal Example (Word)](../docs/sigcse-sample-event.docx)
+
+<a name="logistics"></a>
+
+## Logistics
+The logistics information for Pre-symposium Events are detailed below.  Once the pre-symposium event is accepted the Pre-Symposium and Affiliated Events Chairs will contact organizers for further details about logistics including invoicing. 
+
+### Rooms
+The charge is per room for the pre-symposium event.  The charge covers the room and A/V for the room.
+
+  * Full Day: $500
+  * Half Day: $250
+  
+### Food and Beverage
+Food and beverage must be paid by the Pre-Symposium Event organizers directly to the hotel.
+
+### Registration
+Registration must be handled by the Pre-Symposium Event organizers and will not be handled by the SIGCSE registration system.
 
 ## How Do I Submit My Proposal?
 

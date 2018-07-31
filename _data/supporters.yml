@@ -15,7 +15,7 @@ Platinum:
      image: microsoft-200.png
      link: "https://microsoft.com/"
     
-#Gold:
+Gold:
 #   - name: "Codio"
 #     image: codio-200.png
 #     link: "https://codio.com/"
@@ -25,9 +25,9 @@ Platinum:
 #   - name: "Oracle Academy"
 #     image: oracle-200.png
 #     link: "http://www.oracle.com/academy/" 
-#   - name: "Turing's Craft"
-#     image: turingscraft-200.png
-#     link: "https://www.turingscraft.com/"
+   - name: "Turing's Craft"
+     image: turingscraft-200.png
+     link: "https://www.turingscraft.com/"
 #   - name: "Vocareum, Inc"
 #     image: vocareum-new-200.png
 #     link: "https://www.vocareum.com/"
