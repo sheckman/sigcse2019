@@ -49,43 +49,43 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Student* </div>
+    <div class = "col-sm-6"> Student <b>&starf;</b> </div>
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> K-12 Teacher Fri-Sat* </div>
+    <div class = "col-sm-6"> K-12 Teacher Fri-Sat <b>&starf;</b> </div>
     <div class = "col-sm-2"> $150 </div>
     <div class = "col-sm-2"> $175 </div>
     <div class = "col-sm-2"> $200 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> K-12 Teacher* </div>
+    <div class = "col-sm-6"> K-12 Teacher <b>&starf;</b> </div>
     <div class = "col-sm-2"> $275 </div>
     <div class = "col-sm-2"> $300 </div>
     <div class = "col-sm-2"> $325 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Community College Faculty Fri-Sat* </div>
+    <div class = "col-sm-6"> Community College Faculty Fri-Sat <b>&starf;</b> </div>
     <div class = "col-sm-2"> $150 </div>
     <div class = "col-sm-2"> $175 </div>
     <div class = "col-sm-2"> $200 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Community College Faculty* </div>
+    <div class = "col-sm-6"> Community College Faculty <b>&starf;</b> </div>
     <div class = "col-sm-2"> $300 </div>
     <div class = "col-sm-2"> $325 </div>
     <div class = "col-sm-2"> $350 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> Retired SIGCSE members* </div>
+    <div class = "col-sm-6"> Retired SIGCSE members <b>&starf;</b> </div>
     <div class = "col-sm-2"> $200 </div>
     <div class = "col-sm-2"> $225 </div>
     <div class = "col-sm-2"> $325 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
-    <div class = "col-sm-6"> ACM/SIG Members* </div>
+    <div class = "col-sm-6"> ACM/SIG Members <b>&starf;</b> </div>
     <div class = "col-sm-2"> $325 </div>
     <div class = "col-sm-2"> $375 </div>
     <div class = "col-sm-2"> $425 </div>
@@ -97,7 +97,12 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $525 </div>
 </div>
 
-*Must be or become a member to receive this rate
+<div class = "row" style = "font-weight: bold;">
+	<div class = "col-sm-8">
+		<hr>
+		<b>&starf;</b> Must be or become a member to receive this rate
+	</div>
+</div>
 
 <!--NOTE: Registration is unavailable from Feb 14-Feb 20.-->
 
