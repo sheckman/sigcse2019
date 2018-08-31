@@ -1,7 +1,7 @@
 Platinum:
-#   - name: GitHub
-#     image: github-200.png
-#     link: "https://github.com/"  
+   - name: "GitHub, Inc."
+     image: github-education-200.png
+     link: "https://github.com/" 
    - name: "Google, Inc."
      image: google-200.png
      link: "https://www.google.com/edu/cs/"
@@ -45,9 +45,9 @@ Silver:
 #   - name: Gradescope
 #     image: gradescope-200.png
 #     link: "https://gradescope.com/"
-#   - name: Mimir
-#     image: mimir-200.png
-#     link: "http://www.mimirhq.com"
+   - name: Mimir
+     image: mimir-200.png
+     link: "http://www.mimirhq.com"
 
 #Bronze:
 #   - name: Red Hat Academy
