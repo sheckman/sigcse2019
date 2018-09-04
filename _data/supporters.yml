@@ -1,7 +1,7 @@
 Platinum:
-   - name: "GitHub, Inc."
+   - name: "GitHub Education"
      image: github-education-200.png
-     link: "https://github.com/" 
+     link: "https://education.github.com/" 
    - name: "Google, Inc."
      image: google-200.png
      link: "https://www.google.com/edu/cs/"
