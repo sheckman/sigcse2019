@@ -5,27 +5,19 @@ showTitle: true
 
 {% assign prevdate = "" %}
 
-{% for ws in site.data.workshops %}
-{% assign thisdate = ws.date %}
-{% if thisdate != prevdate %}
-  <h2 class="alert alert-info">{{thisdate}}</h2>
-{% endif %}
+<ul>
+{% for ws in site.data.workshops-2019 %}
+<li><a href="#{{ws.title}}">{{ws.title}}</a></li>
+{% endfor %}
+</ul>
 
-{% if ws.cancelled %}
-<h3 style="color: red;">CANCELED: Workshop {{ws.number}}</h3> 
-<div style = "color: #CCCCCC; ">
-{% endif %}
+{% for ws in site.data.workshops-2019 %}
 
-<h3 {% if ws.cancelled %} style="text-decoration:line-through;"{% endif %} > {{ws.number}}: {{ws.title}}</h3>
+<h3 id="{{ws.title}}"> {{ws.easychair}}: {{ws.title}}</h3>
 
-<p><b>{{ws.presenters}}</b><br/>
-<b>{{thisdate}}</b><br/>
-<b>Room: {{ws.room}}</b></p>
-{{ws.abstract}}
+<p><b>{{ws.authors}}</b></p>
+<p><em><small>{{ws.advertisement}}</small></em></p>
 
-{% if ws.cancelled %}
-</div>
-{% endif %}
+<p>{{ws.abstract}}</p>
 
-{% assign prevdate = thisdate %}
 {% endfor %}

@@ -8,20 +8,20 @@ Platinum:
 #   - name: "Infosys Foundation USA"
 #     image: infosys-200.png
 #     link: "http://www.infosys.org/infosys-foundation-usa/"
-#   - name: "Intel"
-#     image: intel-200.png
-#     link: "https://intel.com/"
    - name: "Microsoft"
      image: microsoft-200.png
      link: "https://microsoft.com/"
     
 Gold:
-#   - name: "Codio"
-#     image: codio-200.png
-#     link: "https://codio.com/"
+   - name: "Codio"
+     image: codio-200.png
+     link: "https://codio.com/"
 #   - name: "IBM"
 #     image: ibm-200.png
 #     link: "http://ibm.com"
+   - name: "Intel"
+     image: intel-200.png
+     link: "https://intel.com/"
 #   - name: "Oracle Academy"
 #     image: oracle-200.png
 #     link: "http://www.oracle.com/academy/" 
