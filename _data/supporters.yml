@@ -22,9 +22,7 @@ Gold:
    - name: "Intel"
      image: intel-200.png
      link: "https://intel.com/"
-#   - name: "Oracle Academy"
-#     image: oracle-200.png
-#     link: "http://www.oracle.com/academy/" 
+
    - name: "Turing's Craft"
      image: turingscraft-200.png
      link: "https://www.turingscraft.com/"
@@ -48,7 +46,10 @@ Silver:
    - name: Mimir
      image: mimir-200.png
      link: "http://www.mimirhq.com"
-
+   - name: "Oracle Academy"
+     image: oracle-2019-200.png
+     link: "http://www.oracle.com/academy/" 
+     
 #Bronze:
 #   - name: Red Hat Academy
 #     image: rha-200.png
