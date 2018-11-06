@@ -44,8 +44,8 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: Dates TBD </div>
-    <div class = "col-sm-2"> Advance: Dates TBD </div>
+    <div class = "col-sm-2"> Early: Dates TBA-Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Dates Jan 20-Feb 17 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
