@@ -23,6 +23,10 @@ Gold:
      image: intel-200.png
      link: "https://intel.com/"
 
+   - name: "Oracle Academy"
+     image: oracle-2019-200.png
+     link: "http://www.oracle.com/academy/" 
+
    - name: "Turing's Craft"
      image: turingscraft-200.png
      link: "https://www.turingscraft.com/"
@@ -32,9 +36,6 @@ Gold:
    - name: "zyBooks"
      image: zybooks-200.png
      link: "https://www.zybooks.com/"
-   - name: "Oracle Academy"
-     image: oracle-2019-200.png
-     link: "http://www.oracle.com/academy/" 
 
 
 Silver:

@@ -75,10 +75,14 @@
               </li> <!-- internal dropdown -->
             {% else %}
               <li>
+                {% if item.link | contains: "http" %}
+                <a href="{{item.link}}">{{item.name}}</a>
+                {% else %}
                 <!-- item[1]: {{item[1]}} item[0]: {{item[0]}}-->
                 <a href="{{ item.link | prepend: site.baseurl }}">
                     {{item.name}}
                 </a>
+                {% endif %}
                 </li>
             {% endif %}
             {% if item.divider %}
