@@ -32,6 +32,10 @@ Gold:
    - name: "zyBooks"
      image: zybooks-200.png
      link: "https://www.zybooks.com/"
+   - name: "Oracle Academy"
+     image: oracle-2019-200.png
+     link: "http://www.oracle.com/academy/" 
+
 
 Silver:
    - name: ABET
@@ -46,9 +50,6 @@ Silver:
    - name: Mimir
      image: mimir-200.png
      link: "http://www.mimirhq.com"
-   - name: "Oracle Academy"
-     image: oracle-2019-200.png
-     link: "http://www.oracle.com/academy/" 
      
 #Bronze:
 #   - name: Red Hat Academy
