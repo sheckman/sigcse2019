@@ -70,8 +70,10 @@
      link: /attendees/index.html
    - name: Registration and Rates
      link: /attendees/index.html#registering    
-   - name: Hotels
+   - name: Hotels 
      link: /attendees/index.html#reserving-a-room
+     divider: true
+
 #   - name: Roommate Database
 #     link: /attendees/index.html#roommatedb
 #   - name: Transportation
