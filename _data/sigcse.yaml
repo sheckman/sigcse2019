@@ -35,6 +35,7 @@ deadlines:
 
 registration:
   isopen: false
+  opendate: "20181126"
   url: https://www.regonline.com/sigcse2019
 
 volunteers:

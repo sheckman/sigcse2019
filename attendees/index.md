@@ -1,9 +1,11 @@
 ---
 title: For Attendees
 showTitle: true
+cancellation_date: "February 13, 2019"
+reg_open_short: "Nov 26"
 ---
 
-SIGCSE {{site.data.sigcse.year}} will be held at the [Hyatt Regency Minneapolis](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) and the [Millennium Minneapolis](https://www.millenniumhotels.com/en/minneapolis/millennium-hotel-minneapolis/) in Minneapolis, Minnesota, USA.
+SIGCSE {{site.data.sigcse.year}} will be held at the <a href="https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm" target="_blank">Hyatt Regency Minneapolis</a> and the <a href="https://www.millenniumhotels.com/en/minneapolis/millennium-hotel-minneapolis/" target="_blank">Millennium Minneapolis</a> in Minneapolis, Minnesota, USA.
 
 This page will contain everything you need for registration, reserving a room, obtaining visas, and finding a roommate. For now, we want to make sure that rate information is available early to attendees.
 
@@ -20,7 +22,15 @@ As always, we encourage attendees to register early. This helps us with our plan
 -->
 
 <!-- TODO: Update else message to mention onsite registration in February -->
-{% if site.data.sigcse.registration.isopen %}
+{% assign right_now = "now" | date: "%Y%m%d" %}
+
+<!-- MCJ 181119: This is how you convert a string to an integer in Liquid Tags. -->
+<!-- This is almost as exciting as Javascript. -->
+<!-- https://stackoverflow.com/questions/27198710/convert-string-to-integer-in-shopify-liquid -->
+{% assign od = site.data.sigcse.registration.opendate | plus: 0 %}
+{% assign rn = right_now | plus: 0 %}
+
+{% if rn >= od  %}
 <div class="alert alert-success text-center">
 <span class="glyphicon glyphicon-home" aria-hidden="true"></span> <a href="{{site.data.sigcse.registration.url}}">Register now!</a>
 </div>
@@ -44,7 +54,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: Dates TBA-Jan 20 </div>
+    <div class = "col-sm-2"> Early: Dates {{page.reg_open_short}}-Jan 20 </div>
     <div class = "col-sm-2"> Advance: Dates Jan 20-Feb 17 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
 </div>
@@ -128,6 +138,9 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 The cancellation date will be forthcoming. A processing fee of US$100 will be assessed. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts on the following day. Therefore, no refunds are possible after the cancellation date for any reason. Attendees are strongly advised to purchase travel insurance to cover their non-refundable expenses.
 
+Cancellation requests must be made by {{page.cancellation_date}}.
+
+
 ### Regarding Visas
 
 ACM is able to provide visa support letters to attendees as well as authors with accepted papers, posters, or members of the conference committee.
@@ -150,21 +163,26 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 ### Official Conference Hotel Information
 
+<!--
 {% callout info %}
 The room reservation links are NOT yet available, so don't book your room yet!
 {% endcallout %}
+-->
 
 #### Hyatt Regency Minneapolis
-<!--How to Book: [Marriott Online Booking](https://aws.passkey.com/go/ACMSIGCSE2018Conference)<br>-->
-Room Rate: $145 + tax<br>
-<!--Deadline: February 1, 2018<br>
-Address: 110 S. Eutaw St., Baltimore, MD 21201-->
+
+* [Reservation Link](https://book.passkey.com/e/49518618)
+* 1300 Nicollet Mall, Minneapolis, Minnesota, United States, 55403
+* 612.370.1234
 
 #### Millennium Minneapolis
-<!--How to Book: [Sheraton Inner Harbor Online Booking](https://www.starwoodmeeting.com/events/start.action?id=1708268943&key=14D6CE04)<br>-->
-Room Rate: $145 + tax<br>
-<!--Deadline: February 1, 2018<br>
-Address: 300 South Charles Street, Baltimore, MD. 21201-->
+
+* [Reservation Link](https://res.windsurfercrs.com/ibe/details.aspx?propertyid=13527&nights=2&checkin=02/26/2019&group=1902COMMAC)
+* 1313 Nicollet Mall, Minneapolis, Minnesota, United States, 55403
+* 612.332.6000
+
+**Hotels are connected via skywalk corridor accessible on 2nd floor**
+
 
 <span class="anchor" id = "roommatedb"></span>
 
