@@ -10,7 +10,8 @@
       </button>
         <!-- This page links back to {{site.baseurl}} -->
         <!-- <a class="navbar-brand" href="{{'/' | prepend: site.baseurl}}">SIGCSE {{site.data.sigcse.year}}</a> -->
-       <a href="https://sigcse2019.sigcse.org/index.html">
+        <!-- WARNING: Was "https://sigcse2019.sigcse.org/index.html", now {{site.baseurl}}. -->
+       <a href="{{site.baseurl}}">
        <!--  
          TODO: Commented out until horizontal logo is ready -Sherriff
           <img
@@ -63,7 +64,7 @@
                     {% for subi in item.subheads %}
                     <!-- {{subi}} -->
                       <li>
-                        <a href="{{ subi.link | prepend: site.baseurl }}">
+                        <a href="{{ subi.link | prepend: site.baseurl  }}">
                             {{subi.name}}
                         </a>
                         </li>
@@ -75,7 +76,7 @@
               </li> <!-- internal dropdown -->
             {% else %}
               <li>
-                {% if item.link | contains: "http" %}
+                {% if item.link contains "http" %}
                 <a href="{{item.link}}">{{item.name}}</a>
                 {% else %}
                 <!-- item[1]: {{item[1]}} item[0]: {{item[0]}}-->

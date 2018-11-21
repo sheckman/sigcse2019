@@ -97,6 +97,11 @@
 
 - name: Organizing Committee
   members:
+  - name: Stacy Branham
+    role: Conference Accessibility Liaison
+    inst: University of California, Irvine
+    email: symposium@sigcse2019.org
+    
   - name: John Dougherty
     role: Pre-Symposium and Affiliated Events
     inst: Haverford College
