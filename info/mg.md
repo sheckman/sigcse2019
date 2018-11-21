@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img 	src = "/images/speakers/Guzdial.png" 
+<img 	src = "{{site.baseurl}}/images/speakers/Guzdial.png" 
 			width = "250px"
 			style="float:right; margin-left: 20px;"
 			>
@@ -14,12 +14,6 @@ Professor of Computer Science & Engineering
 University of Michigan
 
 <a name = "abstract"> </a>
-<!--
-
-### TITLE FOR ABSTRACT
-
-Abstract Goes Here.
--->
 
 <a name = "bio"> </a>
 

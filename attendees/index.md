@@ -54,8 +54,8 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: Dates {{page.reg_open_short}}-Jan 20 </div>
-    <div class = "col-sm-2"> Advance: Dates Jan 20-Feb 17 </div>
+    <div class = "col-sm-2"> Early: {{page.reg_open_short}}-Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Jan 20-Feb 17 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
@@ -162,6 +162,8 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 ## Conference Hotels
 
 ### Official Conference Hotel Information
+
+Conference rates are $145/night plus tax.
 
 <!--
 {% callout info %}

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img 	src = "/images/speakers/Hrabowski.jpg" 
+<img 	src = "{{site.baseurl}}/images/speakers/Hrabowski.jpg" 
 			width = "250px"
 			style="float:right; margin-left: 20px;"
 			>
