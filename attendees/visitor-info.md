@@ -15,9 +15,11 @@ The #10 may (from the webmaster's read...) be a free ride from the Metro station
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5644.9327565340245!2d-93.27852697331194!3d44.97483615617097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x52b3329a5d05602f%3A0xdf442d6bfdee3f7a!2sNicollet+Mall+Station%2C+Minneapolis%2C+MN+55401!3m2!1d44.978578299999995!2d-93.2699344!4m5!1s0x52b332bfb62b48a1%3A0x644885c9a8ad0562!2sHyatt+Regency+Minneapolis%2C+Nicollet+Mall%2C+Minneapolis%2C+MN!3m2!1d44.9706403!2d-93.27836479999999!5e0!3m2!1sen!2sus!4v1543189249316" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Rail (Metro) Schedule: https://www.metrotransit.org/route/901
+<br>
 
-Rail and Bus schedule: https://www.minneapolis.org/map-transportation/light-rail-and-bus-schedule/
+Rail (Metro) Schedule: [https://www.metrotransit.org/route/901](https://www.metrotransit.org/route/901)
+
+Rail and Bus schedule: [https://www.minneapolis.org/map-transportation/light-rail-and-bus-schedule/](https://www.minneapolis.org/map-transportation/light-rail-and-bus-schedule/)
 
 ## Transport by Taxi, etc.
 
