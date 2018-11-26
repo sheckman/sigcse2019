@@ -136,9 +136,11 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 ### Cancellation Policy
 
-The cancellation date will be forthcoming. A processing fee of US$100 will be assessed. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts on the following day. Therefore, no refunds are possible after the cancellation date for any reason. Attendees are strongly advised to purchase travel insurance to cover their non-refundable expenses.
-
 Cancellation requests must be made by {{page.cancellation_date}}.
+
+A processing fee of US$100 will be assessed. Regrettably cancellations received after the cancellation date cannot be honored. The conference committee recognizes that sometimes last minute cancellations can't be avoided due to weather, travel disruptions, and/or health issues. However, the conference incurs expenses for which it is liable based on registration counts on the following day. Therefore, no refunds are possible after the cancellation date for any reason. Attendees are strongly advised to purchase travel insurance to cover their non-refundable expenses.
+
+
 
 
 ### Regarding Visas

@@ -94,9 +94,9 @@
 #   #  link: http://easychair.org/smart-program/SIGCSE2018/
    - name: Workshops
      link: /attendees/workshops.html   
-#     divider: true
-#   - name: Baltimore Visitor Information
-#     link: /attendees/visitor-info.html
+     divider: true
+   - name: Minneapolis Visitor Information
+     link: /attendees/visitor-info.html
   
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
