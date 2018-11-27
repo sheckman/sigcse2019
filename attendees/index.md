@@ -175,13 +175,13 @@ The room reservation links are NOT yet available, so don't book your room yet!
 
 #### Hyatt Regency Minneapolis
 
-* [Reservation Link](https://book.passkey.com/e/49518618)
+* <a href="https://book.passkey.com/e/49518618" target="blank">Reservation Link</a>
 * 1300 Nicollet Mall, Minneapolis, Minnesota, United States, 55403
 * 612.370.1234
 
 #### Millennium Minneapolis
 
-* [Reservation Link](https://res.windsurfercrs.com/ibe/details.aspx?propertyid=13527&nights=2&checkin=02/26/2019&group=1902COMMAC)
+* <a href="https://res.windsurfercrs.com/ibe/details.aspx?propertyid=13527&nights=2&checkin=02/26/2019&group=1902COMMAC" target="blank">Reservation Link</a>
 * 1313 Nicollet Mall, Minneapolis, Minnesota, United States, 55403
 * 612.332.6000
 
