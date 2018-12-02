@@ -16,12 +16,12 @@ number,easychair,date,authors,title,advertisement,abstract
 <ul>
 {% for ws in site.data.workshops-2019-1 %}
 {% if ws.date contains day %}
-<li><a href="#{{ws.number}}">{{ws.title}}</a></li>
+<li><a href="#{{ws.number}}">{{ws.number}}: {{ws.title}}</a></li>
 {% else %}
 {% assign newday = ws.date | split: "," %}
 {% assign day = newday[0] %}
-<h3>{{day}}</h3>
-<li><a href="#{{ws.number}}">{{ws.title}}</a></li>
+<h3>{{day}} <a href="#{{day}}">&#8595;</a></h3> 
+<li><a href="#{{ws.number}}">{{ws.number}}: {{ws.title}}</a></li>
 {% endif%}
 {% endfor %}
 </ul>
@@ -36,7 +36,7 @@ number,easychair,date,authors,title,advertisement,abstract
 {% else %}
 {% assign newday = ws.date | split: "," %}
 {% assign day = newday[0] %}
-<div class = "alert alert-info" style="margin-top: 23px">
+<div  id="{{day}}" name="{{day}}" class = "alert alert-info" style="margin-top: 23px">
     <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
       {{day}}
   </div>
