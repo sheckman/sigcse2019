@@ -54,9 +54,9 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: {{page.reg_open_short}}-Jan 20 </div>
-    <div class = "col-sm-2"> Advance: Jan 20-Feb 17 </div>
-    <div class = "col-sm-2"> Late/Onsite: Feb 27-Mar 2 </div>
+    <div class = "col-sm-2"> Early: Ends Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Ends Feb 17 </div>
+    <div class = "col-sm-2"> Late/Onsite: Ends Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student <b>&starf;</b> </div>
@@ -192,16 +192,15 @@ The room reservation links are NOT yet available, so don't book your room yet!
 
 ## Find a Roommate!
 
-<!--You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/) to find someone to room with. This is the preferred database of SIGCSE members around the world for finding roommates at the SIGCSE Technical Symposium. Honest.-->
-
-Coming soon!
-
+You can also use the [SIGCSE roommate database](http://sigcse.rit.edu/roommates/) to find someone to room with. This is the preferred database of SIGCSE members around the world for finding roommates at the SIGCSE Technical Symposium. Honest.
 
 <a name="travel"></a>
 
 ## Getting to SIGCSE {{site.data.sigcse.year}}
 
-Coming soon!
+See our [visitor info](visitor-info.html) for information about getting in-and-out of Minneapolis.
+
+You'll want **Minnapolis-Saint Paul International Airport**. That's airport code [MSP](https://www.mspairport.com/).
 
 <!--
 ### Air Travel
