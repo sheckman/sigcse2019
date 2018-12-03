@@ -100,7 +100,7 @@
   - name: Stacy Branham
     role: Conference Accessibility Liaison
     inst: University of California, Irvine
-    email: symposium@sigcse2019.org
+    email: accessibility@sigcse2019.org
     
   - name: John Dougherty
     role: Pre-Symposium and Affiliated Events
@@ -194,8 +194,13 @@
 
   - name: Ria Galanos
     role: K-12 Liaison
-    inst:  Thomas Jefferson High School for Science and Technology 
+    inst: Thomas Jefferson High School for Science and Technology 
     email: k12@sigcse2019.org
+
+  - name: Cara Tang
+    role: Community College Liason
+    inst: Portland Community College
+    email: cc@sigcse2019.org
 
   - name: Jennifer Campbell 
     role: International Liaison
