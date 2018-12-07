@@ -55,8 +55,8 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
     <div class = "col-sm-2"> Early: Ends Jan 20 </div>
-    <div class = "col-sm-2"> Advance: Ends Feb 17 </div>
-    <div class = "col-sm-2"> Late/Onsite: Ends Mar 2 </div>
+    <div class = "col-sm-2"> Advance: Ends Feb 21 </div>
+    <div class = "col-sm-2"> Late/Onsite:<br>Feb 27-Mar 2 </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student <b>&starf;</b> </div>
@@ -133,6 +133,42 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $95 </div>
 </div>
 -->
+
+### Registration Location and Hours
+
+The registration desk will be in the Hyatt: Greenway Promenade (2nd Floor). The hours will be:
+
+
+  <table class="table">
+      <tbody>
+        <tr>
+            <td><strong>Date</strong></td>
+            <td><strong>Start Time</strong></td>
+            <td><strong>End Time</strong></td>
+        </tr>
+        <tr>
+            <td>2/27/19</td>
+            <td>3:00 PM</td>
+            <td>9:30 PM</td>
+        </tr>
+        <tr>
+            <td>2/28/19</td>
+            <td>7:30 AM</td>
+            <td>9:30 PM</td>
+        </tr>
+        <tr>
+            <td>3/1/19</td>
+            <td>8:00 AM</td>
+            <td>5:00 PM</td>
+        </tr>
+        <tr>
+            <td>3/2/19</td>
+            <td>8:00 AM</td>
+            <td>11:45 AM</td>
+        </tr>        
+        </tbody>
+    </table>
+
 
 ### Cancellation Policy
 

@@ -9,9 +9,12 @@ layout: default
 
 # Gloria Townsend
 
+Recipient of the 2019 SIGCSE Award for Lifetime Service to the Computer Science Education Community
+<br>
 Professor of Computer Science
 <br>
 DePauw University
+
 
 <a name = "abstract"> </a>
 
