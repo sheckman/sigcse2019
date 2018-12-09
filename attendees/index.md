@@ -56,7 +56,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-6"> Registration Type </div>
     <div class = "col-sm-2"> Early: Ends Jan 20 </div>
     <div class = "col-sm-2"> Advance: Ends Feb 21 </div>
-    <div class = "col-sm-2"> Late/Onsite:<br>Feb 27-Mar 2 </div>
+    <div class = "col-sm-2"> Late/Onsite:<br>Feb 27 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student <b>&starf;</b> </div>
@@ -114,7 +114,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 	</div>
 </div>
 
-NOTE: Registration is unavailable from Feb 21-Feb 27.
+NOTE: Registration is unavailable from Feb 21-Feb 26.
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
 
@@ -122,9 +122,9 @@ NOTE: Registration is unavailable from Feb 21-Feb 27.
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early: Dec 18-Jan 15 </div>
-    <div class = "col-sm-2"> Advance: Jan 16-Feb 13 </div>
-    <div class = "col-sm-2"> Late/Onsite: Feb 21-23 </div>
+    <div class = "col-sm-2"> Early: Ends Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Ends Feb 21 </div>
+    <div class = "col-sm-2"> Late/Onsite: Feb 27 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> All Attendees </div>
