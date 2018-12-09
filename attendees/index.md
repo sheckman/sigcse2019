@@ -110,14 +110,14 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 <div class = "row" style = "font-weight: bold;">
 	<div class = "col-sm-8">
 		<hr>
-		<b>&starf;</b> Must be or become a member to receive this rate
+		<b>&starf;</b> Must be or become an ACM member to receive this rate
 	</div>
 </div>
 
-<!--NOTE: Registration is unavailable from Feb 14-Feb 20.-->
+NOTE: Registration is unavailable from Feb 21-Feb 27.
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
-<!--
+
 #### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">
@@ -132,7 +132,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $95 </div>
 </div>
--->
+
 
 ### Registration Location and Hours
 
