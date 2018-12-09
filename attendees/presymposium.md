@@ -5,27 +5,43 @@ showTitle: true
 
 There are several exciting pre-symposium events this year; plan your travel so you can get in a day early and take part in these excellent professional development and educational opportunities.
 
-<p>
+<!-- num,presenters,title,description,cost,date,room,maxparticipants,infourl,numppl -->
+
+
+<ul>
 {% for event in site.data.presymposium %}
-  {% assign inc = event.name | remove: 'presymposium/' | remove: '.html' | remove: " " %}
-  <a href="#{{inc | remove: ' '}}">{{event.name}}</a><br/>
+  <li> {{event.num}}: <a href="#{{event.num}}">{{event.title}}</a> </li>
 {% endfor %}
-</p>
+</ul>
 
 {% for event in site.data.presymposium %}
-{% if event.name != "" %}
-{% assign inc = event.name | remove: 'presymposium/' | remove: '.html' | remove: " " %}
+{% if event.title != "" %}
 
+<p><a name="{{event.num}}"></a></p>
 
-<p><a name="{{inc}}"></a></p>
+<h3>{{event.title}}</h3>
 
-### {{event.name}}
+<ul>
+<li><b>Organizers</b>: {{event.presenters}}</li>
+<li> <b>Date/Time</b>: {{event.date}}</li> 
+{% if event.room %} 
+<li><b>Room</b>: {{event.room}} </li>
+{% endif %} 
 
-**Date/Time**: {{event.date}} {% if event.room %} <br/> **Room**: {{event.room}} {% endif %} <br/>
-**Cost**: {{event.cost}} <br/>
-**Max Participants**: {{event.max}}
+{% if event.cost.size > 2 %}
+<li> <b>Cost</b>: {{event.cost}} </li>
+{% else %}
+<li> <b>Cost</b>: None </li>
+{% endif %}
 
-{{event.blurb}}
+<li> <b>Max Participants</b>: {{event.maxparticipants}}</li> 
+{% if event.infourl %} 
+<li> <b>Info</b>: <a href="{{event.infourl}}">{{event.infourl}}</a><br/></li> 
+{% endif%}
+
+</ul>
+
+{{event.description}}
 
 {% if event.info %}
   {% if event.info contains "http" %}
@@ -47,18 +63,6 @@ There are several exciting pre-symposium events this year; plan your travel so y
 <b>Application Deadline</b>: {{event.deadline}}
 {% endif %}
 
-**Organizers**:
-<ul>
-{% for org in event.organizers %}
-{% if org.email %}
-  <li>{{org.name}} (<a href="mailto:{{org.email}}">{{org.email}}</a>)</li>
-  {% else %}
-    <li>{{org.name}}</li>
-  {% endif %}
-
-{% endfor%}
-</ul>
-
 <p>&nbsp;</p>
 {% endif %}
 
@@ -72,4 +76,7 @@ If you are interested in hosting a pre-symposium event, please contact the Pre-C
 Depending on the number of applications submitted and space availability at the conference hotel, not all events may be selected for inclusion.
 {% endcomment %}
 
+<p>
+
 {% include submission-questions category="Pre-Symposium and Affiliated Events Liaison" %}
+

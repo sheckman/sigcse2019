@@ -1,4 +1,5 @@
-## Questions
+<h3>Questions</h3>
+
 {% assign count = 0 %}
 {% assign plural = "" %}
 
