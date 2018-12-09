@@ -10,7 +10,7 @@ There are several exciting pre-symposium events this year; plan your travel so y
 
 <ul>
 {% for event in site.data.presymposium %}
-  <li> {{event.num}}: <a href="#{{event.num}}">{{event.title}}</a> </li>
+  <li><a href="#{{event.num}}">{{event.title}}</a> </li>
 {% endfor %}
 </ul>
 
