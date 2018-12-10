@@ -3,7 +3,27 @@ title: For Attendees
 showTitle: true
 cancellation_date: "February 13, 2019"
 reg_open_short: "TBA"
+nav:
+  - text: Registration Information
+    link: registering-for-sigcse-2019
+  - text: Hotel Reservation
+    link: conference-hotels
+  - text: Visas
+    link: regarding-visas
+  - text: Roommate Database
+    link: find-a-roommate
+  - text: Visitor Info
+    link: getting-to-sigcse-2019
 ---
+
+
+<ul>
+{% for h in page.nav %}
+<li> <a href="#{{h.link}}">{{h.text}}</a></li>
+{% endfor %}
+</ul>
+
+<br/>
 
 SIGCSE {{site.data.sigcse.year}} will be held at the <a href="https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm" target="_blank">Hyatt Regency Minneapolis</a> and the <a href="https://www.millenniumhotels.com/en/minneapolis/millennium-hotel-minneapolis/" target="_blank">Millennium Minneapolis</a> in Minneapolis, Minnesota, USA.
 
