@@ -72,10 +72,11 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 ### Registration Rates
 
+
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: Ends Jan 20 </div>
-    <div class = "col-sm-2"> Advance: Ends Feb 21 </div>
+    <div class = "col-sm-2"> Early: Through Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Through Feb 21 </div>
     <div class = "col-sm-2"> Late/Onsite:<br>Feb 27 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">
@@ -136,14 +137,16 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 NOTE: Registration is unavailable from Feb 21-Feb 26.
 
+All times related to registration are in the <a href="https://www.timeanddate.com/time/zones/cst" title="IAU: No, there's nothing we can do about it.">CST timezone</a>. This is a side-effect of the registration software being used. 
+
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
 
 #### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early: Ends Jan 20 </div>
-    <div class = "col-sm-2"> Advance: Ends Feb 21 </div>
+    <div class = "col-sm-2"> Early: Through Jan 20 </div>
+    <div class = "col-sm-2"> Advance: Through Feb 21 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27 onward </div>
 </div>
 <div class = "row" style="padding-top: 15px;">

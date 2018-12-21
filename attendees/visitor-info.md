@@ -3,9 +3,23 @@ title: Minneapolis Visitor Information
 showTitle: true
 ---
 
+## Emergency Services
+
+There will be an EMT onsite during the conference. If you need to check any arrangements in advance, you should reach out to the Hennepin County Medical Center, which is the nearest medical facility to the conference hotel. Their address is 701 Park Avenue, Minneapolis, MN, 55414.
+
+## The Hotel
+
+Some [details about our hotel](files/hyatt-overview.pdf).
+
+## The Airport
+
+A [map of the airport](files/airport-map.pdf) (PDF)!
+
 ## Transportation by Rail/Bus from Airport to Hotel
 
 <img src="{{site.baseurl}}/images/minn-light-rail.png" alt="A minimal map of the Minneapolis light rail. The page text is ample to get you from the airport to the hotel area." style="float:right;">
+
+This [handy transportation card](files/transportation-card.pdf) provides an overview (PDF).
 
 From the airport to the hotel, you will board at Terminal 1 (Lindbergh) or Terminal 2 (Humphrey). Any BLUE line train towards Minneapolis or Target Field will work. You want to get off at Nicollet Mall. Fare is roughly $1.75.
 
@@ -27,6 +41,8 @@ The airport is roughly 12 miles from the hotel. Taxis will cost around $40.
 
 The Uber website claims you can [uber](https://www.uber.com/airports/msp/) from the airport. Different kinds of Uber exist (who knew?), and they cost different amounts. An UberX is estimated (by the Uber website) to be $20. An UberXL might run closer to $40, and an Uber Black SUV (?!) might cost as much as $70.
 
+There is also Lyft, and there are Lyft/Uber signs at the airport to help you find many kinds of crowdsourced transportation.
+
 ## Coffee
 
 For some, coffee is critical. Google Maps links provided for some potential caffeine destinations.
@@ -46,12 +62,21 @@ You may find yourself needing things.
 
 * [Target](https://goo.gl/maps/EmEdVLE7tVE2) (a stuff store): 900 Nicollet Mall, Minneapolis, MN 55403
 * [Walgreens](https://goo.gl/maps/BHjyJdHk5Ps) (a pharmacy): 655 Nicollet Mall, Minneapolis, MN 55402
+* CVS (a pharmacy): 1110 Hennepin Avenue
+
+Target, Walgreens, and CVS all offer/have/are pharmacies.
 
 ## Kinkos/FedEx
 
-You should never attend a conference without [a copy center nearby](https://goo.gl/maps/LaXDJFs3V8K2).
+There is a FedEx Office on the 2nd floor of the hotel, with 24-hour access (for guests), and full service is available during business hours.
 
-80 8th St S Suite 180, Minneapolis, MN 55402
+Large format color printing, signs/banners, pre-convention printing and file assistance, office supplies, and foam boards are all available. 
+
+Contact FedEx Office at (612) 339­5641 or usa5570@fedex.com.
+
+## Mall of America
+
+All the fun [you can have in a mall](https://mallofamerica.com/), and more.
 
 ## Questions? Suggestions?
 
