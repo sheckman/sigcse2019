@@ -39,21 +39,26 @@ Gold:
 
 
 Silver:
-   - name: ABET
-     image: abet-new-100.png
-     link: "http://www.abet.org/"
+  - name: ABET
+    image: abet-new-100.png
+    link: "http://www.abet.org/"
+  - name: IBM
+    image: ibm-200.png
+    link: "http://ibm.com/"
 #   - name: CodeHS
 #     image: codehs-200.png
 #     link: "https://codehs.com/"
 #   - name: Gradescope
 #     image: gradescope-200.png
 #     link: "https://gradescope.com/"
-   - name: Mimir
-     image: mimir-200.png
-     link: "http://www.mimirhq.com"
+  - name: Mimir
+    image: mimir-200.png
+    link: "http://www.mimirhq.com"
+  - name: Turnitin
+    image: turnitin-200.png
+    link: "https://www.turnitin.com/"
      
-#Bronze:
-#   - name: Red Hat Academy
-#     image: rha-200.png
-#     link: "https://www.redhat.com/en/services/training/red-hat-academy"
-
+Bronze:
+  - name: AnitaB.org
+    image: anitab-200.png
+    link: "https://anitab.org/"
