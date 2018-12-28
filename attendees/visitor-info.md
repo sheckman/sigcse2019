@@ -3,6 +3,10 @@ title: Minneapolis Visitor Information
 showTitle: true
 ---
 
+## SIGCSE @ Minneapolis
+
+The city of <a href="https://www.minneapolis.org/sigcse/" target="_blank">Minneapolis has put together a microsite</a> just for us! Lots of good info there, and definitely something you should check out. Transport, dining... all the info you want, and (most importantly) accurate and from the source!
+
 ## Emergency Services
 
 There will be an EMT onsite during the conference. If you need to check any arrangements in advance, you should reach out to the Hennepin County Medical Center, which is the nearest medical facility to the conference hotel. Their address is 701 Park Avenue, Minneapolis, MN, 55414.
