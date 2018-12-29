@@ -36,7 +36,7 @@ deadlines:
 registration:
   isopen: false
   opendate: "20181226"
-  url: https://www.regonline.com/sigcse2019
+  url: http://bit.ly/sigcse2019registration
 
 volunteers:
   url: https://www.cs.ubc.ca/~sig-cse/sigcse/user/index.php
