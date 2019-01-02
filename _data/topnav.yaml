@@ -76,9 +76,9 @@
 #     link: /attendees/index.html#roommatedb
 #   - name: Transportation
 #     link: /attendees/index.html#travel
-#   - name: Student Volunteers
-#     link: /info/studentvolunteers.html
-#     divider: true
+   - name: Student Volunteers
+     link: /info/studentvolunteers.html
+     divider: true
    - name: SIGCSE 2019 Online Program
      link: https://whova.com/embedded/event/sigcs_201902/
 #   - name: SIGCSE 2019 At-A-Glance
