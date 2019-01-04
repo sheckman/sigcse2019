@@ -99,7 +99,8 @@
      divider: true
    - name: Minneapolis Visitor Information
      link: /attendees/visitor-info.html
-  
+   - name: Kids' Camp
+     link: /attendees/kidscamp.html  
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
     # - name: Final Program (PDF)
@@ -122,8 +123,6 @@
     # - name: Conference Proceedings
     #   link: http://dl.acm.org/citation.cfm?id=3017680
     #   divider: true
-    #- name: Kids' Camp
-    # link: /attendees/kidscamp.html
     #   divider: true
 
 - name: For Exhibitors
