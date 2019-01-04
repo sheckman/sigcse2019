@@ -320,6 +320,148 @@
      inst: Peking University, China    
      email: mzhang_cs@pku.edu.cn
 
+- name: Associate Program Chairs
+  members:
+  - name: Eric Aaron
+    inst: Colby College
+  - name: Joel C. Adams 
+    inst: Calvin College
+  - name: Rajeev Agrawal 
+    inst: US Army Engineer Research and Development Center
+  - name: Meghan Allen 
+    inst: The University of British Columbia
+  - name: Carl Alphonce 
+    inst: University at Buffalo
+  - name: Christine Alvarado   
+    inst: University of California San Diego
+  - name: Ruth Anderson 
+    inst: University of Washington
+  - name: Barbara Anthony 
+    inst: Southwestern University
+  - name: Julio César Bahamón 
+    inst: UNC Charlotte
+  - name: Mark Bailey 
+    inst: Hamilton College
+  - name: Tiffany Barnes 
+    inst: North Carolina State University
+  - name: Brett A. Becker 
+    inst: University College Dublin
+  - name: Marie Bienkowski 
+    inst: SRI International
+  - name: Kevin Buffardi 
+    inst: California State University - Chico
+  - name: Alistair Campbell 
+    inst: Hamilton College
+  - name: Paul Cao 
+    inst: University of California San Diego
+  - name: Albert Chan 
+    inst: Fayetteville State University
+  - name: Peter J. Clarke 
+    inst: Florida International University
+  - name: Steve Cooper 
+    inst: UNL
+  - name: Ernesto Cuadros-Vargas 
+    inst: San Pablo Catholic University, Peru
+  - name: Adrienne Decker 
+    inst: University at Buffalo
+  - name: Leigh Ann DeLyser 
+    inst: CSforALL
+  - name: Mohsen Dorodchi 
+    inst: University of North Carolina, Charlotte
+  - name: John P. Dougherty 
+    inst: Haverford College
+  - name: Maureen Doyle 
+    inst: Northern Kentucky University
+  - name: Joshua Eckroth 
+    inst: Stetson University
+  - name: Stephen Edwards 
+    inst: Virginia Tech
+  - name: Matthew Forshaw 
+    inst: Newcastle University, United Kingdom
+  - name: Allan Fowler 
+    inst: Kennesaw State University
+  - name: Michelle Friend 
+    inst: University of Nebraska Omaha
+  - name: Chris Gregg 
+    inst: Stanford University
+  - name: Cecily Heiner 
+    inst: Southern Utah University
+  - name: Sharon Hsiao 
+    inst: Arizona State University
+  - name: Helen Hu 
+    inst: Westm  inster College
+  - name: Mark J. Johnson 
+    inst: Central College
+  - name: Maria Jump 
+    inst: Northeastern University - Charlotte
+  - name: Carsten Kleiner 
+    inst: University of Applied Science and Arts Hannover
+  - name: Andrew J. Ko 
+    inst: University of Washington
+  - name: Stephan Krusche 
+    inst: Technical University of Munich
+  - name: David Levine 
+    inst: Saint Bonaventure University
+  - name: Andrew Luxton-Reilly 
+    inst: The University of Auckland
+  - name: Bruce R. Maxim 
+    inst: University of Michigan
+  - name: Lester I. McCann 
+    inst: University of Arizona
+  - name: Susan Mengel 
+    inst: Texas Tech University
+  - name: Laurence D. Merkle 
+    inst: Air Force Institute of Technology
+  - name: Craig Miller 
+    inst: DePaul University
+  - name: Robert Noonan 
+    inst: William and Mary
+  - name: Jody Paul 
+    inst: Metropolitan State University of Denver
+  - name: Leo Porter 
+    inst: University of California San Diego
+  - name: Wendy Powley 
+    inst: Queen's University
+  - name: Samuel A. Rebelsky 
+    inst: Grinnell College
+  - name: Suzanne Rivoire 
+    inst: Sonoma State University
+  - name: Susan Rodger 
+    inst: Duke University
+  - name: Ingrid Russell 
+    inst: University of Hartford
+  - name: Mark Sherriff 
+    inst: University of Virginia
+  - name: Swapneel Sheth 
+    inst: University of Pennsylvania
+  - name: Simon 
+    inst: University of Newcastle
+  - name: Melissa Stange 
+    inst: Lord Fairfax Community College
+  - name: Ben Stephenson 
+    inst: University of Calgary
+  - name: Jim Teresco 
+    inst: Siena College
+  - name: Luther Tychonievich 
+    inst: University of Virginia
+  - name: Paul Tymann 
+    inst: Rochester Institute of Technology
+  - name: Frank Vahid 
+    inst: UC Riverside
+  - name: Jan Vahrenhold 
+    inst: Westfälische Wilhelms-Universität Münster
+  - name: Abhijat Vichare 
+    inst: Abhijat Research and Software
+  - name: Ellen Walker 
+    inst: Hiram College
+  - name: Henry Walker 
+    inst: Grinnell College
+  - name: Charles Wallace 
+    inst: Michigan Technological University
+  - name: Ursula Wolz 
+    inst: Bennington College
+  
+
 # - name: Associate Program Chairs
 #   members:
 #     - name: Helen Hu
