@@ -93,7 +93,8 @@
      link: /attendees/workshops.html   
    - name: Pre-Symposium Events
      link: /attendees/presymposium.html
-
+   - name: Supporter Sessions
+     link: /attendees/supporter-sessions.html
    - name: Dept. Chairs' Roundtable
      link: /attendees/chairs-roundtable.html
      divider: true
