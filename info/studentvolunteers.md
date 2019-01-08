@@ -20,9 +20,7 @@ Registering for SIGCSE as a student volunteer is a two step process.
 
 * **STEP 1**: Register as a volunteer with the student volunteering team. As part of this registration, you will provide your availability for volunteer shifts. Please look at the schedule and ensure 1) that you do NOT select a shift where you have a conference commitment like presenting a paper or the ACM Student Research Competition and 2) that you do NOT select shifts where you want to see a particular talk.
 
-* **STEP 2**: Wait for a response from the system.  This usually takes two or three days.  If you don't get a response within three days, email the volunteers chairs at [volunteers@sigcse2019.org](mailto:volunteers@sigcse2019.org).
-
-* **STEP 3**: Once you've received a response from the volunteers chairs, SEPARATELY register for the SIGCSE symposium as a student. Note you will need to pay the registration fee and the costs of any additions to registration (e.g., workshop), but the main conference registration fee will be refunded 4-6 weeks after the conference assuming that you complete all of your volunteer hours.
+* **STEP 2**: SEPARATELY register for the SIGCSE symposium as a student. Note you will need to pay the registration fee and the costs of any additions to registration (e.g., workshop), but the main conference registration fee will be refunded 4-6 weeks after the conference assuming that you complete all of your volunteer hours.
 
 {% callout warning %}
 Please note that while in previous years we have been able to accept everyone who registered in December and January and often anyone interested, we cannot guarantee that this is the case every year. Please try to register as early as possible (you can provide your availability for shifts closer to the conference start as we understand that it can take a little while to arrange travel).
