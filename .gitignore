@@ -5,3 +5,4 @@ _venv
 _tools/pylinkchecker/build
 favicon.ico
 *~
+~$*
