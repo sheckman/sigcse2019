@@ -3,7 +3,7 @@
 <ul>
 {% for event in site.data.clean-presymposium %}
   {% if event["Tracks"] == include.track %}
-    <li><a href='#{{event["*Session Title"]}}'>{{event["*Session Title"]}}</a> </li>
+    <li><a href="#{{event['*Session Title']}}">{{event["*Session Title"]}}</a> </li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -11,7 +11,7 @@
 <!-- DESCRIPTIONS -->
 {% for event in site.data.clean-presymposium %}
   {% if event["Tracks"] == include.track %}
-  <p><a name='#{{event["*Session Title"]}}'></a></p>
+  <p><a name="#{{event['*Session Title']}}"></a></p>
   <h3>{{event['*Session Title']}}</h3>
   <ul>
     <li><b>Organizers</b>: {{event.Speakers}}</li>
