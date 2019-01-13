@@ -3,6 +3,29 @@ title: Supporter Sessions
 showTitle: true
 ---
 
+
+{% comment %}
+*Date,*Time Start,*Time End,Tracks,*Session Title,Room/Location,Description,Speakers,Authors,"Session or 
+Sub-session(Sub)",,,,,,,,,,,,,,,,
+
+WARNING FIXME
+The Whova presymposium data must be run through clean-whova.rkt.
+
+You can do this by running 
+
+racket clean-whova.rkt
+
+or loading it into DrRacket and hitting "Run"
+
+{% endcomment %}
+
+{% include presymp.html track="Supporter Session" %}
+
+
+
+
+
+{% comment %}
 <!-- 
 DAY,NUMBER,TIME,COMPANY,LEVEL,SESSION TITLE,ROOM,PRESENTERS,CONTENT
 -->
@@ -34,3 +57,4 @@ DAY,NUMBER,TIME,COMPANY,LEVEL,SESSION TITLE,ROOM,PRESENTERS,CONTENT
   </div>	
   {% endfor %}
 {% endfor %}
+{% endcomment %}
