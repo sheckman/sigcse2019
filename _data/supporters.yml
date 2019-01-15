@@ -30,9 +30,6 @@ Gold:
    - name: "Turing's Craft"
      image: turingscraft-200.png
      link: "https://www.turingscraft.com/"
-#   - name: "Vocareum, Inc"
-#     image: vocareum-new-200.png
-#     link: "https://www.vocareum.com/"
    - name: "zyBooks"
      image: zybooks-200.png
      link: "https://www.zybooks.com/"
@@ -57,6 +54,10 @@ Silver:
   - name: Turnitin
     image: turnitin-200.png
     link: "https://www.turnitin.com/"
+  - name: "Vocareum, Inc"
+    image: vocareum-200.png
+    link: "https://www.vocareum.com/"
+
      
 Bronze:
   - name: AnitaB.org
