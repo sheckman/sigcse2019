@@ -44,6 +44,18 @@ Assuming you have successfully completed your volunteer duties as signed off by 
 
 * If your registration was paid by cheque, your refund will be a cheque issued via ACM, which may take up to one month after the conference is over.
 
+## Institutional Coordinators
+
+<em>SIGCSE Symposium Student Volunteer Policy for schools that send more than four undergraduate student volunteers to SIGCSE</em>
+
+The SIGCSE Symposium relies on its student volunteer corps for the success of the conference.  Hence, we are particularly grateful to the schools that bring larger cohorts of student volunteers.  To ensure the best experience for student volunteers, institution faculty, and the Student Volunteer Coordinators, schools that provide more than four undergraduate students volunteers must designate a single Institutional Coordinator for all the student volunteers from that institution who must fulfill the following responsibilities.
+
+* The Institutional Coordinator must attend SIGCSE and be available via cell phone and email during the conference.
+* When possible, the Institutional Coordinator should accompany the volunteers to the Student Volunteer Headquarters when the students check in.
+* The Institutional Coordinator must attest to the ability of each of their students to accomplish the tasks expected of student volunteers.  If appropriate, the contact may also meet with one of the Student Volunteer Coordinators for a confidential discussion of roles that might prove difficult for a student so that we can identify more appropriate roles.
+
+If an institution does not designate a coordinator, we may limit the number of volunteers from that institution.  In addition, schools that do not designate an Institutional Coordinator or whose students do not perform their tasks reliably risk losing Student Volunteer privileges in future years.
+
 ## Frequently Asked Questions
 
 ### Who is eligible to be a student volunteer?
