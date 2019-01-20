@@ -75,7 +75,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Registration Type </div>
-    <div class = "col-sm-2"> Early: Through Jan 20 </div>
+    <div class = "col-sm-2"> Early: Through Jan 27 </div>
     <div class = "col-sm-2"> Advance: Through Feb 21 </div>
     <div class = "col-sm-2"> Late/Onsite:<br>Feb 27 onward </div>
 </div>
@@ -145,7 +145,7 @@ All times related to registration are in the <a href="https://www.timeanddate.co
 
 <div class = "row" style = "font-weight: bold;">
     <div class = "col-sm-6"> Workshop Registration Rates </div>
-    <div class = "col-sm-2"> Early: Through Jan 20 </div>
+    <div class = "col-sm-2"> Early: Through Jan 27 </div>
     <div class = "col-sm-2"> Advance: Through Feb 21 </div>
     <div class = "col-sm-2"> Late/Onsite: Feb 27 onward </div>
 </div>
