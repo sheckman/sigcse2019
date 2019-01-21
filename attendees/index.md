@@ -128,6 +128,13 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $525 </div>
 </div>
 
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Exhibits Only </div>
+    <div class = "col-sm-2"> $75 </div>
+    <div class = "col-sm-2"> $75 </div>
+    <div class = "col-sm-2"> $75 </div>
+</div>
+
 <div class = "row" style = "font-weight: bold;">
 	<div class = "col-sm-8">
 		<hr>
