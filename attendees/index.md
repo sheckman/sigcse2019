@@ -269,7 +269,7 @@ https://www.crowneplaza.com/hotels/us/en/minneapolis/mspcp/hoteldetail?newRedire
  - [Marquette Hotel](
 https://curiocollection3.hilton.com/en/hotels/minnesota/the-marquette-hotel-curio-collection-by-hilton-MSPCUQQ/index.html?SEO_id=GMB-QQ-MSPCUQQ)
 
-In addition, the [Skyway Guide](skyway-guide.pdf) includes other hotels in downtown Minneapolis that may or may not have availability.
+In addition, the [Skyway Guide](files/skyway-guide.pdf) includes other hotels in downtown Minneapolis that may or may not have availability.
 
 ## Find a Roommate!
 
