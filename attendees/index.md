@@ -231,7 +231,7 @@ Those requesting a letter should allow 7-10 business days to receive it. All req
 
 ### Official Conference Hotel Information
 
-Conference rates are $145/night plus tax.
+Conference rates are $145/night plus tax. **As of 1/19/2019, the official conference hotels are sold out.** Alternate hotels are suggested below this section.
 
 <!--
 {% callout info %}
@@ -255,6 +255,25 @@ The room reservation links are NOT yet available, so don't book your room yet!
 
 
 <span class="anchor" id = "roommatedb"></span>
+
+### Unofficial Hotels
+
+The conference planning company recommends the following nearby hotels with availability that are connected to the Minneapolis Skyway. Rates vary at each hotel. 
+
+[Hotel Ivy, a Luxury Collection Hotel Minneapolis](https://www.marriott.com/hotels/travel/msplc-hotel-ivy-a-luxury-collection-hotel-minneapolis/)
+
+[Minneapolis Hilton](
+https://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html)
+
+[Foshay W Hotel](https://www.marriott.com/hotels/travel/mspwh-w-minneapolis-the-foshay/)
+
+[Crowne Plaza Northstar](
+https://www.crowneplaza.com/hotels/us/en/minneapolis/mspcp/hoteldetail?newRedirect=true&qIta=99504425&icdv=99504425&glat=SEAR&qSlH=mspcp&setPMCookies=true&qDest=618%20Second%20Avenue%20South,%20Minneapolis,%20MN,%20US&dp=true&gclid=Cj0KCQiAvqDiBRDAARIsADWh5TcNFXN_pntjb0X57sxG-6bvkHpHLHTDDkDef5xh74CTHYxRfypBBFAaAtSkEALw_wcB&cid=25159&srb_u=1)
+
+[Marquette Hotel](
+https://curiocollection3.hilton.com/en/hotels/minnesota/the-marquette-hotel-curio-collection-by-hilton-MSPCUQQ/index.html?SEO_id=GMB-QQ-MSPCUQQ)
+
+In addition, the [Skyway Guide](skyway-guide.pdf) includes other hotels in downtown Minneapolis that may or may not have availability.
 
 ## Find a Roommate!
 
