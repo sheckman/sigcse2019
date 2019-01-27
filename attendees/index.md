@@ -168,8 +168,7 @@ All times related to registration are in the <a href="https://www.timeanddate.co
 
 ### Registration Location and Hours
 
-The registration desk will be in the Hyatt: Greenway Promenade (2nd Floor). The hours will be:
-
+The registration desk will be in the Hyatt: Nicollet Promenade (1st Floor). The hours will be:
 
   <table class="table">
       <tbody>
