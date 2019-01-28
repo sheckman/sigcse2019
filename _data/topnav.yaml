@@ -85,6 +85,8 @@
 #     link: /attendees/at-a-glance.html   
    - name: SIGCSE 2019 Best Papers
      link: /attendees/bestpapers.html
+   - name: SIGCSE 2019 Authors & Speakers
+     link: /attendees/speakers.html
 #   - name: Presenter Information
 #     link: /attendees/presenter.html
 #   #- name: Conference Program
