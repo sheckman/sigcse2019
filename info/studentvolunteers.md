@@ -20,9 +20,7 @@ Registering for SIGCSE as a student volunteer is a two step process.
 
 * **STEP 1**: Register as a volunteer with the student volunteering team. As part of this registration, you will provide your availability for volunteer shifts. Please look at the schedule and ensure 1) that you do NOT select a shift where you have a conference commitment like presenting a paper or the ACM Student Research Competition and 2) that you do NOT select shifts where you want to see a particular talk.
 
-* **STEP 2**: Wait for a response from the system.  This usually takes two or three days.  If you don't get a response within three days, email the volunteers chairs at [volunteers@sigcse2018.org](mailto:volunteers@sigcse2018.org).
-
-* **STEP 3**: Once you've received a response from the volunteers chairs, SEPARATELY register for the SIGCSE symposium as a student. Note you will need to pay the registration fee and the costs of any additions to registration (e.g., workshop), but the main conference registration fee will be refunded 4-6 weeks after the conference assuming that you complete all of your volunteer hours.
+* **STEP 2**: SEPARATELY register for the SIGCSE symposium as a student. Note you will need to pay the registration fee and the costs of any additions to registration (e.g., workshop), but the main conference registration fee will be refunded 4-6 weeks after the conference assuming that you complete all of your volunteer hours.
 
 {% callout warning %}
 Please note that while in previous years we have been able to accept everyone who registered in December and January and often anyone interested, we cannot guarantee that this is the case every year. Please try to register as early as possible (you can provide your availability for shifts closer to the conference start as we understand that it can take a little while to arrange travel).
@@ -45,6 +43,18 @@ Assuming you have successfully completed your volunteer duties as signed off by 
 * If your registration was paid by credit card, your refund will be processed anywhere from two to four weeks after the conference ends.
 
 * If your registration was paid by cheque, your refund will be a cheque issued via ACM, which may take up to one month after the conference is over.
+
+## Institutional Coordinators
+
+<em>SIGCSE Symposium Student Volunteer Policy for schools that send more than four undergraduate student volunteers to SIGCSE</em>
+
+The SIGCSE Symposium relies on its student volunteer corps for the success of the conference.  Hence, we are particularly grateful to the schools that bring larger cohorts of student volunteers.  To ensure the best experience for student volunteers, institution faculty, and the Student Volunteer Coordinators, schools that provide more than four undergraduate students volunteers must designate a single Institutional Coordinator for all the student volunteers from that institution who must fulfill the following responsibilities.
+
+* The Institutional Coordinator must attend SIGCSE and be available via cell phone and email during the conference.
+* When possible, the Institutional Coordinator should accompany the volunteers to the Student Volunteer Headquarters when the students check in.
+* The Institutional Coordinator must attest to the ability of each of their students to accomplish the tasks expected of student volunteers.  If appropriate, the contact may also meet with one of the Student Volunteer Coordinators for a confidential discussion of roles that might prove difficult for a student so that we can identify more appropriate roles.
+
+If an institution does not designate a coordinator, we may limit the number of volunteers from that institution.  In addition, schools that do not designate an Institutional Coordinator or whose students do not perform their tasks reliably risk losing Student Volunteer privileges in future years.
 
 ## Frequently Asked Questions
 

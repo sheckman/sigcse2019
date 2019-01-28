@@ -1,0 +1,176 @@
+- day: Thursday
+  date: 2/28/19
+  events:
+    - supporter: Microsoft
+      title: Create Classroom Labs in the Cloud
+      time: 10:45 AM – 12:00 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: Ji Eun Kwon
+          affiliation: Microsoft Corporation
+      abstract: |
+        Hands-on learning is often the best teacher, especially for computer science students who need exposure to various systems and software. Come join this interactive session to learn how easy it is to create classroom labs in Azure. Azure Lab Services is a service that enables educators to easily create labs of virtual machines in Azure, without having to master the complexities of setting up cloud infrastructure.
+        
+        As educators, you can specify the exact machine setup you want to roll out to your students. You can spin up/tear down classroom labs on demand. Minimize costs by monitoring and controlling the usage of the machines. Students go to a single place to access all the virtual machines they are given across multiple labs, and connect from there to do day-to-day work, short-term projects, or classroom exercises.
+        
+        We will provide live demos and open the room for discussions.
+
+    - supporter: Google
+      title: "Content, Curricula, and Career Readiness: New Offerings from Google"
+      time: 10:45 AM – 12:00 PM
+      room: Lakeshore B
+      presenters:
+        - presenter: Kim Roberts
+          affiliation: Google
+        - presenter: Emily Kemp 
+          affiliation: Google
+        - presenter: Chris Stephenson 
+          affiliation: Google
+      abstract: "This session focuses on three free Google resources to address challenges CS faculty and departments are facing. Attendees will learn about programs and opportunities including Applied Computing Science: our on-campus introductory computer and data science courses and a 10-week immersive machine learning summer program. We will share information on Google’s AI-First mission, providing a holistic overview of our strategy to democratize machine learning education for tech and non-tech audiences, and in multiple formats to meet different learning needs. And, we’ll describe V3.0 of the Guide for Student Technical Development, including new content on Machine Learning and Computing in the Cloud.  And as always, we hope you will come and meet with Googlers and share with us how we can better help you and your students."
+
+    - supporter: "Turing's Craft, Inc."
+      title: "Customized Auto-Grading and Homework Project Management with CodeLab"
+      time: 1:45 PM – 3:00 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: David Arnow
+          affiliation: Professor of Computer and Information Science, Brooklyn College
+      abstract: |
+        CodeLab is an online, automated, interactive learning tool for students in programming courses. The CodeLab service provides hundreds of very short, focused coding exercises that help students gain mastery over the syntax, semantics and common usage patterns of language constructs and programming ideas. Code submissions for each exercise are automatically checked for correctness and students are given relevant hints in case of incorrect code.
+        
+        Building on this platform, Turing's Craft has introduced a highly flexible, comprehensive, easy-to use system that allows faculty to create their own auto-graded homework programming projects, with support for individualized grading and student-instructor communication. It's easier than ever for instructors to build, assign, establish due dates for, and optionally review any programming assignment. Projects may vary from fragments of code to full programs that involve both interactive and file i/o.
+        
+        This session completely illustrates the process of creating, deploying, and grading homework projects.
+
+    - supporter: GitHub
+      title: "Get to near-total automation with GitHub: Teacher stories"
+      time: 1:45 PM – 3:00 PM
+      room: Lakeshore B
+      presenters:
+        - presenter: Dr. Dan Wallach
+          affiliation: Rice University
+        - presenter: Dr. Paul Salvador Inventado
+          affiliation: California State University Fullerton
+        - presenter: Vanessa Gennarelli
+          affiliation: GitHub Education
+
+      abstract: |
+        Dr. Dan Wallach was looking for a scalable, reliable solution for his course: In 2015 the peak loads from his students’ work crashed their campus Subversion server, forcing them to extend their deadlines and ultimately run a private server, requiring significant assistance from Rice’s IT group. So he tried GitHub Classroom in 2017, and now uses for his 200-level course at Rice University. 
+        
+        Dr. Paul Salvador Inventado has 60 - 120 students per semester at California State University, Fullerton, and that’s a lot of checking. Inventado combines the use of a unit-testing framework with GitHub Classroom to automate the automatables: problem assignment, feedback, and checking. His research focuses on problem set generation, unit-testing, and machine learning. He is also a certified GitHub Campus Advisor.
+
+    - supporter: ZyBooks 
+      title: Is your CS course too complex? How are you handling growth?
+      time: 3:45 PM – 5:00 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: Smita Bakshi, Ph.D
+          affiliation: CEO/co-founder
+        - presenter: Frank Vahid, Ph.D
+          affiliation: Co-founder/Prof UC Riverside
+        - presenter: Roman Lysecky, Ph.D
+          affiliation: Authoring Co-Lead/Prof University of Arizona
+        - presenter: Alex Edgcomb, Ph.D
+          affiliation: Sr. Software Engineer/Research Specialist UC Riverside
+      abstract: |
+        "Programming is hard, but all the logins are harder" -- Said by a UCR student
+
+        Instructors often don't realize how complex CS courses have become ("feature creep"). zyBooks provide an outstanding interactive textbook, auto-grading homework system, and program auto-grader, all seamlessly integrated into ONE platform (with only one login -- or none via LMS integration). That's a key reason nearly all faculty come back, and why students ask to access our zyBooks even if their professor is using a different book. We'll show how our comprehensive solution leads to smooth courses that students love -- even if hard.
+        
+        "I enjoy grading programs" -- Said by nobody
+        
+        CS is experiencing explosive growth, which pushes our grading resources to the limit. Auto-grading saves huge amounts of time. Students get more practice and immediate feedback, so they can improve quickly. We've learned how to do auto-grading even better, like with automated hints in homework problems, or using many small programs in CS1. We'll show how easy it is to create auto-graded programming assignments, and tell you about our large set of zyBooks-maintained labs -- so you can focus on the parts of teaching you really enjoy. 
+
+    - supporter: Google
+      title: Teaching with the Cloud
+      time: 3:45 PM – 5:00 PM
+      room: Lakeshore B
+      presenters:
+        - presenter: Laurie White
+          affiliation: Google
+      abstract: |
+        Cloud computing makes many different resources available to students in a variety of courses. Learn from professors who use cloud tools to support their courses in programs from community colleges to PhD programs in both cloud-specific courses and as part of other subject areas. This session will also include a brief overview of the Google Cloud Platform Education and Research Grants program which makes Google's cloud resources free for higher education classroom use in the US, Canada, and numerous countries around the world.
+
+    - supporter: ABET
+      title: Computer Science Accreditation - What You Should Know
+      time: 5:30 PM – 6:20 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: John K. Estell
+          affiliation: Ohio Northern University
+        - presenter: David S. Gibson
+          affiliation: United States Air Force Academy
+        - presenter: Rajendra Raj
+          affiliation: Rochester Institute of Technology
+      abstract: |
+        This session will describe ABET’s recently updated program evaluation criteria for computer science and related programs.  Attendees from currently accredited programs will learn about significant changes to ABET’s program evaluation criteria impacting computer science program reviews conducted in the 2019-2020 academic year and beyond. Attendees from institutions considering program accreditation will learn about the value of ABET accreditation to schools, students, and employers.
+        
+        ABET’s updated computing criteria reflects recent developments in computing disciplines as reflected in ACM and IEEE Computer Society curriculum guidelines, including the Curriculum Guidelines for Undergraduate Programs in Computer Science (CS2013).  While focusing on criteria specific to computer science programs, we will also touch on the changes affecting all computing programs in general.  We also will offer advice on transitioning from ABET’s current criteria to its new criteria for programs seeking reaccreditation in the next few years.
+
+    - supporter: Mimir
+      title: How FLCC uses Mimir Classroom and OER to improve course outcomes
+      time: 5:30 PM - 6:20 PM
+      room: 
+      presenters:
+        - presenter: Prahasith Veluvolu
+          affiliation: Founder of Mimir
+        - presenter: Dave Ghidiu
+          affiliation: Assistant Professor of Computing Sciences, Finger Lakes Community College
+      abstract: |
+        Assistant Professor of Computing Sciences, Dave Ghidiu of Finger Lakes Community College (FLCC), has been using Mimir Classroom to automate grading, reduce plagiarism, and efficiently teach computer science. Ghidiu also pairs open educational resources (OER) with Mimir Classroom to improve course outcomes. Since 2014, thousands of students, like Ghidiu, have been using the platform at more than 75 universities and have seen an 11% boost on average in final exam scores.
+        
+        To open this session, CEO Prahasith Veluvolu will explain how Mimir is helping instructors, like Ghidiu, meet class size demand while offering free, pre-loaded curriculum through Mimir Classroom. Ghidiu will elaborate on his user experience, the 3-minute average response time he receives from support, and how he utilizes 40 languages, frameworks, and databases to teach his students. Veluvolu will highlight features in Mimir Classroom that have helped universities like Northern Kentucky University, Quinnipiac University, and Michigan State University optimize their courses.
+        
+        Learn more about Mimir Classroom before the conference by visiting www.mimirhq.com/sigcse2019.
+
+    - supporter: IBM
+      title: Shortcuts for keeping your CS Curriculum Current
+      time: 6:30 PM - 7:20 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: Misty Decker
+          affiliation: IBM
+        - presenter: Valinda Kennedy
+          affiliation: IBM
+      abstract: |
+        CS Technology changes so fast, it's impossible to keep your curriculum current with technologies such as: Artificial Intelligence, Data Science, Blockchain, Cloud- Cybersecurity, and Open Source technologies.
+        
+        Did you know that companies like IBM need to educate our clients on these new technologies and you can use many of the same resources in your classroom free of charge? Join us for a tour of the wide variety of resources available including Course Materials, Open Badges, Case Studies and Cloud Resources.
+        
+        Bonus: You'll find many of our courses are also useful for educators looking to upgrade their own skills and earn official credentials. Bring your phone or your laptop so you can easily save links to your favorite materials.
+
+- day: Friday
+  date: 2/29/19
+  events: 
+    - supporter: Intel
+      title: Jump start parallel programing education in data science, artificial intelligence and more
+      time: 10:45 AM – 12:00 PM
+      room: Lakeshore A
+      presenters:
+        - presenter: Henry Gabb
+          affiliation: Senior Principle Engineer, Intel
+      abstract: |
+        Henry Gabb is a senior principal engineer at Intel Corporation. Among other things, he is the editor of The Parallel Universe, Intel’s quarterly magazine for software innovation. Henry first joined Intel in 2000 to help drive parallel computing inside and outside the company. Prior to joining Intel, Henry was Director of Scientific Computing at the U.S. Army Engineer Research and Development Center MSRC, a Department of Defense high-performance computing facility. Henry holds a BS in biochemistry from Louisiana State University, an MS in medical informatics from the Northwestern Feinberg School of Medicine, and a PhD in molecular genetics from the University of Alabama at Birmingham School of Medicine. He has published extensively in computational life science and high-performance computing. Henry recently rejoined Intel after spending four years working on a second PhD in information science at the University of Illinois at Urbana-Champaign.
+        
+        Solving the biggest challenges in science, industry and society requires dramatic increases in computing efficiency. Today’s applications must be parallelized to unlock the benefits of current and future hardware with the use of key software enablement tools. In this session, we will share resources that address educating the next generation of programmers, researchers, scientist, etc. through providing attendees with information focused on the different Intel architectures, programming models, algorithms, etc. Including, the sharing of resources for accessing various hardware, free software licenses offered to educators and students, educational content for teaching Parallel Programming, Data Science and Artificial Intelligence (machine and deep learning). By the end of this session, attendees will receive training materials for K-12 STEM initiatives, academic curriculum (undergraduate and graduate levels), and scientific research using real case study examples for hands-on experiments.
+
+    - supporter: Microsoft
+      title: Microsoft MakeCode Arcade
+      time: 1:45 PM – 3:00 PM
+      room: 
+      presenters:
+        - presenter:  Jacqueline Russell
+          affiliation: Microsoft Corporation
+      abstract: |
+        Come join us to learn about the new Microsoft MakeCode Arcade platform - a 2D game development environment entirely online and free. In this workshop, attendees can expect to get hands-on creating simple sprite-based games using Microsoft MakeCode, download their games to hardware, and get access to open-source curriculum and resources they can use in the classroom. No prior experience required.
+
+    - supporter: CODIO
+      title: "Codio: a powerful, flexible platform for instructors to deliver and assess student learning experiences"
+      time: 1:45 PM – 3:00 PM
+      room: Lakeshore B
+      presenters:
+        - presenter: Ellise Deitrick
+          affiliation: Director of Curricula and Education Programs, Codio
+      abstract: |
+        Codio introduces their newest pedagogical tools built-in to the platform, including quality content, an auto-graded assessment library mapped to learning objectives, and the ability to customize student learning experiences. All of these features are on top of a platform designed to scale: (1) LMS integration including support for courses run on MOOC platforms such as edX or Coursera, (2) cloud-based IDEs/boxes the instructor configures, (3) integrated content-delivery to allow a variety of pedagogical approaches from blended/flipped to self-paced learning, (4) multi-modal content and assessment delivery, and (5) free support, including access to trained computer science professionals.
+

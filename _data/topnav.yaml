@@ -66,43 +66,52 @@
   subheads:
    - name: Conference Policies
      link: /policies.html
-   - name: Venue Information
-     link: /attendees/index.html
-#   - name: Registration and Rates
-#     link: /attendees/index.html#registering    
-   - name: Hotels
-     link: /attendees/index.html#reserving-a-room
+   - name: Registration and Rates
+     link: /attendees/index.html#registering    
+   - name: Hotels 
+     link: /attendees/index.html#conference-hotels
+     divider: true
+
 #   - name: Roommate Database
 #     link: /attendees/index.html#roommatedb
 #   - name: Transportation
 #     link: /attendees/index.html#travel
-#   - name: Student Volunteers
-#     link: /info/studentvolunteers.html
-#     divider: true
-#   - name: SIGCSE 2019 Full Schedule
-#     link: http://sigcse2019.sigcse.org/agenda.html
+   - name: Student Volunteers
+     link: /info/studentvolunteers.html
+     divider: true
+   - name: SIGCSE 2019 Online Program
+     link: https://whova.com/embedded/event/sigcs_201902/
 #   - name: SIGCSE 2019 At-A-Glance
 #     link: /attendees/at-a-glance.html   
-#   - name: SIGCSE 2019 Best Papers
-#     link: /attendees/bestpapers.html
+   - name: SIGCSE 2019 Best Papers
+     link: /attendees/bestpapers.html
 #   - name: Presenter Information
 #     link: /attendees/presenter.html
 #   #- name: Conference Program
 #   #  link: http://easychair.org/smart-program/SIGCSE2018/
-#   - name: Workshops
-#     link: /attendees/workshops.html   
-#     divider: true
-#   - name: Baltimore Visitor Information
-#     link: /attendees/visitor-info.html
-  
+   - name: Workshops
+     link: /attendees/workshops.html   
+   - name: Pre-Symposium Events
+     link: /attendees/presymposium.html
+   - name: Supporter Sessions
+     link: /attendees/supporter-sessions.html
+   - name: Exhibitor Map
+     link: info/floorplan.html     
+   - name: Dept. Chairs' Roundtable
+     link: /attendees/chairs-roundtable.html
+   - name: SIGCSE Visualization
+     link: /attendees/visualization.html
+     divider: true
+   - name: Minneapolis Visitor Information
+     link: /attendees/visitor-info.html
+   - name: Kids' Camp
+     link: /attendees/kidscamp.html  
     # - name: Online Program
     #   link: http://easychair.org/smart-program/SIGCSE2017/
     # - name: Final Program (PDF)
     #   link: /docs/sigcse2017-program.pdf
     # - name: Best and Exemplary Papers
     #   link: /docs/sigcse2017-best-paper-and-exemplary-paper-awards.pdf
-    # - name: Pre-Symposium Events
-    #   link: /attendees/presymposium.html
     # - name: Supporter Sessions
     #   # link: /attendees/supporters.html
     #   link: /attendees/supporters.html
@@ -119,8 +128,6 @@
     # - name: Conference Proceedings
     #   link: http://dl.acm.org/citation.cfm?id=3017680
     #   divider: true
-    #- name: Kids' Camp
-    # link: /attendees/kidscamp.html
     #   divider: true
 
 - name: For Exhibitors
@@ -173,5 +180,5 @@
       link: /info/committees.html#OrganizingCommittee
     - name: International Committee
       link: /info/committees.html#InternationalCommitteeMembers
-#    - name: Associate Program Chairs
-#      link: /info/committees.html#ProgramCommittee
+    - name: Associate Program Chairs
+      link: /info/committees.html#AssociateProgramChairs

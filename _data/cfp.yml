@@ -68,7 +68,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 5, 2018"
     updates:
-    cameraready: "Wednesday, December 5, 2018"
+    cameraready: "Saturday, December 1, 2018"
     abstractdue: "Friday, August 24, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     abstractlink: "https://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180824T2359&p1=3399"
@@ -81,7 +81,7 @@ master:
   - time: "23:59 AoE (Baker Island, UTC-12h)"
     notification: "Friday, October 5, 2018"
     updates:
-    cameraready: "Wednesday, December 5, 2018"
+    cameraready: "Saturday, December 1, 2018"
     link: "http://www.timeanddate.com/worldclock/fixedtime.html?msg=SIGCSE+2019+Paper+Deadline&iso=20180831T2359&p1=3399"
     track: track1
     types:
