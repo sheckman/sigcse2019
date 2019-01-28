@@ -24,16 +24,16 @@ or loading it into DrRacket and hitting "Run"
 
 
 
-
 {% comment %}
+
 <!-- 
 DAY,NUMBER,TIME,COMPANY,LEVEL,SESSION TITLE,ROOM,PRESENTERS,CONTENT
 -->
 
 {% for day in site.data.supporter-sessions-2019 %}
 <div class = "row">
-  <div class = "alert alert-info" style="margin-top: 23px">
-	<h2 style="color: #ffffff">{{day["day"]}} - {{day["date"]}}</h2>
+  <div class = "alert alert-info" style="margin-top: 20px">
+	<h3 style="color: #ffffff">{{day["day"]}} - {{day["date"]}}</h3>
 </div>
 </div>
   {% for ws in day["events"] %}

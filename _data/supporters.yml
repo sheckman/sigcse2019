@@ -13,6 +13,7 @@ Platinum:
      link: "https://microsoft.com/"
     
 Gold:
+
    - name: "Codio"
      image: codio-200.png
      link: "https://codio.com/"
@@ -21,7 +22,6 @@ Gold:
 #     link: "http://ibm.com"
    - name: "Intel"
      image: intel-200.png
-     link: "https://intel.com/"
 
    - name: "Oracle Academy"
      image: oracle-2019-200.png

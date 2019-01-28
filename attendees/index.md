@@ -83,6 +83,7 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student <b>&starf;</b> </div>
+
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
@@ -149,7 +150,7 @@ NOTE: Registration is unavailable from Feb 21-Feb 26.
 All times related to registration are in the <a href="https://www.timeanddate.com/time/zones/cst" title="IAU: No, there's nothing we can do about it.">CST timezone</a>. This is a side-effect of the registration software being used. 
 
 <div class = "row" style = "padding-bottom: 5;">&nbsp;</div>
-
+<!--
 #### Workshop Registration
 
 <div class = "row" style = "font-weight: bold;">

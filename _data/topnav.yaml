@@ -85,6 +85,8 @@
 #     link: /attendees/at-a-glance.html   
    - name: SIGCSE 2019 Best Papers
      link: /attendees/bestpapers.html
+   - name: SIGCSE 2019 Authors & Speakers
+     link: /attendees/speakers.html
 #   - name: Presenter Information
 #     link: /attendees/presenter.html
 #   #- name: Conference Program
@@ -96,7 +98,7 @@
    - name: Supporter Sessions
      link: /attendees/supporter-sessions.html
    - name: Exhibitor Map
-     link: info/floorplan.html     
+     link: /info/floorplan.html     
    - name: Dept. Chairs' Roundtable
      link: /attendees/chairs-roundtable.html
    - name: SIGCSE Visualization
