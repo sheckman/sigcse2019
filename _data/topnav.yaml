@@ -98,7 +98,7 @@
    - name: Supporter Sessions
      link: /attendees/supporter-sessions.html
    - name: Exhibitor Map
-     link: info/floorplan.html     
+     link: /info/floorplan.html     
    - name: Dept. Chairs' Roundtable
      link: /attendees/chairs-roundtable.html
    - name: SIGCSE Visualization
