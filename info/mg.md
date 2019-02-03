@@ -9,7 +9,7 @@ layout: default
 
 # Mark Guzdial
 
-Recipient of the 2019 SIGCSE award for Outstanding Contribution to CS Education
+Recipient of the 2019 SIGCSE Award for Outstanding Contribution to CS Education
 <br>
 Professor of Computer Science & Engineering
 <br>
