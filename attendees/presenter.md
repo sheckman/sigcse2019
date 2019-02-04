@@ -17,6 +17,23 @@ Please follow the [SIGACCESS Guidelines](http://www.sigaccess.org/welcome-to-sig
 * Share your contact information, and
 * Download your slides, videos, and sounds locally on your computer; don't depend on wifi for your presentation.
 
+### Session Lengths
+Presentation lengths vary by presentation type:
+
+* Paper Presentations: 20 minute presentation followed by 5 minutes for questions
+* Panels: 75 minutes
+* Special Sessions: 75 minutes
+* Workshops: 3 hours
+* ACM Student Research Competition:
+    * Poster: 4 hours
+	* Semi-finalist presentation: 10 minute presentation followed by 5 minutes of questions
+* BOFs: 50 minutes
+* Demos: 45 minutes
+* Lightning Talks: 5 minutes
+* Nifty Assignments: 75 minutes / # of speakers
+* Posters: 2 hours
+
+### Conference Policies for Presenters
 
 Remember to follow [SIGCSE Conference Policies](https://sigcse2019.sigcse.org/policies.html) and the [ACM Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment). 
 
