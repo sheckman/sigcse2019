@@ -1,7 +1,7 @@
 ---
 title: For Attendees
 showTitle: true
-cancellation_date: "February 22, 2019"
+cancellation_date: "February 13, 2019"
 reg_open_short: "TBA"
 nav:
   - text: Registration Information
