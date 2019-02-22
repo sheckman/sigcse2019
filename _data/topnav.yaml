@@ -81,6 +81,8 @@
      divider: true
    - name: SIGCSE 2019 Online Program
      link: https://whova.com/embedded/event/sigcs_201902/
+   - name: SIGCSE 2019 Proceedings
+     link: https://dl.acm.org/citation.cfm?id=3287324
 #   - name: SIGCSE 2019 At-A-Glance
 #     link: /attendees/at-a-glance.html   
    - name: SIGCSE 2019 Best Papers
