@@ -66,6 +66,8 @@
   subheads:
    - name: Conference Policies
      link: /policies.html
+   - name: Accessibility
+     link: /attendees/accessibility.html
    - name: Registration and Rates
      link: /attendees/index.html#registering    
    - name: Hotels 
