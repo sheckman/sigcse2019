@@ -27,20 +27,20 @@ A: Please see [SIGCSE’s Minneapolis Visitor Information](https://sigcse2019.si
      * [Aira subscribers get free remote assistance at the MSP airport](http://www.mspairport.com/airport/accessibility/blind-or-low-vision)
      * [Deaf and Hard of hearing airport services ](http://www.mspairport.com/airport/accessibility/deaf-and-hard-hearing)
   * Taxi and shuttle services with wheelchair-accessible vans at the same rate as a standard taxis:
-     * [SuperShuttle](https://www.supershuttle.com/locations/minneapolis-stpaul-msp/)
-       Approximate Fee: $17
-       Phone: 1(800) 258-3826
-       TDD:(877) 215-9262
-     * [Yellow Taxi](http://www.yellowtaxicabmn.com/)
-       Approximate Fee: 
-       Phone: (612) 644-6569
-     * [Suburban Green and White Taxi](http://www.suburbantaxi.com/)
-       Approximate Fee: $35
-       Phone: (651) 222-2222
-     * [Metro Mobility: ](https://metrocouncil.org/Transportation/Services/Metro-Mobility-Home/Eligibility-Certifications.aspx)
-       Approximate Fee: Free with pre approved paperwork
-       Phone: (651) 602-1000
-       Note: Visitor approval requires submitting paperwork from local Para-Transit/ADA service. Fax visitor status information to (651) 602-1660 or emailed to cheryl.schmidt@metc.state.mn.us. For more information call 651-602-1111 and request to speak to Cheryl. 
+     * [SuperShuttle](https://www.supershuttle.com/locations/minneapolis-stpaul-msp/)<br>
+       Approximate Fee: $17<br>
+       Phone: 1(800) 258-3826<br>
+       TDD:(877) 215-9262<br>
+     * [Yellow Taxi](http://www.yellowtaxicabmn.com/)<br>
+       Approximate Fee: <br>
+       Phone: (612) 644-6569<br>
+     * [Suburban Green and White Taxi](http://www.suburbantaxi.com/)<br>
+       Approximate Fee: $35<br>
+       Phone: (651) 222-2222<br>
+     * [Metro Mobility: ](https://metrocouncil.org/Transportation/Services/Metro-Mobility-Home/Eligibility-Certifications.aspx)<br>
+       Approximate Fee: Free with pre approved paperwork<br>
+       Phone: (651) 602-1000<br>
+       Note: Visitor approval requires submitting paperwork from local Para-Transit/ADA service. Fax visitor status information to (651) 602-1660 or emailed to cheryl.schmidt@metc.state.mn.us. For more information call 651-602-1111 and request to speak to Cheryl.
   * General accessible public transportation information: 
      * [Accessible public transit information](https://www.metrotransit.org/accessibility)
      * [FAQs](https://www.disability.state.mn.us/information-and-assistance/transportation-faq/) on accessibility for public transportation in Minneapolis
