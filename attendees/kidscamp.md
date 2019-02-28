@@ -77,4 +77,4 @@ around the theme of **Superheroes**.-->
 
 ### Nursing Moms
 
-A private area will be available for nursing moms, details TBA.
+A private area will be available at the Hyatt for nursing moms. Any conference attendee can ask at the Hyatt front desk and you will be directed to the room. This room is available for you even if you are not staying at the Hyatt.
