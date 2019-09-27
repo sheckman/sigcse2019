@@ -83,7 +83,6 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
 </div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Student <b>&starf;</b> </div>
-
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
     <div class = "col-sm-2"> $80 </div>
@@ -130,7 +129,12 @@ But wait! There's more! <b>Student volunteers</b> get reimbursed for their confe
     <div class = "col-sm-2"> $475 </div>
     <div class = "col-sm-2"> $525 </div>
 </div>
-
+<div class = "row" style="padding-top: 15px;">
+    <div class = "col-sm-6"> Non-ACM/SIG Students </div>
+    <div class = "col-sm-2"> $95 </div>
+    <div class = "col-sm-2"> $95 </div>
+    <div class = "col-sm-2"> $95 </div>
+</div>
 <div class = "row" style="padding-top: 15px;">
     <div class = "col-sm-6"> Exhibits Only </div>
     <div class = "col-sm-2"> $75 </div>
